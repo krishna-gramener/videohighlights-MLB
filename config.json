@@ -1,0 +1,306 @@
+{
+  "videos": {
+    "gi-cancer-asco-2024-practice-changing": {
+      "source": "asco",
+      "title": "GI Cancer ASCO 2024 Practice Changing",
+      "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/gi-cancer-asco-2024-practice-changing",
+      "video": "https://www.asco.org/videos/gi-cancer-asco-2024-practice-changing",
+      "youtube": "bhVDYM0U-5E",
+      "transcript": "videos/gi-cancer.json"
+    },
+    "asco-2024-and-esmo-gi-2024": {
+      "source": "asco-esmo",
+      "title": "ASCO-ESMO GI 2024",
+      "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/asco-esmo-gi-2024",
+      "video": "https://www.asco.org/videos/asco-esmo-gi-2024",
+      "youtube": "wfOO5BXBrhc",
+      "transcript": "videos/asco-esmo-gi-2024.json"
+    },
+    "ucsf-bay-area-breast-cancer": {
+      "source": "ucsf",
+      "title": "UCSF Bay Area Breast Cancer",
+      "url": "https://www.ucsf.edu/news/2023/09/ucsf-bay-area-breast-cancer",
+      "video": "https://www.ucsf.edu/video/ucsf-bay-area-breast-cancer",
+      "youtube": "JyYo6Z2cWrk",
+      "transcript": "videos/ucsf-bay-area-breast-cancer.json"
+    }
+  },
+  "advisors": {
+    "rachel-green": {
+      "img": "img/jane-doe.webp",
+      "name": "Rachel Green",
+      "role": "Senior Manager, Brand/Product Strategy",
+      "age": 38,
+      "background": "MBA in Marketing, 12 years in the pharmaceutical industry, focusing on oncology.",
+      "specialties": "Market positioning, brand lifecycle management, cross-functional collaboration.",
+      "clientele": "Healthcare professionals, advocacy groups, and patient networks.",
+      "goals": "Identify market opportunities and create impactful strategies for oncology products.",
+      "challenges": "Addressing competition, staying updated with clinical advancements, and tailoring brand messages.",
+      "interests": "New treatment options, emerging clinical data, market differentiation, patient advocacy insights, competitive landscape analysis, treatment access strategies.",
+      "highlights": {
+        "gi-cancer-asco-2024-practice-changing": [
+          {
+            "p": "Rachel, the S-EPEC study's selection as a plenary presentation at ASCO 2024 provides a unique opportunity for impactful scientific exchange with your oncologist partners. You can leverage these findings to facilitate discussions about evolving treatment paradigms in esophageal adenocarcinoma, particularly the shift from traditional concurrent chemoradiation to perioperative approaches. This positions you as a valuable resource for clinicians adapting to changing standards.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The study's insights on treatment completion rates - 90% for preoperative FLOT versus 50% for postoperative therapy - offer crucial data points for your KOL engagement activities. Use these statistics to drive meaningful discussions about treatment sequencing, patient selection, and the importance of supportive care. This evidence-based approach can strengthen your relationships with research institutions and support their clinical decision-making.",
+            "start_time": 112.4
+          },
+          {
+            "p": "The historical context provided, from CROSS in 2012 to current debates about perioperative chemotherapy, demonstrates the field's rapid evolution. You can use this perspective to enrich your scientific presentations and foster discussions about future trial designs. This is particularly relevant when addressing the challenges of conducting clinical trials in an environment where standards of care are continuously evolving.",
+            "start_time": 186.1
+          },
+          {
+            "p": "The discussion of improved supportive care measures provides valuable context for your research collaborations. You can utilize this information to facilitate discussions about optimizing trial protocols and patient care strategies. This aligns perfectly with your goal of driving scientific exchange while addressing the practical challenges of implementing new treatment approaches.",
+            "start_time": 336.64
+          }
+        ],
+        "asco-2024-and-esmo-gi-2024": [
+          {
+            "p": "Rachel, as an MSL, Dr. Kuttner's overview of the latest ASCO and ESMO GI updates provides valuable insights for your KOL interactions. The presentation's focus on Debbie's Dream Foundation's research initiatives and advocacy work offers context for discussing the broader impact of clinical research.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The discussion of clinical trial outcomes and their implications for treatment guidelines aligns perfectly with your role in facilitating scientific exchange. Use these insights to enhance your conversations about emerging treatment paradigms.",
+            "start_time": 188.62
+          },
+          {
+            "p": "The presentation's emphasis on patient advocacy and research collaboration creates opportunities for meaningful discussions about collaborative research initiatives and the importance of patient-centered trial design.",
+            "start_time": 312.56
+          },
+          {
+            "p": "Dr. Kuttner's insights on translating research findings into clinical practice provide valuable context for your educational initiatives with healthcare providers, particularly in discussing implementation of new treatment approaches.",
+            "start_time": 497.48
+          }
+        ],
+        "ucsf-bay-area-breast-cancer": [
+          {
+            "p": "The UCSF team's multidisciplinary approach to discussing ASCO 2024 breast cancer updates demonstrates the importance of collaborative care, which you can leverage in your MSL role to facilitate cross-functional discussions.",
+            "start_time": 39.34
+          },
+          {
+            "p": "Their discussion of surgical innovations and clinical trial results provides you with current, evidence-based information to share during your scientific exchanges with oncology specialists.",
+            "start_time": 167.92
+          },
+          {
+            "p": "The presentation's focus on patient-centered research and treatment optimization aligns with your goal of bridging the gap between clinical research and practical implementation.",
+            "start_time": 317.98
+          },
+          {
+            "p": "The interactive Q&A format offers insights into common clinical questions and concerns, helping you anticipate and address similar topics in your KOL discussions.",
+            "start_time": 519.48
+          }
+        ]
+      }
+    },
+    "david-wilson": {
+      "img": "img/michael-brown.webp",
+      "name": "David Wilson",
+      "role": "Regional MSL, Oncology",
+      "age": 45,
+      "background": "PharmD, 15 years in medical affairs, with 8 years specializing in gastrointestinal oncology.",
+      "specialties": "Stakeholder engagement, KOL (Key Opinion Leader) management, education delivery.",
+      "clientele": "Oncologists, surgeons, and research coordinators.",
+      "goals": "Build relationships with KOLs, ensure accurate dissemination of medical information, and support clinical education.",
+      "challenges": "Translating complex data into actionable insights, maintaining credibility, and addressing tough scientific questions.",
+      "interests": "Immunotherapy breakthroughs, chemotherapy advancements, clinical trial data, treatment guidelines, and patient case studies.",
+      "highlights": {
+        "gi-cancer-asco-2024-practice-changing": [
+          {
+            "p": "David, as a Regional MSL in Oncology, the S-EPEC study's plenary presentation offers valuable insights for your educational initiatives with oncologists and surgeons. The findings on treatment sequencing in esophageal adenocarcinoma provide crucial data to support your role in disseminating accurate medical information and guiding clinical decision-making.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The study's detailed analysis of treatment completion rates (90% for preoperative FLOT vs 50% for postoperative therapy) offers concrete evidence to enhance your KOL discussions. This data helps address practical concerns about treatment sequencing and patient management, supporting your goal of translating complex data into actionable insights for healthcare providers.",
+            "start_time": 112.4
+          },
+          {
+            "p": "The evolution from CROSS protocol to current standards demonstrates the field's progress and challenges. Use this historical perspective to enrich your stakeholder engagement activities, particularly when discussing the rationale behind current treatment approaches and addressing questions about the changing landscape of GI cancer management.",
+            "start_time": 186.1
+          },
+          {
+            "p": "The emphasis on improved supportive care measures aligns perfectly with your role in clinical education. These insights can strengthen your discussions about optimizing patient outcomes, helping clinicians understand how modern supportive care strategies can enhance treatment tolerability and completion rates.",
+            "start_time": 336.64
+          }
+        ],
+        "asco-2024-and-esmo-gi-2024": [
+          {
+            "p": "David, the presentation's comprehensive review of GI cancer updates from both ASCO and ESMO provides crucial information for your role as Regional MSL. Focus on how these findings impact treatment selection and patient care protocols.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The discussion of research funding and clinical trial development offers valuable context for your educational initiatives, particularly in explaining the evolution of treatment approaches to healthcare providers.",
+            "start_time": 188.62
+          },
+          {
+            "p": "Dr. Kuttner's analysis of trial outcomes and their clinical implications provides you with evidence-based information to enhance your interactions with oncology specialists and support informed decision-making.",
+            "start_time": 312.56
+          },
+          {
+            "p": "The emphasis on patient advocacy and research collaboration aligns with your role in facilitating connections between clinical research and practical implementation of new treatments.",
+            "start_time": 497.48
+          }
+        ],
+        "ucsf-bay-area-breast-cancer": [
+          {
+            "p": "The multidisciplinary discussion format demonstrates effective collaboration between specialties, providing a model for your own cross-functional educational initiatives.",
+            "start_time": 39.34
+          },
+          {
+            "p": "Their analysis of clinical trial results and treatment innovations offers valuable insights for your discussions about evidence-based medicine and treatment optimization.",
+            "start_time": 167.92
+          },
+          {
+            "p": "The focus on translating research findings into clinical practice aligns with your goal of supporting healthcare providers in implementing new treatment approaches.",
+            "start_time": 317.98
+          },
+          {
+            "p": "The interactive session highlights common clinical challenges and solutions, providing practical insights for your educational outreach efforts.",
+            "start_time": 519.48
+          }
+        ]
+      }
+    },
+    "emily-harper": {
+      "img": "img/emily-turner.webp",
+      "name": "Emily Harper",
+      "role": "Manager, Medical Scientific Communications",
+      "age": 33,
+      "background": "MSc in Scientific Writing, 8 years of experience in oncology publications and educational materials.",
+      "specialties": "Publication planning, scientific messaging, and cross-team collaboration.",
+      "clientele": "Internal stakeholders (medical affairs, R&D) and external audiences (HCPs, journals).",
+      "goals": "Develop clear, accurate, and impactful scientific content aligned with regulatory standards.",
+      "challenges": "Managing timelines, ensuring message consistency, and synthesizing complex data for diverse audiences.",
+      "interests": "Novel treatment mechanisms, clinical trial results, storytelling with data, effective slide deck preparation, compliance in medical communications.",
+      "highlights": {
+        "gi-cancer-asco-2024-practice-changing": [
+          {
+            "p": "Emily, the S-EPEC study's plenary presentation provides excellent material for your medical communications strategy. The clear progression of treatment standards in esophageal adenocarcinoma offers an opportunity to create compelling, accurate scientific content that resonates with both internal stakeholders and external audiences.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The comparative data on treatment completion rates presents a perfect opportunity to demonstrate your expertise in synthesizing complex information. You can create clear, impactful messaging about the practical implications of treatment sequencing, using the 90% vs 50% completion rates to illustrate key points in your educational materials.",
+            "start_time": 112.4
+          },
+          {
+            "p": "The historical context, from CROSS to current standards, provides an excellent narrative framework for your scientific messaging. This evolution can be effectively incorporated into slide decks and educational materials, helping you tell a compelling story about the advancement of GI cancer treatment while maintaining regulatory compliance.",
+            "start_time": 186.1
+          },
+          {
+            "p": "The insights about supportive care improvements offer valuable content for cross-team collaboration. You can leverage this information to develop comprehensive communications that bridge the gap between clinical efficacy data and practical implementation, ensuring consistent messaging across different audiences.",
+            "start_time": 336.64
+          }
+        ],
+        "asco-2024-and-esmo-gi-2024": [
+          {
+            "p": "Emily, the presentation's structure and communication of complex trial data provides an excellent model for your medical communications strategy, particularly in making scientific information accessible and impactful.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The discussion of research initiatives and funding demonstrates effective ways to communicate the broader impact of clinical research, which you can incorporate into your educational materials.",
+            "start_time": 188.62
+          },
+          {
+            "p": "Dr. Kuttner's approach to explaining trial outcomes offers valuable insights for developing clear, compelling scientific content that resonates with both clinical and non-clinical audiences.",
+            "start_time": 312.56
+          },
+          {
+            "p": "The integration of patient advocacy perspectives provides a framework for creating more engaging and patient-centered communications materials.",
+            "start_time": 497.48
+          }
+        ],
+        "ucsf-bay-area-breast-cancer": [
+          {
+            "p": "The interactive format of this presentation offers insights for developing engaging educational content that effectively addresses audience needs and questions.",
+            "start_time": 39.34
+          },
+          {
+            "p": "The clear explanation of complex surgical and clinical concepts demonstrates effective ways to communicate technical information to diverse audiences.",
+            "start_time": 167.92
+          },
+          {
+            "p": "The multidisciplinary approach showcases how to integrate various perspectives into cohesive scientific communications.",
+            "start_time": 317.98
+          },
+          {
+            "p": "The Q&A session highlights common information needs and effective ways to address them in your communications materials.",
+            "start_time": 519.48
+          }
+        ]
+      }
+    },
+    "mia-chen": {
+      "img": "img/sarah-martinez.webp",
+      "name": "Mia Chen",
+      "role": "Director, Competitive Intelligence",
+      "age": 42,
+      "background": "Biostatistics and data analytics, 17 years in the pharmaceutical industry.",
+      "specialties": "Competitor analysis, strategic planning, and market forecasting.",
+      "clientele": "Executive leadership and business development teams.",
+      "goals": "Provide actionable insights to anticipate competitive moves and inform strategic decisions.",
+      "challenges": "Sifting through large datasets, aligning with evolving regulatory landscapes, and predicting market trends.",
+      "interests": "Pipeline updates, ASCO/ESMO GI conference findings, emerging therapeutic areas, treatment paradigms, regulatory milestones, and innovation trends.",
+      "highlights": {
+        "gi-cancer-asco-2024-practice-changing": [
+          {
+            "p": "Mia, the selection of the S-EPEC study for plenary presentation at ASCO 2024 signals its strategic importance in shaping future treatment approaches. This positioning provides valuable competitive intelligence about the evolving landscape of esophageal adenocarcinoma treatment and potential market implications.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The stark contrast in treatment completion rates between preoperative and postoperative therapy (90% vs 50%) offers crucial insights for market analysis. This data can inform strategic planning around treatment adoption patterns and help identify potential market opportunities in supportive care and treatment optimization.",
+            "start_time": 112.4
+          },
+          {
+            "p": "The evolution from CROSS protocol to current standards provides valuable context for forecasting future trends. Understanding this progression can help anticipate market shifts and inform strategic decisions about resource allocation, particularly in areas where treatment paradigms are rapidly evolving.",
+            "start_time": 186.1
+          },
+          {
+            "p": "The focus on improved supportive care measures highlights an important market dynamic. This insight can guide competitive analysis of complementary products and services, while also informing strategic planning around comprehensive treatment solutions that address both efficacy and tolerability concerns.",
+            "start_time": 336.64
+          }
+        ],
+        "asco-2024-and-esmo-gi-2024": [
+          {
+            "p": "Mia, the comprehensive overview of ASCO and ESMO GI updates provides valuable competitive intelligence about emerging trends and potential market shifts in oncology treatment approaches.",
+            "start_time": 23.5
+          },
+          {
+            "p": "The discussion of research funding and trial development offers insights into strategic priorities and resource allocation in the oncology space.",
+            "start_time": 188.62
+          },
+          {
+            "p": "Dr. Kuttner's analysis of trial outcomes helps identify potential market opportunities and challenges in implementing new treatment approaches.",
+            "start_time": 312.56
+          },
+          {
+            "p": "The focus on patient advocacy and research collaboration highlights important stakeholder dynamics that could influence market development and adoption of new therapies.",
+            "start_time": 497.48
+          }
+        ],
+        "ucsf-bay-area-breast-cancer": [
+          {
+            "p": "The multidisciplinary discussion format reveals key decision-making factors across different specialties, valuable for your market analysis and strategic planning.",
+            "start_time": 39.34
+          },
+          {
+            "p": "Their review of clinical innovations and treatment approaches helps identify emerging trends and potential market opportunities in oncology care.",
+            "start_time": 167.92
+          },
+          {
+            "p": "The focus on implementation challenges provides insights for anticipating market barriers and developing effective strategies to address them.",
+            "start_time": 317.98
+          },
+          {
+            "p": "The Q&A session highlights unmet needs and concerns that could inform competitive strategy and market positioning.",
+            "start_time": 519.48
+          }
+        ]
+      }
+    }
+  },
+  "prompts": {
+    "interests": "Given this information about a financial advisor, return a JSON object {\"interests\": \"...\"} containing comma-separated keywords they would be interested in when listening to a financial podcast.",
+    "highlights": "Given this video transcript:\n\nTitle: ${title}\n${transcript_with_timing}\n\nWrite a few paragraphs for:\n\n${profile}\n\nExplain the implications for their investors and how they can leverage this information to maximize returns for their clients. Respond as JSON paragraphs with timing.\n\n```json\n[\n{\"p\": \"[firstname], this video can help your [clientele] about ...\",\"start_time\": ...},{\"p\": \"[insight 1]\",\"start_time\": ...},{\"p\": \"[insight 2]\",\"start_time\": ...},{\"p\": \"[insight 3]\",\"start_time\": ...},]"
+  }
+}

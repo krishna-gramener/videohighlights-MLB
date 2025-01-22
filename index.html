@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet">
+  <title>Video Highlights</title>
+  <style>
+    .highlight {
+      background-color: rgba(255, 255, 0, 0.2);
+    }
+
+    .interest {
+      text-decoration: none;
+    }
+
+    .narrative {
+      max-width: 35rem;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+    <div class="container-fluid">
+      <span>
+        <a class="navbar-brand me-1" href="#">Video Highlights</a>
+      </span>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="nav-item dropdown ms-auto" role="group" aria-label="Toggle dark mode" title="Toggle Dark Mode">
+          <button class="dark-theme-toggle btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Toggle theme (auto)">
+            <i class="bi bi-circle-half"></i> <span class="d-lg-none ms-2">Toggle theme</span>
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><button class="dropdown-item" data-bs-theme-value="light"><i class="me-2 bi bi-sun-fill"></i> Light</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="dark"><i class="me-2 bi bi-moon-stars-fill"></i> Dark</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="auto"><i class="me-2 bi bi-circle-half"></i> Auto</button></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div id="screen" class="bg-dark d-none">
+    <div class="container py-3 text-center mx-auto">
+      <div id="video" style="min-height: 360px"></div>
+    </div>
+  </div>
+  <div id="home" class="container">
+    <div class="text-center my-5">
+      <div class="spinner-grow text-primary" role="status" style="width: 3rem; height: 3rem;">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+  </div>
+  <div id="app" class="container d-none">
+    <div class="row my-3">
+      <div class="col-md-6" id="highlights"></div>
+      <div class="col-md-6" id="transcript"></div>
+    </div>
+  </div>
+  <div class="mx-auto my-5 narrative">
+    <h2 class="h3">How does it work?</h2>
+    <p>We <strong>extract</strong> user interests from digital exhaust (CRM entries, web logs, and emails) using <strong>embeddings</strong> -- a low-cost way of using LLMs.
+      We use this to name the interests using the prompt <q class="fst-italic">Given this information about a financial advisor, return a JSON object {\"interests\": \"...\"} containing comma-separated keywords they would be interested in when listening to a financial podcast.</q></p>
+    <p>We <strong>transcribe</strong> audio files using the open-source <a href="https://github.com/openai/whisper">Whisper</a> model. It's great at stripping out "uh...", "um...", etc. and creating a cohesive transcript.</p>
+    <p>We don't <strong>diarize</strong> the transcript to add speaker names, but using <a href="https://www.anthropic.com/news/claude-3-haiku">Anthropic's Claude 3 Haiku</a>,
+      a <a href="https://gramener.com/llmpricing/">frontier model</a>, we can do this with a simple prompt:
+      <q class="fst-italic">Label this call transcript between an agent and caller based on context</q>.
+    </p>
+    <p>We create <strong>structured summaries</strong> using the prompt:
+      <q class="fst-italic">Given this video transcript: Title: ${title}. Transcript: ${transcript_with_timing}. Write a few paragraphs for: ${profile}. Explain the implications for their investors and how they can leverage this information to maximize returns for their clients. Respond as JSON paragraphs with timing.</q>
+    </p>
+    <p><a href="https://github.com/gramener/videohighlights/">See code</a></p>
+
+    <h2 class="h3">How long does it take?</h2>
+    <p>The entire analysis for a 20 minute video takes <strong>under half a minute</strong>.</p>
+
+    <h2 class="h3">How much does it cost?</h2>
+    <p>For Whisper on OpenAI with Claude 3 Haiku, the typical cost of a 20-minute video personalized for 6 advisors is <strong>under 30 cents</strong>, and grows at about 3 cents per advisor.</p>
+
+    <h2 class="h3">Can this run privately?</h2>
+    <p><strong>Yes</strong>. With open-weight models like <a href="https://github.com/openai/whisper">Whisper</a> and <a href="https://llama.meta.com/llama3/">LLama-3</a>, you can run this in your data center (or even your gaming laptop).</p>
+
+    <h2 class="h3">How is this priced?</h2>
+    <p>This is not a product. It's a demo. Email <a href="mailto:s.anand@gramener.com">s.anand@gramener.com</a> for details.</p>
+  </div>
+
+  <footer class="my-5 vh-100 d-flex align-items-center justify-content-center">
+    <h1 class="display-4">Designed by <a href="https://gramener.com/" class="text-reset link-offset-3 link-underline link-underline-opacity-25">Gramener</a></h1>
+  </footer>
+
+  <div id="interest-modal" class="modal" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Interests</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body"></div>
+      </div>
+    </div>
+  </div>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js" type="module" a></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@gramex/ui/dist/dark-theme.js" type="module"></script>
+  <script defer type="module" src="script.js"></script>
+</body>
+
+</html>
