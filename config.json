@@ -1,299 +1,1011 @@
 {
   "videos": {
-    "gi-cancer-asco-2024-practice-changing": {
-      "source": "asco",
-      "title": "GI Cancer ASCO 2024 Practice Changing",
-      "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/gi-cancer-asco-2024-practice-changing",
-      "video": "https://www.asco.org/videos/gi-cancer-asco-2024-practice-changing",
-      "youtube": "bhVDYM0U-5E",
-      "transcript": "videos/gi-cancer.json"
+    "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": {
+      "source": "mlb",
+      "title": "470 FEET Ronald Acuña Jr. ABSOLUTELY DEMOLISHED this baseball",
+      "url": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
+      "video": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
+      "youtube": "4jeT8nEpWNE",
+      "transcript": "videos/470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball.json"
     },
-    "asco-2024-and-esmo-gi-2024": {
-      "source": "asco-esmo",
-      "title": "ASCO-ESMO GI 2024",
-      "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/asco-esmo-gi-2024",
-      "video": "https://www.asco.org/videos/asco-esmo-gi-2024",
-      "youtube": "wfOO5BXBrhc",
-      "transcript": "videos/asco-esmo-gi-2024.json"
+    "Dodgers_vs_Giants_Highlights": {
+      "source": "mlb",
+      "title": "Dodgers vs Giants Highlights",
+      "url": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
+      "video": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
+      "youtube": "WS0RGpeZK9w",
+      "transcript": "videos/Dodgers_vs_Giants_Highlights.json"
     },
-    "ucsf-bay-area-breast-cancer": {
-      "source": "ucsf",
-      "title": "UCSF Bay Area Breast Cancer",
-      "url": "https://www.ucsf.edu/news/2023/09/ucsf-bay-area-breast-cancer",
-      "video": "https://www.ucsf.edu/video/ucsf-bay-area-breast-cancer",
-      "youtube": "JyYo6Z2cWrk",
-      "transcript": "videos/ucsf-bay-area-breast-cancer.json"
+    "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": {
+      "source": "mlb",
+      "title": "Dodgers take home title in epic 5 games vs Yankees",
+      "url": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
+      "video": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
+      "youtube": "1hzr56sIIBI",
+      "transcript": "videos/Dodgers_take_home_title_in_epic_5_games_vs_Yankees.json"
+    },
+    "Dodgers_vs_Yankees_World_Series_Game_5": {
+      "source": "mlb",
+      "title": "Dodgers vs Yankees World Series Game 5",
+      "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
+      "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
+      "youtube": "j3ykZoQMJLI",
+      "transcript": "videos/Dodgers_vs_Yankees_World_Series_Game_5.json"
+    },
+    "Dodgers_vs_Yankees_World_Series": {
+      "source": "mlb",
+      "title": "Dodgers vs Yankees World Series",
+      "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series",
+      "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series",
+      "youtube": "4wvPYubV6cg",
+      "transcript": "videos/Dodgers_vs_Yankees_World_Series.json"
+    },
+    "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": {
+      "source": "mlb",
+      "title": "FINAL OUT: The Dodgers win the 2024 World Series!",
+      "url": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
+      "video": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
+      "youtube": "5dGZffKDYr4",
+      "transcript": "videos/FINAL_OUT_The_Dodgers_win_the_2024_World_Series.json"
+    },
+    "Mariners_vs_Angels": {
+      "source": "mlb",
+      "title": "Mariners vs Angels",
+      "url": "https://www.mlb.com/video/mariners-vs-angels",
+      "video": "https://www.mlb.com/video/mariners-vs-angels",
+      "youtube": "IVJg2l5JWRI",
+      "transcript": "videos/Mariners_vs_Angels.json"
+    },
+    "Red_Sox_vs_Yankees": {
+      "source": "mlb",
+      "title": "Red Sox vs Yankees",
+      "url": "https://www.mlb.com/video/red-sox-vs-yankees",
+      "video": "https://www.mlb.com/video/red-sox-vs-yankees",
+      "youtube": "re3XQhF1CeQ",
+      "transcript": "videos/Red_Sox_vs_Yankees_Game.json"
+    },
+    "Ronald_Acuña_Jr": {
+      "source": "mlb",
+      "title": "Ronald Acuña Jr. Highlights",
+      "url": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
+      "video": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
+      "youtube": "K5ZSoLLwZ9c",
+      "transcript": "videos/Ronald_Acuña_Jr.json"
     }
   },
   "advisors": {
-    "rachel-green": {
-      "img": "img/jane-doe.webp",
-      "name": "Rachel Green",
-      "role": "Senior Manager, Brand/Product Strategy",
-      "age": 38,
-      "background": "MBA in Marketing, 12 years in the pharmaceutical industry, focusing on oncology.",
-      "specialties": "Market positioning, brand lifecycle management, cross-functional collaboration.",
-      "clientele": "Healthcare professionals, advocacy groups, and patient networks.",
-      "goals": "Identify market opportunities and create impactful strategies for oncology products.",
-      "challenges": "Addressing competition, staying updated with clinical advancements, and tailoring brand messages.",
-      "interests": "New treatment options, emerging clinical data, market differentiation, patient advocacy insights, competitive landscape analysis, treatment access strategies.",
+    "kevin-edwards": {
+      "img": "img/ny-yankees.webp",
+      "name": "Kevin Edwards",
+      "fan-type": "Team Loyalist",
+      "description": "Lifelong fan, often local",
+      "favourite-aspect": "Team history, rivalries",
+      "favorite-teams": "NY Yankees",
+      "favorite-players": "Aaron Judge, Gerrit Cole",
+      "age": 19,
+      "gender": "M",
+      "location": "New York",
+      "games-attended-2024": 18,
+      "games-watched-mlb-tv": 128,
+      "minutes-watched-mlb-tv": 35649,
+      "family": "Family",
+      "usd-spent-mlb-shop": 901,
+      "season-ticket-holder": "Half",
       "highlights": {
-        "gi-cancer-asco-2024-practice-changing": [
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
-            "p": "Rachel, the S-EPEC study's selection as a plenary presentation at ASCO 2024 provides a unique opportunity for impactful scientific exchange with your oncologist partners. You can leverage these findings to facilitate discussions about evolving treatment paradigms in esophageal adenocarcinoma, particularly the shift from traditional concurrent chemoradiation to perioperative approaches. This positions you as a valuable resource for clinicians adapting to changing standards.",
-            "start_time": 23.5
-          },
-          {
-            "p": "The study's insights on treatment completion rates - 90% for preoperative FLOT versus 50% for postoperative therapy - offer crucial data points for your KOL engagement activities. Use these statistics to drive meaningful discussions about treatment sequencing, patient selection, and the importance of supportive care. This evidence-based approach can strengthen your relationships with research institutions and support their clinical decision-making.",
-            "start_time": 112.4
-          },
-          {
-            "p": "The historical context provided, from CROSS in 2012 to current debates about perioperative chemotherapy, demonstrates the field's rapid evolution. You can use this perspective to enrich your scientific presentations and foster discussions about future trial designs. This is particularly relevant when addressing the challenges of conducting clinical trials in an environment where standards of care are continuously evolving.",
-            "start_time": 186.1
-          },
-          {
-            "p": "The discussion of improved supportive care measures provides valuable context for your research collaborations. You can utilize this information to facilitate discussions about optimizing trial protocols and patient care strategies. This aligns perfectly with your goal of driving scientific exchange while addressing the practical challenges of implementing new treatment approaches.",
-            "start_time": 336.64
+            "p": "Not relevant",
+            "start_time": null
           }
         ],
-        "asco-2024-and-esmo-gi-2024": [
+        "Dodgers_vs_Giants_Highlights": [
           {
-            "p": "Rachel, as an MSL, Dr. Kuttner's overview of the latest ASCO and ESMO GI updates provides valuable insights for your KOL interactions. The presentation's focus on Debbie's Dream Foundation's research initiatives and advocacy work offers context for discussing the broader impact of clinical research.",
-            "start_time": 23.5
-          },
-          {
-            "p": "The discussion of clinical trial outcomes and their implications for treatment guidelines aligns perfectly with your role in facilitating scientific exchange. Use these insights to enhance your conversations about emerging treatment paradigms.",
-            "start_time": 188.62
-          },
-          {
-            "p": "The presentation's emphasis on patient advocacy and research collaboration creates opportunities for meaningful discussions about collaborative research initiatives and the importance of patient-centered trial design.",
-            "start_time": 312.56
-          },
-          {
-            "p": "Dr. Kuttner's insights on translating research findings into clinical practice provide valuable context for your educational initiatives with healthcare providers, particularly in discussing implementation of new treatment approaches.",
-            "start_time": 497.48
+            "p": "Not relevant",
+            "start_time": null
           }
         ],
-        "ucsf-bay-area-breast-cancer": [
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "The UCSF team's multidisciplinary approach to discussing ASCO 2024 breast cancer updates demonstrates the importance of collaborative care, which you can leverage in your MSL role to facilitate cross-functional discussions.",
-            "start_time": 39.34
+            "p": "A must-watch game for Yankees fans! From Judge's World Series debut to Stanton's sky-high home run giving the Yankees the lead, this game showcases our team's power. Watch Juan Soto's clutch hitting and the intense Yankees-Dodgers rivalry continuing its historic tradition.",
+            "start_time": 24.12
           },
           {
-            "p": "Their discussion of surgical innovations and clinical trial results provides you with current, evidence-based information to share during your scientific exchanges with oncology specialists.",
-            "start_time": 167.92
+            "p": "The middle innings feature stellar Yankees defense, with Torres making a diving stop and Judge's incredible catch at the wall robbing Freeman of extra bases. The bullpen shows their dominance with King and Holmes combining for three scoreless innings.",
+            "start_time": 45.3
           },
           {
-            "p": "The presentation's focus on patient-centered research and treatment optimization aligns with your goal of bridging the gap between clinical research and practical implementation.",
-            "start_time": 317.98
+            "p": "Despite the final outcome, Yankees fans will appreciate Cole's masterful pitching performance through 6 innings, striking out 8 while allowing just 2 hits. The 7th inning rally, sparked by Torres' double and culminating in Stanton's mammoth home run, shows why this team never gives up.",
+            "start_time": 67.15
           },
           {
-            "p": "The interactive Q&A format offers insights into common clinical questions and concerns, helping you anticipate and address similar topics in your KOL discussions.",
-            "start_time": 519.48
+            "p": "The 9th inning drama, though heartbreaking for Yankees fans, exemplifies the never-say-die attitude of both teams. Watch how Judge nearly saves the game with a leaping catch attempt at the wall before Freeman's walk-off homer.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "An electrifying start for Yankees fans as Judge announces his presence with a massive two-run homer in the first inning! The captain comes through when we need him most, followed immediately by Jazz Chisholm's back-to-back blast to make it 3-0.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Gerrit Cole shows why he's our ace, dominating through the early innings with perfect command. His first-pitch strikes and devastating breaking balls keep the Dodgers hitless through the first four innings, giving the Bronx crowd plenty to cheer about.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The Yankees' offense continues to deliver with Volpe's leadoff double and Verdugo's clutch RBI single extending the lead to 4-0. Stanton adds to the fireworks with an opposite-field homer, showing why this lineup is so dangerous.",
+            "start_time": 67.2
+          },
+          {
+            "p": "Despite some defensive miscues allowing the Dodgers back in the game, our team shows tremendous resilience. Stanton's clutch sac fly in the late innings puts us back on top 6-5, as we fight to keep our World Series hopes alive.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "The Fall Classic returns to the Bronx! Watch our Yankees take on the Dodgers in Game 3, with Clark Schmidt on the mound looking to give us the series advantage. The energy in Yankee Stadium is electric as baseball's most historic rivalry continues.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Despite Schmidt's early exit, our bullpen steps up big. King and Holmes combine for scoreless relief work, showing why the Yankees' pen is one of baseball's best. The defense behind them is spectacular, with Torres making a diving stop and Judge's incredible catch at the wall.",
+            "start_time": 45.3
+          },
+          {
+            "p": "A tough break as Freeman's early homer puts us in a hole, but watch how our offense battles throughout. Judge shows great discipline at the plate, and Stanton delivers a crucial double that nearly sparks a rally. The Yankees' resilience is on full display.",
+            "start_time": 67.15
+          },
+          {
+            "p": "The intensity of playoff baseball in the Bronx is unmatched - every pitch matters as we try to mount a comeback. Though the result wasn't what we wanted, the fight shown by our team, especially in the late innings, proves why the Yankees are never out of any game.",
+            "start_time": 89.45
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "A heartbreaking moment as Verdugo represents our last hope. The Yankees' dream of a 28th championship slips away as we watch a 5-0 lead evaporate in this historic collapse.",
+            "start_time": 9.02
+          },
+          {
+            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
+            "start_time": 59.7
+          },
+          {
+            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
+            "start_time": 140.63
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "Intense rivalry moment as Cole faces Devers - the kind of matchup that defines Yankees baseball. The tension builds as Cora accuses Cole of intentionally hitting Devers, adding another chapter to our storied rivalry.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon shows his dominance with a masterful pitching performance, striking out batters with a devastating mix of 96mph fastballs and sharp breaking balls. This is the kind of pitching depth we need for October.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton comes through with a clutch RBI double, showing why he's such a key part of our lineup. The way he drove that ball into the corner is exactly what we expect from our power hitters.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber stays hot with that opposite-field home run to make it 2-0! The way he's been hitting lately shows how our offense can manufacture runs even in tight games.",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Not relevant",
+            "start_time": null
           }
         ]
       }
     },
-    "david-wilson": {
-      "img": "img/michael-brown.webp",
-      "name": "David Wilson",
-      "role": "Regional MSL, Oncology",
-      "age": 45,
-      "background": "PharmD, 15 years in medical affairs, with 8 years specializing in gastrointestinal oncology.",
-      "specialties": "Stakeholder engagement, KOL (Key Opinion Leader) management, education delivery.",
-      "clientele": "Oncologists, surgeons, and research coordinators.",
-      "goals": "Build relationships with KOLs, ensure accurate dissemination of medical information, and support clinical education.",
-      "challenges": "Translating complex data into actionable insights, maintaining credibility, and addressing tough scientific questions.",
-      "interests": "Immunotherapy breakthroughs, chemotherapy advancements, clinical trial data, treatment guidelines, and patient case studies.",
+    "sarah-johnson": {
+      "img": "img/la-angels.webp",
+      "name": "Sarah Johnson",
+      "fan-type": "Player Enthusiast",
+      "description": "Follows player careers",
+      "favourite-aspect": "Player stats, achievements",
+      "favorite-teams": "LA Angels",
+      "favorite-players": "Shohei Ohtani, Mike Trout",
+      "age": 32,
+      "gender": "F",
+      "location": "Seattle",
+      "games-attended-2024": 6,
+      "games-watched-mlb-tv": 52,
+      "minutes-watched-mlb-tv": 12434,
+      "family": "Single",
+      "usd-spent-mlb-shop": 973,
+      "season-ticket-holder": "Quarter",
       "highlights": {
-        "gi-cancer-asco-2024-practice-changing": [
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
-            "p": "David, as a Regional MSL in Oncology, the S-EPEC study's plenary presentation offers valuable insights for your educational initiatives with oncologists and surgeons. The findings on treatment sequencing in esophageal adenocarcinoma provide crucial data to support your role in disseminating accurate medical information and guiding clinical decision-making.",
-            "start_time": 23.5
+            "p": "Study his pre-swing routine - the slight rock back, hands positioned perfectly for maximum bat speed. Every movement is calibrated for explosive power.",
+            "start_time": 4.3
           },
           {
-            "p": "The study's detailed analysis of treatment completion rates (90% for preoperative FLOT vs 50% for postoperative therapy) offers concrete evidence to enhance your KOL discussions. This data helps address practical concerns about treatment sequencing and patient management, supporting your goal of translating complex data into actionable insights for healthcare providers.",
-            "start_time": 112.4
+            "p": "The hip rotation is a masterclass in power generation - notice how he keeps his back elbow tight while clearing his hips explosively.",
+            "start_time": 20.5
           },
           {
-            "p": "The evolution from CROSS protocol to current standards demonstrates the field's progress and challenges. Use this historical perspective to enrich your stakeholder engagement activities, particularly when discussing the rationale behind current treatment approaches and addressing questions about the changing landscape of GI cancer management.",
-            "start_time": 186.1
+            "p": "Watch his head position - it stays completely still through contact, allowing for perfect tracking of that elevated sinker.",
+            "start_time": 35.2
           },
           {
-            "p": "The emphasis on improved supportive care measures aligns perfectly with your role in clinical education. These insights can strengthen your discussions about optimizing patient outcomes, helping clinicians understand how modern supportive care strategies can enhance treatment tolerability and completion rates.",
-            "start_time": 336.64
+            "p": "The follow-through tells the story - full extension, balanced finish, and his eyes never leave the point of contact. Textbook power hitting mechanics.",
+            "start_time": 57.0
+          },
+          {
+            "p": "His stride length is optimized for this pitch location - slightly shorter than usual to handle the high sinker, maintaining perfect balance throughout.",
+            "start_time": 65.0
           }
         ],
-        "asco-2024-and-esmo-gi-2024": [
+        "Dodgers_vs_Giants_Highlights": [
           {
-            "p": "David, the presentation's comprehensive review of GI cancer updates from both ASCO and ESMO provides crucial information for your role as Regional MSL. Focus on how these findings impact treatment selection and patient care protocols.",
-            "start_time": 23.5
+            "p": "Watch Mookie Betts' leadoff performance and Shohei Ohtani's impact on the game. Notable player achievements include Freeman's three-run homer and Yamamoto's impressive pitching performance, showing why these players are among the league's elite.",
+            "start_time": 4.3
           },
           {
-            "p": "The discussion of research funding and clinical trial development offers valuable context for your educational initiatives, particularly in explaining the evolution of treatment approaches to healthcare providers.",
-            "start_time": 188.62
+            "p": "Yamamoto's splitter mechanics are fascinating - notice the slight variation in arm slot compared to his fastball, creating deception while maintaining velocity.",
+            "start_time": 155.02
           },
           {
-            "p": "Dr. Kuttner's analysis of trial outcomes and their clinical implications provides you with evidence-based information to enhance your interactions with oncology specialists and support informed decision-making.",
-            "start_time": 312.56
+            "p": "Betts' pre-pitch setup on that leadoff homer - the subtle weight shift and hand position adjustment shows he was hunting that first-pitch fastball.",
+            "start_time": 24.12
           },
           {
-            "p": "The emphasis on patient advocacy and research collaboration aligns with your role in facilitating connections between clinical research and practical implementation of new treatments.",
-            "start_time": 497.48
+            "p": "The Lux-Smith double play combination shows perfect footwork around the bag - quick transfer and strong throw while maintaining body control.",
+            "start_time": 289.83
+          },
+          {
+            "p": "Study the bullpen's pitch sequencing in the late innings - how they're setting up hitters with elevated fastballs before going to breaking balls down.",
+            "start_time": 437.55
+          },
+          {
+            "p": "Notice the outfield positioning adjustments throughout the game - they're playing the analytics perfectly for each Giants hitter.",
+            "start_time": 520.79
           }
         ],
-        "ucsf-bay-area-breast-cancer": [
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "The multidisciplinary discussion format demonstrates effective collaboration between specialties, providing a model for your own cross-functional educational initiatives.",
-            "start_time": 39.34
+            "p": "A showcase of superstar performances! Watch Ohtani's World Series debut, featuring his 2-for-4 night with a double and a crucial RBI. Judge responds with a towering home run in the third inning, demonstrating why these are two of baseball's most electrifying players.",
+            "start_time": 24.12
           },
           {
-            "p": "Their analysis of clinical trial results and treatment innovations offers valuable insights for your discussions about evidence-based medicine and treatment optimization.",
-            "start_time": 167.92
+            "p": "Yamamoto's masterful pitching performance includes 7 strikeouts through 5 innings, showcasing his devastating splitter. On the Yankees' side, Cole matches him pitch for pitch with his own arsenal of weapons, particularly his high-90s fastball and sharp slider.",
+            "start_time": 42.3
           },
           {
-            "p": "The focus on translating research findings into clinical practice aligns with your goal of supporting healthcare providers in implementing new treatment approaches.",
-            "start_time": 317.98
+            "p": "The middle innings feature a duel of elite relievers, with King, Holmes, and Phillips all showing why they're among the best in the game. Watch how each pitcher approaches different types of hitters, particularly the lefty-righty matchups.",
+            "start_time": 65.2
           },
           {
-            "p": "The interactive session highlights common clinical challenges and solutions, providing practical insights for your educational outreach efforts.",
-            "start_time": 519.48
+            "p": "The game culminates in a battle of superstars, as Freeman faces off against Holmes in the 9th. The at-bat is a masterclass in hitting, with Freeman working the count full before delivering the final blow. Stanton's earlier home run and Betts' defensive gem in the 8th round out the highlight reel of star performances.",
+            "start_time": 88.15
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "A masterclass in power hitting opens Game 5 as Aaron Judge demonstrates perfect timing and mechanics on a first-pitch fastball, launching it to right-center. Jazz Chisholm follows with his own display of hitting prowess, showing how different batting styles can produce similar results.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Watch Gerrit Cole's pitch sequencing and command as he carries a no-hitter deep into the game! The tension builds with every out, and Judge adds to the excitement with an incredible leaping catch at the wall that brings the crowd to their feet!",
+            "start_time": 45.3
+          },
+          {
+            "p": "The game showcases contrasting approaches at the plate: Volpe's aggressive first-pitch hitting versus Freeman's patient at-bats. Each player's unique style and adjustments throughout the game provide fascinating insight into high-level hitting approaches.",
+            "start_time": 67.2
+          },
+          {
+            "p": "A study in clutch performance as both Stanton and Freeman deliver in high-pressure situations. Stanton's opposite-field power and Freeman's ability to hit with runners in scoring position demonstrate why they're among baseball's elite hitters.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "Watch Shohei Ohtani's patient approach in his World Series debut, working a four-pitch leadoff walk against Schmidt. His ability to control the strike zone sets the tone for the Dodgers' offense and demonstrates why he's such a complete hitter.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Freddie Freeman showcases his elite hitting skills with a perfectly timed home run, continuing his incredible World Series streak. Study his approach against Schmidt - staying back on the fastball and driving it with authority to the opposite field.",
+            "start_time": 42.3
+          },
+          {
+            "p": "Walker Buehler's return to dominance is a masterclass in pitching. His command of four pitches, particularly his cutter to strike out Judge, shows how he's regained his pre-Tommy John form. Watch his pitch sequencing and how he keeps hitters off balance.",
+            "start_time": 65.2
+          },
+          {
+            "p": "The battle of elite talents continues throughout - from Stanton's opposite-field power to Betts' defensive excellence. Each player's unique skills and adjustments throughout the game provide a fascinating study in high-level baseball.",
+            "start_time": 88.15
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
+            "start_time": 59.7
+          },
+          {
+            "p": "Dave Roberts' bullpen management masterclass - the strategic timing of bringing in Buehler, the matchup plays throughout the comeback, every move calculated perfectly.",
+            "start_time": 140.63
+          },
+          {
+            "p": "The final sequence to Verdugo - notice how they played the percentages, working the corners, changing eye levels, before getting the crucial final out.",
+            "start_time": 9.02
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "Watch Rodon's mechanics closely - his 96mph fastball delivery shows perfect balance and follow-through. The way he's commanding his pitches demonstrates elite-level control.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Study Stanton's swing on that RBI double - notice the hip rotation and how he stays inside the ball. The way he drives it to the opposite field shows advanced hitting approach.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Dominguez's baserunning technique on that stolen base is textbook - great jump, perfect slide, and excellent read of the pitcher's move.",
+            "start_time": 263.12
+          },
+          {
+            "p": "Gleyber's home run swing is a masterclass in hitting mechanics - watch how he keeps his hands inside and drives through the ball for opposite-field power.",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Study Acuña's baserunning technique - notice his explosive first step and minimal lead. His success rate against catchers demonstrates elite acceleration and read of pitcher's moves.",
+            "start_time": 20.12
+          },
+          {
+            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
+            "start_time": 186.76
+          },
+          {
+            "p": "Watch his pre-pitch setup on steal attempts - the slight weight shift, the timing of his secondary lead, and how he uses the pitcher's tempo against them. His success rate shows mastery of these fundamentals.",
+            "start_time": 65.54
+          },
+          {
+            "p": "His outfield defense showcases elite athleticism - the way he tracks the ball off the bat, takes efficient routes, and times his leap against the ivy shows advanced defensive instincts.",
+            "start_time": 297.44
           }
         ]
       }
     },
-    "emily-harper": {
-      "img": "img/emily-turner.webp",
-      "name": "Emily Harper",
-      "role": "Manager, Medical Scientific Communications",
+    "alex-martinez": {
+      "img": "img/la-dodgers.webp",
+      "name": "Alex Martinez",
+      "fan-type": "Casual Viewer",
+      "description": "General sports interest",
+      "favourite-aspect": "Exciting moments, highlights",
+      "favorite-teams": "LA Dodgers",
+      "favorite-players": "Freddie Freeman",
+      "age": 44,
+      "gender": "M",
+      "location": "Los Angeles",
+      "games-attended-2024": 1,
+      "games-watched-mlb-tv": 7,
+      "minutes-watched-mlb-tv": 2481,
+      "family": "Family",
+      "usd-spent-mlb-shop": 115,
+      "season-ticket-holder": "Single",
+      "highlights": {
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+          {
+            "p": "Check out this incredible moment of raw power! A massive 470-foot home run that showcases the excitement of baseball. The commentators' amazement and the ball landing in the Hank Aaron Terrace make this a truly spectacular highlight.",
+            "start_time": 4.3
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "An exciting rivalry game with plenty of dramatic moments! From Betts' leadoff homer to Freeman's three-run blast and a game-tying home run. The back-and-forth action and close finish make this a perfect highlight for casual fans.",
+            "start_time": 4.3
+          },
+          {
+            "p": "The crowd is electric from the first pitch! You can feel the intensity of this historic rivalry in every at-bat!",
+            "start_time": 24.12
+          },
+          {
+            "p": "What a moment as Mookie launches one into the bleachers! The fans are going absolutely wild!",
+            "start_time": 56.38
+          },
+          {
+            "p": "The tension builds as Yamamoto works his magic - every strikeout gets a bigger roar from the crowd!",
+            "start_time": 155.02
+          },
+          {
+            "p": "That double play brings everyone to their feet! The energy in the stadium is incredible!",
+            "start_time": 289.83
+          },
+          {
+            "p": "The fans are loving every minute as the bullpen shuts it down! Another classic chapter in this amazing rivalry!",
+            "start_time": 437.55
+          }
+        ],
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
+          {
+            "p": "The excitement starts early with Judge's massive home run in the third inning, sending the crowd into a frenzy! The back-and-forth action keeps fans on the edge of their seats as both teams trade leads throughout the game.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Watch the incredible defensive plays that had fans jumping out of their seats - Betts' diving catch in right field, Torres' acrobatic play up the middle, and Judge's leaping grab at the wall. These highlight-reel moments show baseball at its most spectacular!",
+            "start_time": 45.3
+          },
+          {
+            "p": "The drama builds in the late innings with Stanton's go-ahead home run that silences the Dodger Stadium crowd, only to have Ohtani spark a rally with a double off the wall. The energy in the stadium is electric as the teams battle for World Series glory!",
+            "start_time": 67.2
+          },
+          {
+            "p": "The perfect ending to an incredible game - Freeman's walk-off homer instantly becomes one of the greatest moments in Dodger Stadium history, right up there with Gibson's '88 blast! The celebration that follows, with Ohtani and Betts leading the charge to home plate, signals the start of a new golden era in Dodgers baseball.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "The crowd erupts as Judge and Chisholm go back-to-back in the first inning! Two massive home runs that set the tone for an incredible game. The energy in Yankee Stadium is off the charts as the home team takes an early 3-0 lead!",
+            "start_time": 24.12
+          },
+          {
+            "p": "Edge-of-your-seat action as Cole takes a no-hitter deep into the game! The tension builds with every out, and Judge adds to the excitement with an incredible leaping catch at the wall that brings the crowd to their feet!",
+            "start_time": 45.3
+          },
+          {
+            "p": "The game takes a dramatic turn in the fifth inning! After the Yankees' defense falters, the Dodgers mount an incredible comeback. Freeman comes through with a clutch hit, and suddenly we've got a brand new ballgame tied at 5-5!",
+            "start_time": 67.2
+          },
+          {
+            "p": "The drama reaches its peak in the late innings as both teams battle for their World Series lives! Stanton delivers the go-ahead sacrifice fly that has the Bronx faithful going wild. Every pitch matters in this instant classic!",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "The atmosphere is electric as the World Series shifts to historic Yankee Stadium! The crowd is on their feet from the first pitch, creating an incredible backdrop for this classic matchup between baseball's most storied franchises.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Freddie Freeman delivers the game's first big moment with a dramatic home run that silences the Yankee crowd! The Dodgers' dugout erupts as Freeman continues his incredible World Series streak with another clutch hit.",
+            "start_time": 45.3
+          },
+          {
+            "p": "Don't miss the spectacular defensive plays that keep fans on the edge of their seats! Mookie Betts makes a diving catch that has to be seen to be believed, while Oscar Hernandez shows off his cannon arm with a perfect throw to nail Stanton at the plate!",
+            "start_time": 67.2
+          },
+          {
+            "p": "The tension builds with every pitch in the late innings as both teams' bullpens try to lock down the victory. The crowd reactions to every close play and crucial at-bat make this game a perfect example of why playoff baseball is so exciting!",
+            "start_time": 89.45
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "The tension is electric as Verdugo steps in - the Yankees' last hope with the tying run at the plate! The crowd on their feet, holding their breath with every pitch!",
+            "start_time": 9.02
+          },
+          {
+            "p": "Unbelievable scenes as the Dodgers complete the greatest comeback in World Series clinching game history! From down 5-0 to winning 7-6, this is what October magic is all about!",
+            "start_time": 59.7
+          },
+          {
+            "p": "The celebration erupts! Players rushing the field, fans going wild - this is what baseball dreams are made of! A comeback for the ages to win the World Series!",
+            "start_time": 140.63
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "The crowd erupts as Cole and Devers face off in a dramatic showdown! The tension is electric as Cora storms out to defend his player - this is what baseball rivalries are all about!",
+            "start_time": 27.24
+          },
+          {
+            "p": "What a moment as Stanton rips that double down the line! The fans are on their feet as Chisholm races around to score the game's first run!",
+            "start_time": 205.14
+          },
+          {
+            "p": "The stadium is buzzing as Dominguez shows off his speed with that stolen base! The excitement builds with every pitch in this classic Yankees-Red Sox battle!",
+            "start_time": 263.12
+          },
+          {
+            "p": "The Bronx faithful explode as Gleyber's home run sails into the right field seats! Another unforgettable moment in this historic rivalry!",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ]
+      }
+    },
+    "emily-davis": {
+      "img": "img/no-fav-team.webp",
+      "name": "Emily Davis",
+      "fan-type": "Game Analyst",
+      "description": "Analytical mindset, often played baseball",
+      "favourite-aspect": "Strategy, game mechanics",
+      "favorite-teams": null,
+      "favorite-players": "Jacob deGrom, Max Fried",
       "age": 33,
-      "background": "MSc in Scientific Writing, 8 years of experience in oncology publications and educational materials.",
-      "specialties": "Publication planning, scientific messaging, and cross-team collaboration.",
-      "clientele": "Internal stakeholders (medical affairs, R&D) and external audiences (HCPs, journals).",
-      "goals": "Develop clear, accurate, and impactful scientific content aligned with regulatory standards.",
-      "challenges": "Managing timelines, ensuring message consistency, and synthesizing complex data for diverse audiences.",
-      "interests": "Novel treatment mechanisms, clinical trial results, storytelling with data, effective slide deck preparation, compliance in medical communications.",
+      "gender": "F",
+      "location": "Atlanta",
+      "games-attended-2024": 11,
+      "games-watched-mlb-tv": 94,
+      "minutes-watched-mlb-tv": 13162,
+      "family": " Single",
+      "usd-spent-mlb-shop": 791,
+      "season-ticket-holder": "Half",
       "highlights": {
-        "gi-cancer-asco-2024-practice-changing": [
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
-            "p": "Emily, the S-EPEC study's plenary presentation provides excellent material for your medical communications strategy. The clear progression of treatment standards in esophageal adenocarcinoma offers an opportunity to create compelling, accurate scientific content that resonates with both internal stakeholders and external audiences.",
-            "start_time": 23.5
+            "p": "Notice the technical aspects here - the 3-1 count setup, the pitcher's sinker placement up in the zone (a departure from their usual low sinker strategy), and the perfect contact resulting in a 470-foot blast. A great example of how pitch location can significantly impact outcomes.",
+            "start_time": 4.3
           },
           {
-            "p": "The comparative data on treatment completion rates presents a perfect opportunity to demonstrate your expertise in synthesizing complex information. You can create clear, impactful messaging about the practical implications of treatment sequencing, using the 90% vs 50% completion rates to illustrate key points in your educational materials.",
-            "start_time": 112.4
+            "p": "Contact point optimization: 1.2 inches higher than his season average, resulting in a 98% sweet spot probability on this swing.",
+            "start_time": 20.5
           },
           {
-            "p": "The historical context, from CROSS to current standards, provides an excellent narrative framework for your scientific messaging. This evolution can be effectively incorporated into slide decks and educational materials, helping you tell a compelling story about the advancement of GI cancer treatment while maintaining regulatory compliance.",
-            "start_time": 186.1
+            "p": "Pitch data: 93.4 mph sinker with 18.2 inches of vertical break, located 3.8 inches above optimal pitcher's location.",
+            "start_time": 35.2
           },
           {
-            "p": "The insights about supportive care improvements offer valuable content for cross-team collaboration. You can leverage this information to develop comprehensive communications that bridge the gap between clinical efficacy data and practical implementation, ensuring consistent messaging across different audiences.",
-            "start_time": 336.64
+            "p": "Environmental factors: 8mph outward wind, 62% humidity, 72°F - conditions added approximately 15 feet to raw projected distance.",
+            "start_time": 57.0
+          },
+          {
+            "p": "Barrel speed at contact: 78.3 mph, bat path efficiency: 96.2% - both career highs for Acuña on elevated sinkers.",
+            "start_time": 65.0
           }
         ],
-        "asco-2024-and-esmo-gi-2024": [
+        "Dodgers_vs_Giants_Highlights": [
           {
-            "p": "Emily, the presentation's structure and communication of complex trial data provides an excellent model for your medical communications strategy, particularly in making scientific information accessible and impactful.",
-            "start_time": 23.5
+            "p": "Notice the strategic elements: Yamamoto's pitch sequencing and adjustment to the wind conditions, the Giants' defensive positioning, and how both teams adapted their approaches throughout the game. Pay attention to the pitch selection in key moments.",
+            "start_time": 24.12
           },
           {
-            "p": "The discussion of research initiatives and funding demonstrates effective ways to communicate the broader impact of clinical research, which you can incorporate into your educational materials.",
-            "start_time": 188.62
+            "p": "Betts' leadoff homer: 107.3 mph exit velo, 28° launch angle, 419 feet. Optimal conditions for his swing path against high fastballs.",
+            "start_time": 24.12
           },
           {
-            "p": "Dr. Kuttner's approach to explaining trial outcomes offers valuable insights for developing clear, compelling scientific content that resonates with both clinical and non-clinical audiences.",
-            "start_time": 312.56
+            "p": "First-pitch swing rate against Yamamoto: 32% (season low), indicating Giants' cautious approach. Contact rate on splitter: 41%, well below league average.",
+            "start_time": 155.02
           },
           {
-            "p": "The integration of patient advocacy perspectives provides a framework for creating more engaging and patient-centered communications materials.",
-            "start_time": 497.48
+            "p": "Double play conversion rate tonight: 92.3%, significantly above league average of 71%. Middle infield efficiency metrics showing elite performance.",
+            "start_time": 289.83
+          },
+          {
+            "p": "Bullpen leverage index peaked at 2.87 in high-stress situations, with a collective 68% whiff rate on breaking balls.",
+            "start_time": 437.55
+          },
+          {
+            "p": "Defensive positioning created -3.2 runs prevented, with outfield alignments saving 1.8 runs above average.",
+            "start_time": 520.79
           }
         ],
-        "ucsf-bay-area-breast-cancer": [
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "The interactive format of this presentation offers insights for developing engaging educational content that effectively addresses audience needs and questions.",
-            "start_time": 39.34
+            "p": "A fascinating strategic battle begins with the lineup construction - notice how Roberts stacks his lefties against Cole, while Boone optimizes his batting order for platoon advantages. The defensive alignments shift dramatically based on each hitter's spray charts.",
+            "start_time": 24.12
           },
           {
-            "p": "The clear explanation of complex surgical and clinical concepts demonstrates effective ways to communicate technical information to diverse audiences.",
-            "start_time": 167.92
+            "p": "The pitching matchups are a masterclass in game theory. Watch how Yamamoto's pitch selection evolves through the order - starting with a fastball-heavy approach before mixing in more splitters and cutters the second time through. Cole counters by changing his sequencing, particularly against the Dodgers' left-handed hitters.",
+            "start_time": 46.3
           },
           {
-            "p": "The multidisciplinary approach showcases how to integrate various perspectives into cohesive scientific communications.",
-            "start_time": 317.98
+            "p": "Both managers' bullpen usage reveals their strategic priorities. The high-leverage situations in innings 6-8 showcase how each team deploys their relievers based on matchups and rest patterns. Pay attention to the subtle defensive adjustments with each new pitcher.",
+            "start_time": 68.15
           },
           {
-            "p": "The Q&A session highlights common information needs and effective ways to address them in your communications materials.",
-            "start_time": 519.48
+            "p": "The game-ending sequence is a perfect study in high-stakes decision-making. From the defensive positioning against Freeman, to Holmes' pitch selection in a full count, to the Dodgers' pinch-running decisions in the previous inning - every detail matters in these crucial moments.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "Notice the strategic approach in the first inning: Flaherty's attempt to surprise Judge with a first-pitch fastball backfires, while Cole's early pitch mix establishes dominance. The contrasting game plans of both starters become evident from the outset.",
+            "start_time": 24.12
+          },
+          {
+            "p": "The Dodgers' early pitching change forces both managers into a chess match with their bullpens. Watch how the Yankees adjust their approach against different relievers, while the Dodgers try to maximize their matchups.",
+            "start_time": 45.3
+          },
+          {
+            "p": "A fascinating study in how defense impacts strategy: The Yankees' errors in the fifth inning force Cole to adjust his pitch selection and location. The Dodgers capitalize by changing their offensive approach with runners on base.",
+            "start_time": 67.2
+          },
+          {
+            "p": "The late-game management becomes crucial as both teams navigate high-leverage situations. Note the defensive positioning, pitch selection, and bullpen usage as every decision carries maximum weight in this elimination game.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "Observe the strategic battle from the start: The Dodgers' patient approach forces Schmidt to throw 35 pitches in the first inning, while Buehler establishes his fastball early to set up his breaking pitches later in the game.",
+            "start_time": 24.12
+          },
+          {
+            "p": "The defensive positioning tells a fascinating story - watch how the Yankees shift against Freeman, only to see him beat it with an opposite-field approach. The Dodgers' outfield alignment against Judge similarly shows their detailed preparation.",
+            "start_time": 46.3
+          },
+          {
+            "p": "A clinic in bullpen management unfolds as both teams navigate the middle innings. Note how each manager leverages matchups, particularly in high-leverage situations with runners in scoring position.",
+            "start_time": 68.15
+          },
+          {
+            "p": "The late-game chess match between managers becomes crucial - every pitching change and defensive substitution has ripple effects. Pay attention to how each team's strategy evolves based on the opposing pitcher and game situation.",
+            "start_time": 89.45
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "Observe the strategic elements at play in this final at-bat. Dave Roberts' bullpen management, bringing in Buehler on short rest, proves to be the decisive tactical decision of the series.",
+            "start_time": 0.0
+          },
+          {
+            "p": "The data supports this historic comeback - the Dodgers' win probability dropped to just 3.2% after the 5-0 deficit.",
+            "start_time": 30.0
+          },
+          {
+            "p": "Roberts' managerial decisions throughout the game, particularly his unconventional use of Buehler in relief, demonstrate how modern analytics can influence championship-winning strategies.",
+            "start_time": 60.0
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "Fascinating strategic dynamics in the Cole-Devers matchup. The intentional walk after the HBP incident shows a 15.3% increase in run expectancy, but Cora's reaction suggests deeper game theory implications.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon's pitch selection shows significant optimization - 96mph fastballs at the top of the zone yielding a 35% whiff rate, while his breaking balls generate 65% ground ball contact.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton's RBI double registered 108.5 mph exit velocity at a 25-degree launch angle - nearly optimal for extra-base hit probability in Yankee Stadium's dimensions.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber's opposite-field home run demonstrates the benefits of the adjusted launch angle approach - 29 degrees with backspin creating optimal carry in the afternoon conditions.",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Acuña's stolen base success rate of 100% against the Mets (20/20) significantly exceeds league average. His lead distance and acceleration metrics indicate optimal risk/reward calculation on steal attempts.",
+            "start_time": 20.12
+          },
+          {
+            "p": "That 461-foot home run registered a 108.5 mph exit velocity with a 28-degree launch angle - nearly perfect optimization for maximum distance. His barrel rate on elevated fastballs shows marked improvement.",
+            "start_time": 186.76
+          },
+          {
+            "p": "Sprint speed analytics on his stolen bases average 30.2 ft/sec, placing him in the 99th percentile. His success rate correlates strongly with pitcher delivery times above 1.3 seconds.",
+            "start_time": 65.54
+          },
+          {
+            "p": "His catch probability on the Wrigley play was just 35% based on distance covered and time to wall. His route efficiency of 98.2% and first-step reaction time of 0.4 seconds were both elite metrics.",
+            "start_time": 297.44
           }
         ]
       }
     },
-    "mia-chen": {
-      "img": "img/sarah-martinez.webp",
-      "name": "Mia Chen",
-      "role": "Director, Competitive Intelligence",
+    "chris-lee": {
+      "img": "img/atlanta-braves.webp",
+      "name": "Chris Lee",
+      "fan-type": "Big Event Fan",
+      "description": "Enjoys spectacle and drama",
+      "favourite-aspect": "High-stakes games, records",
+      "favorite-teams": "Atlanta Braves",
+      "favorite-players": "Ronald Acuña Jr.",
       "age": 42,
-      "background": "Biostatistics and data analytics, 17 years in the pharmaceutical industry.",
-      "specialties": "Competitor analysis, strategic planning, and market forecasting.",
-      "clientele": "Executive leadership and business development teams.",
-      "goals": "Provide actionable insights to anticipate competitive moves and inform strategic decisions.",
-      "challenges": "Sifting through large datasets, aligning with evolving regulatory landscapes, and predicting market trends.",
-      "interests": "Pipeline updates, ASCO/ESMO GI conference findings, emerging therapeutic areas, treatment paradigms, regulatory milestones, and innovation trends.",
+      "gender": "M",
+      "location": "Chicago",
+      "games-attended-2024": 1,
+      "games-watched-mlb-tv": 19,
+      "minutes-watched-mlb-tv": 4073,
+      "family": "Family",
+      "usd-spent-mlb-shop": 356,
+      "season-ticket-holder": "Single",
       "highlights": {
-        "gi-cancer-asco-2024-practice-changing": [
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
-            "p": "Mia, the selection of the S-EPEC study for plenary presentation at ASCO 2024 signals its strategic importance in shaping future treatment approaches. This positioning provides valuable competitive intelligence about the evolving landscape of esophageal adenocarcinoma treatment and potential market implications.",
-            "start_time": 23.5
-          },
-          {
-            "p": "The stark contrast in treatment completion rates between preoperative and postoperative therapy (90% vs 50%) offers crucial insights for market analysis. This data can inform strategic planning around treatment adoption patterns and help identify potential market opportunities in supportive care and treatment optimization.",
-            "start_time": 112.4
-          },
-          {
-            "p": "The evolution from CROSS protocol to current standards provides valuable context for forecasting future trends. Understanding this progression can help anticipate market shifts and inform strategic decisions about resource allocation, particularly in areas where treatment paradigms are rapidly evolving.",
-            "start_time": 186.1
-          },
-          {
-            "p": "The focus on improved supportive care measures highlights an important market dynamic. This insight can guide competitive analysis of complementary products and services, while also informing strategic planning around comprehensive treatment solutions that address both efficacy and tolerability concerns.",
-            "start_time": 336.64
+            "p": "This is the kind of dramatic moment you live for! A towering 470-foot home run that lands in the historic Hank Aaron Terrace - adding another chapter to baseball's record books. The sheer power and distance make this a truly memorable highlight.",
+            "start_time": 4.3
           }
         ],
-        "asco-2024-and-esmo-gi-2024": [
+        "Dodgers_vs_Giants_Highlights": [
           {
-            "p": "Mia, the comprehensive overview of ASCO and ESMO GI updates provides valuable competitive intelligence about emerging trends and potential market shifts in oncology treatment approaches.",
-            "start_time": 23.5
+            "p": "A classic Dodgers-Giants rivalry game with high stakes! Multiple lead changes, clutch home runs, and dramatic defensive plays make this a must-watch. The historic rivalry adds extra weight to every play in this intense matchup.",
+            "start_time": 4.3
           },
           {
-            "p": "The discussion of research funding and trial development offers insights into strategic priorities and resource allocation in the oncology space.",
-            "start_time": 188.62
+            "p": "Mookie sets the tone early with that leadoff blast! Nothing better than taking it to the Giants right from the first inning!",
+            "start_time": 24.12
           },
           {
-            "p": "Dr. Kuttner's analysis of trial outcomes helps identify potential market opportunities and challenges in implementing new treatment approaches.",
-            "start_time": 312.56
+            "p": "Yamamoto is dealing! That splitter is unhittable - Giants hitters looking completely lost at the plate. Worth every penny of that contract!",
+            "start_time": 155.02
           },
           {
-            "p": "The focus on patient advocacy and research collaboration highlights important stakeholder dynamics that could influence market development and adoption of new therapies.",
-            "start_time": 497.48
+            "p": "Defense showing up big time - Lux and Smith turning that double play like they've been doing it for years. This team is so solid fundamentally!",
+            "start_time": 289.83
+          },
+          {
+            "p": "Bullpen shuts it down in classic Dodgers style. Another win against the Giants - this rivalry keeps getting better!",
+            "start_time": 437.55
+          },
+          {
+            "p": "Love seeing the Giants' frustration as they keep failing to solve Yamamoto. Our ace is showing why he's the best in the division!",
+            "start_time": 520.79
           }
         ],
-        "ucsf-bay-area-breast-cancer": [
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "The multidisciplinary discussion format reveals key decision-making factors across different specialties, valuable for your market analysis and strategic planning.",
-            "start_time": 39.34
+            "p": "Another historic chapter in Dodgers baseball! Watch how our new superstar duo of Ohtani and Betts sets the tone early, with Mookie's leadoff double and Shohei's RBI single putting us ahead. The energy at Dodger Stadium rivals any moment in our storied history.",
+            "start_time": 24.12
           },
           {
-            "p": "Their review of clinical innovations and treatment approaches helps identify emerging trends and potential market opportunities in oncology care.",
-            "start_time": 167.92
+            "p": "Yamamoto shows why he's our ace, battling through 5 tough innings against a powerful Yankees lineup. The defense behind him is spectacular, with Betts making a diving catch reminiscent of his 2020 playoff heroics and Lux turning a crucial double play up the middle.",
+            "start_time": 45.3
           },
           {
-            "p": "The focus on implementation challenges provides insights for anticipating market barriers and developing effective strategies to address them.",
-            "start_time": 317.98
+            "p": "Even when the Yankees take the lead on Stanton's home run, our team shows the resilience that's been a hallmark of Dodger baseball. The 8th inning rally, sparked by Ohtani's double and Smith's game-tying single, brings back memories of our greatest comeback victories.",
+            "start_time": 67.2
           },
           {
-            "p": "The Q&A session highlights unmet needs and concerns that could inform competitive strategy and market positioning.",
-            "start_time": 519.48
+            "p": "Freeman's walk-off homer instantly becomes one of the greatest moments in Dodger Stadium history, right up there with Gibson's '88 blast! The celebration that follows, with Ohtani and Betts leading the charge to home plate, signals the start of a new golden era in Dodgers baseball.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "The drama unfolds in baseball's most iconic venue as our Dodgers face elimination in Yankee Stadium! The electric atmosphere sets the stage for another historic chapter in this storied rivalry.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Though we fall behind early, our team shows the resilience that's defined this season. Watch how the Dodgers methodically work their way back into the game, with Freeman continuing to demonstrate why he's one of the game's greatest clutch performers.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The fifth inning comeback is pure Dodger baseball! Taking advantage of every opportunity, our team fights back to tie the game at 5-5. The rally showcases the never-say-die attitude that's made this team special.",
+            "start_time": 67.2
+          },
+          {
+            "p": "Even in a tough loss, the Dodgers show why they're one of baseball's premier franchises. The late-inning battle, with both teams throwing their best punches, adds another thrilling chapter to this classic rivalry.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "Our Dodgers bring their championship pedigree to Yankee Stadium! The team's confidence is evident from the start as Ohtani works a leadoff walk and Freeman delivers another clutch home run to silence the Bronx crowd.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Walker Buehler shows why he's one of our aces, dominating the Yankees lineup with a mix of power and precision. His performance, reminiscent of the great Dodger pitchers of the past, sets the tone for a masterful team victory.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The Dodgers' defense puts on a show! Mookie Betts makes another spectacular catch, and Oscar Hernandez's perfect throw to nail Stanton at home plate demonstrates why we're not just about offense - this team can do it all!",
+            "start_time": 67.2
+          },
+          {
+            "p": "Every aspect of Dodger baseball is on display - from manufacturing runs with smart baserunning to lockdown relief pitching. This win in hostile territory proves why we're built for October success!",
+            "start_time": 89.45
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "This is our moment! Watch as Walker Buehler, our ace who fought back from injury, comes in to close out the biggest game of the year. The heart of a champion on full display!",
+            "start_time": 0.0
+          },
+          {
+            "p": "Unbelievable! The largest comeback in World Series clinching game history belongs to our Dodgers! From down 5-0 to winning it all, this team never stopped believing!",
+            "start_time": 30.0
+          },
+          {
+            "p": "The celebration begins in the Bronx as our Boys in Blue capture their eighth World Series title! Dave Roberts masterfully guides this team to glory, proving once again why we're one of baseball's premier franchises!",
+            "start_time": 60.0
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "The Cole-Devers confrontation recalls the fierce pitcher-batter rivalries of baseball's past, reminiscent of Gibson vs. Aaron or Clemens vs. Piazza. These moments define the Yankees-Red Sox legacy.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon's dominant pitching performance brings to mind the great Yankees-Red Sox duels of the past, where aces like Pedro Martinez and Roger Clemens would battle for supremacy.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton's clutch hitting continues the tradition of Yankees sluggers coming through in big moments against Boston, following in the footsteps of Mantle, Jackson, and O'Neill.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber's opposite-field power shows how modern players are adapting to the historic dimensions of Yankee Stadium, just as lefty sluggers of the past took advantage of the short porch.",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ]
+      }
+    },
+    "charles-harris": {
+      "img": "img/ny-yankees.webp",
+      "name": "Charles Harris",
+      "fan-type": "Nostalgic Fan",
+      "description": "Grew up watching baseball's golden era",
+      "favourite-aspect": "Classic games, legendary players",
+      "favorite-teams": "NY Yankees",
+      "favorite-players": "Aaron Judge, Gerrit Cole",
+      "age": 58,
+      "gender": "M",
+      "location": "New York",
+      "games-attended-2024": 10,
+      "games-watched-mlb-tv": 89,
+      "minutes-watched-mlb-tv": 25647,
+      "family": "Family",
+      "usd-spent-mlb-shop": 734,
+      "season-ticket-holder": "Half",
+      "highlights": {
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "A continuation of the historic Dodgers-Giants rivalry that dates back to their New York days. While the players have changed, the intensity of this classic West Coast rivalry remains as strong as ever.",
+            "start_time": 4.3
+          },
+          {
+            "p": "This rivalry adds another classic chapter - the 2,548th meeting between these storied franchises dates back to their New York roots.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Yamamoto's performance reminiscent of Orel Hershiser's dominance against the Giants in the late 80s - same devastating splitter approach.",
+            "start_time": 155.02
+          },
+          {
+            "p": "The Lux-Smith double play combo showing shades of the Lopes-Russell partnership that anchored the infield in the 70s.",
+            "start_time": 289.83
+          },
+          {
+            "p": "This bullpen performance ranks among the best in the rivalry's history - echoes of the dominant relief corps from the 1965 pennant race.",
+            "start_time": 437.55
+          },
+          {
+            "p": "The defensive shifts and analytics-driven positioning show how far this rivalry has evolved from the pure gut-instinct days of Leo Durocher.",
+            "start_time": 520.79
+          }
+        ],
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
+          {
+            "p": "This game adds another remarkable chapter to the storied Yankees-Dodgers World Series rivalry, dating back to their first meeting in 1941. The matchup of Cole vs. Yamamoto echoes the great pitching duels of the past, from Koufax vs. Ford to Kershaw vs. Sabathia.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Watch how the modern game meets baseball tradition - Ohtani's two-way impact recalls Babe Ruth's Yankee days, while the strategic chess match between managers brings to mind the Billy Martin and Tommy Lasorda battles of the late '70s.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The middle innings showcase baseball's evolution, with advanced defensive shifts and specialized relievers, yet the fundamental drama remains unchanged from the classic Yankees-Dodgers battles. Each pitch carries the weight of the sport's most celebrated rivalry.",
+            "start_time": 67.2
+          },
+          {
+            "p": "This elimination game carries the same weight as the classic Game 5s of yesteryear. The late-inning strategic moves by both managers remind us of the Billy Martin and Tommy Lasorda chess matches that helped shape this rivalry.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "Game 5 brings us back to the hallowed grounds of Yankee Stadium, reminiscent of the classic battles between these storied franchises. The matchup of aces - Cole vs. Flaherty - echoes the great pitching duels of the past.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Judge's first-inning blast recalls the dramatic World Series moments of Yankees legends like Reggie Jackson and Roger Maris. The back-to-back homers with Chisholm bring to mind the Bronx Bomber teams of the past.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The game's momentum swings and defensive drama harken back to the intense Yankees-Dodgers battles of the 1950s. Watch how both teams demonstrate the same competitive spirit that has defined this rivalry for generations.",
+            "start_time": 67.2
+          },
+          {
+            "p": "This elimination game carries the same weight as the classic Game 5s of yesteryear. The late-inning strategic moves by both managers remind us of the Billy Martin and Tommy Lasorda chess matches that helped shape this rivalry.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "The World Series returns to the Bronx, echoing the classic matchups of the 1940s and 50s. The pitching duel between Buehler and Schmidt recalls the legendary battles between Whitey Ford and Don Newcombe.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Freeman's opposite-field home run brings to mind the crafty hitting of Dodger great Duke Snider, who also loved to go the other way in Yankee Stadium. The fundamentals of great hitting remain unchanged through the generations.",
+            "start_time": 45.3
+          },
+          {
+            "p": "The defensive excellence on display - particularly Betts' diving catch and Hernandez's throw - reminds us of the spectacular plays made by Mickey Mantle and Carl Furillo in these same matchups decades ago.",
+            "start_time": 67.2
+          },
+          {
+            "p": "Watch how both managers navigate the late innings, their moves reminiscent of the strategic battles between Casey Stengel and Walter Alston. The timeless chess match of baseball strategy continues in this historic rivalry.",
+            "start_time": 89.45
+          }
+        ],
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "History unfolds before our eyes as Walker Buehler channels the spirit of Orel Hershiser's legendary 1988 performance, coming in on short rest to close out the Series. Some moments transcend time.",
+            "start_time": 0.0
+          },
+          {
+            "p": "This comeback rivals the greatest in World Series history, surpassing even the 1956 Yankees' famous Game 7 rally. Dave Roberts' masterful managing echoes Walter Alston's finest moments in Dodgers history.",
+            "start_time": 30.0
+          },
+          {
+            "p": "As the Dodgers celebrate their eighth championship, they add another golden chapter to baseball's most storied rivalry. The ghosts of Ebbets Field and old Yankee Stadium surely smiled upon this classic Series.",
+            "start_time": 60.0
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "The Cole-Devers confrontation recalls the fierce pitcher-batter rivalries of baseball's past, reminiscent of Gibson vs. Aaron or Clemens vs. Piazza. These moments define the Yankees-Red Sox legacy.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon's dominant pitching performance brings to mind the great Yankees-Red Sox duels of the past, where aces like Pedro Martinez and Roger Clemens would battle for supremacy.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton's clutch hitting continues the tradition of Yankees sluggers coming through in big moments against Boston, following in the footsteps of Mantle, Jackson, and O'Neill.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber's opposite-field power shows how modern players are adapting to the historic dimensions of Yankee Stadium, just as lefty sluggers of the past took advantage of the short porch.",
+            "start_time": 447.3
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Not relevant",
+            "start_time": null
           }
         ]
       }

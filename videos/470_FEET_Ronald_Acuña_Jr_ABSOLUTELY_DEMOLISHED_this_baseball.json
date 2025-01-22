@@ -1,0 +1,428 @@
+{
+  "task": "transcribe",
+  "language": "English",
+  "duration": 89.9,
+  "text": " . And Ronald awaits the 3-1 and hits it hard to left. That baby is not coming back. 2-1. . Huh, 470. Wow. . the home run shock you anymore. That ball is absolutely hammered. Let's get another look at the homer. I mean sinker up in the zone all night. up in the zone all night he's lived down with that sinker that one up and. Just right in the Hank Aaron Terrace. Still going. you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 4.3,
+      "text": " .",
+      "tokens": [
+        50365,
+        2411,
+        50580
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.3,
+      "end": 8.34,
+      "text": " And Ronald awaits the 3-1 and hits it hard to left.",
+      "tokens": [
+        50580,
+        400,
+        27397,
+        45955,
+        264,
+        805,
+        12,
+        16,
+        293,
+        8664,
+        309,
+        1152,
+        281,
+        1411,
+        13,
+        50782
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.34,
+      "end": 11.34,
+      "text": " That baby is not coming back.",
+      "tokens": [
+        50782,
+        663,
+        3186,
+        307,
+        406,
+        1348,
+        646,
+        13,
+        50932
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.34,
+      "end": 12.34,
+      "text": " 2-1.",
+      "tokens": [
+        50932,
+        568,
+        12,
+        16,
+        13,
+        50982
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.34,
+      "end": 22.34,
+      "text": " .",
+      "tokens": [
+        50982,
+        2411,
+        51482
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.34,
+      "end": 24.04,
+      "text": " Huh, 470.",
+      "tokens": [
+        51482,
+        8063,
+        11,
+        1017,
+        5867,
+        13,
+        51567
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.04,
+      "end": 25.04,
+      "text": " Wow.",
+      "tokens": [
+        51567,
+        3153,
+        13,
+        51617
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.04,
+      "end": 29.96,
+      "text": " .",
+      "tokens": [
+        51617,
+        2411,
+        51863
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5418626,
+      "compression_ratio": 1.07,
+      "no_speech_prob": 0.0874555
+    },
+    {
+      "id": 8,
+      "seek": 2996,
+      "start": 29.96,
+      "end": 46,
+      "text": " the home run shock you anymore.",
+      "tokens": [
+        50365,
+        264,
+        1280,
+        1190,
+        5588,
+        291,
+        3602,
+        13,
+        51167
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 9,
+      "seek": 2996,
+      "start": 46,
+      "end": 48,
+      "text": " That ball is absolutely hammered.",
+      "tokens": [
+        51167,
+        663,
+        2594,
+        307,
+        3122,
+        13017,
+        292,
+        13,
+        51267
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 10,
+      "seek": 2996,
+      "start": 48,
+      "end": 52,
+      "text": " Let's get another look at the",
+      "tokens": [
+        51267,
+        961,
+        311,
+        483,
+        1071,
+        574,
+        412,
+        264,
+        51467
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 11,
+      "seek": 2996,
+      "start": 52,
+      "end": 53,
+      "text": " homer.",
+      "tokens": [
+        51467,
+        3655,
+        260,
+        13,
+        51517
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 12,
+      "seek": 2996,
+      "start": 53,
+      "end": 57,
+      "text": " I mean sinker up in the zone all",
+      "tokens": [
+        51517,
+        286,
+        914,
+        9500,
+        260,
+        493,
+        294,
+        264,
+        6668,
+        439,
+        51717
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 13,
+      "seek": 2996,
+      "start": 57,
+      "end": 58,
+      "text": " night.",
+      "tokens": [
+        51717,
+        1818,
+        13,
+        51767
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7641089,
+      "compression_ratio": 1.2566372,
+      "no_speech_prob": 0.45663404
+    },
+    {
+      "id": 14,
+      "seek": 5800,
+      "start": 58,
+      "end": 60,
+      "text": " up in the zone all night he's",
+      "tokens": [
+        50365,
+        493,
+        294,
+        264,
+        6668,
+        439,
+        1818,
+        415,
+        311,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 15,
+      "seek": 5800,
+      "start": 60,
+      "end": 62,
+      "text": " lived down with that sinker that",
+      "tokens": [
+        50465,
+        5152,
+        760,
+        365,
+        300,
+        9500,
+        260,
+        300,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 16,
+      "seek": 5800,
+      "start": 62,
+      "end": 66,
+      "text": " one up and.",
+      "tokens": [
+        50565,
+        472,
+        493,
+        293,
+        13,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 17,
+      "seek": 5800,
+      "start": 66,
+      "end": 68,
+      "text": " Just right in the Hank Aaron",
+      "tokens": [
+        50765,
+        1449,
+        558,
+        294,
+        264,
+        26427,
+        14018,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 18,
+      "seek": 5800,
+      "start": 68,
+      "end": 70.02,
+      "text": " Terrace.",
+      "tokens": [
+        50865,
+        36591,
+        617,
+        13,
+        50966
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 19,
+      "seek": 5800,
+      "start": 70.02,
+      "end": 71.02,
+      "text": " Still going.",
+      "tokens": [
+        50966,
+        8291,
+        516,
+        13,
+        51016
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48399806,
+      "compression_ratio": 1.1792452,
+      "no_speech_prob": 0.013631802
+    },
+    {
+      "id": 20,
+      "seek": 8800,
+      "start": 88,
+      "end": 88.62,
+      "text": " you",
+      "tokens": [
+        50365,
+        291,
+        50396
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.94102496,
+      "compression_ratio": 0.27272728,
+      "no_speech_prob": 0.718161
+    }
+  ],
+  "x_groq": {
+    "id": "req_01jj6nswv3fp5a01ms6ve649f1"
+  }
+}

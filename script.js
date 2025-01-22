@@ -29,13 +29,6 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 let transcriptData;
 
-const renderInterests = (advisorId, interests) =>
-  interests
-    .split(/,\s*/)
-    .map((interest, i) => [
-      i ? ", " : "",
-      html`<a class="interest" href="#" data-advisor="${advisorId}" data-interest="${interest}">${interest}</a>`,
-    ]);
 const homePage = html`
   <h1 class="display-1 my-5 text-center">Video Highlights</h1>
 
@@ -52,11 +45,6 @@ const homePage = html`
   </div>
 
   <hr class="my-5" />
-  <div class="mx-auto my-5 narrative">
-    <h2>First, extract the audience's interests</h2>
-    <p>Let's look at ${Object.keys(config.advisors).length} (hypothetical) advisors.</p>
-    <p>From their email interactions, CRM engagements, and web visits, we <strong>automatically extracted their interests</strong>.</p>
-  </div>
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 align-items-stretch">
   ${Object.entries(config.advisors).map(
     ([id, advisor]) => html`
@@ -65,15 +53,32 @@ const homePage = html`
           <img src="${advisor.img}" class="card-img-top" alt="Profile picture of ${advisor.name}" />
           <div class="card-body">
             <h5 class="card-title">${advisor.name}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">${advisor["fan-type"]}</h6>
             <div class="card-text">
-              <p><strong>${advisor.role}</strong></p>
-              <p>${advisor.persona} ${advisor.age} year-old. ${advisor.background}</p>
-              <p><strong>Specialties</strong>: ${advisor.specialties}</p>
-              <p><strong>Clientele</strong>: ${advisor.clientele}</p>
-              <p><strong>Goals</strong>: ${advisor.goals}</p>
-              <p><strong>Challenges</strong>: ${advisor.challenges}</p>
-              <p><strong>Interests</strong>: ${renderInterests(id, advisor.interests)}</p>
-              <p><i class="bi bi-magic text-primary fs-5"></i> Click on interests for supporting interactions.</p>
+              <div class="mb-3">
+                <h6 class="text-primary">Fan Profile</h6>
+                <p class="mb-1">
+                  <strong>Age</strong>: ${advisor.age} | <strong>Location</strong>: ${advisor.location}
+                </p>
+                <p class="mb-1"><strong>Teams</strong>: ${advisor["favorite-teams"] || "None"}</p>
+                <p class="mb-1"><strong>Players</strong>: ${advisor["favorite-players"]}</p>
+              </div>
+
+              <div class="mb-3">
+                <h6 class="text-primary">Engagement Stats</h6>
+                <p class="mb-1"><strong>Games Attended</strong>: ${advisor["games-attended-2024"]}</p>
+                <p class="mb-1"><strong>Games Watched</strong>: ${advisor["games-watched-mlb-tv"]}</p>
+                <p class="mb-1">
+                  <strong>Watch Time</strong>: ${Math.round(advisor["minutes-watched-mlb-tv"] / 60)} hours
+                </p>
+              </div>
+
+              <div class="mb-3">
+                <h6 class="text-primary">Fan Status</h6>
+                <p class="mb-1"><strong>Season Ticket</strong>: ${advisor["season-ticket-holder"]}</p>
+                <p class="mb-1"><strong>MLB Shop Spent</strong>: $${advisor["usd-spent-mlb-shop"]}</p>
+                <p class="mb-1"><strong>Family</strong>: ${advisor.family}</p>
+              </div>
             </div>
           </div>
         </div>
@@ -84,9 +89,7 @@ const homePage = html`
 
   <div class="mx-auto my-5 narrative">
     <h2>Next, we personalize video transcripts</h2>
-    <p>Let's look at these ${
-      Object.keys(videos).length
-    } public videos from that provide information to healthcare services advisors.</p>
+    <p>Let's look at these ${Object.keys(videos).length} public videos from that provide information to the fans..</p>
   </div>
 
   <div class="videos row row-cols-1 row-cols-sm-2 row-cols-lg-3">
@@ -112,13 +115,6 @@ const homePage = html`
       <li>Extract the transcript from the video (including the timing)</li>
       <li>Use an LLM to summarize the transcript <em>for each advisor</em>, suggesting actions for <em>their</em> clients.</li>
     </ol>
-    <p>Click on the videos to see the personalized summaries. For example, see:</p>
-    <ul>
-      <li><a href="#?video=four-economic-themes-to-know-in-2024&advisor=jane-doe">Four Economic Themes to Know in 2024</a> for Jane Doe</li>
-      <li><a href="#?video=four-economic-themes-to-know-in-2024&advisor=emily-turner">Four Economic Themes to Know in 2024</a> for Emily Turner</li>
-      <li><a href="#?video=capitalizing-on-market-shifts-in-2024&advisor=michael-brown">Capitalizing on Market Shifts in 2024</a> for Michael Brown</li>
-      <li><a href="#?video=capitalizing-on-market-shifts-in-2024&advisor=david-lee">Capitalizing on Market Shifts in 2024</a> for David Lee</li>
-    </ul>
   </div>
 
 </div>
@@ -150,6 +146,9 @@ async function renderApp(videoId, advisorId) {
     $transcript
   );
   player.cueVideoById(video.youtube);
+//   player.addEventListener('onError', function(event) {
+//     console.log("Error code:", event.data);
+// });
 
   transcriptData.segments.forEach((segment) => {
     segment.element = $transcript.querySelector(`[data-id="${segment.id}"]`);
@@ -183,7 +182,6 @@ async function renderApp(videoId, advisorId) {
                     <img src="${advisor.img}" class="rounded-circle me-3" height="40" />
                     <div>
                       <h5 class="my-0">${advisor.name}</h5>
-                      <div>${advisor.firm}</div>
                     </div>
                   </a>
                 </li> `
@@ -202,16 +200,16 @@ async function renderApp(videoId, advisorId) {
         <img src="${advisor.img}" class="rounded-circle me-3" height="100" />
         <div>
           <h2>${advisor.name}</h2>
-          <h3 class="h5">${advisor.firm}</h3>
-          <p>${advisor.persona} ${advisor.age} year-old. ${advisor.background}</p>
+          <p>${advisor.age} years old • ${advisor.gender} • ${advisor.location}</p>
         </div>
       </div>
-      <p><strong>Specialties</strong>: ${advisor.specialties}</p>
-      <p><strong>Clientele</strong>: ${advisor.clientele}</p>
-      <p><strong>Goals</strong>: ${advisor.goals}</p>
-      <p><strong>Challenges</strong>: ${advisor.challenges}</p>
-      <p><strong>Interests</strong>: ${renderInterests(advisorId, advisor.interests)}</p>
-      <p class="small text-secondary"><i class="bi bi-magic text-primary fs-5"></i> Click on interests for supporting interactions.</p>
+      <div class="mt-3">
+      <p><strong>Fan Type</strong>: ${advisor["fan-type"]}</p>
+        <p><strong>Favorite Team</strong>: ${advisor["favorite-teams"]}</p>
+        <p><strong>Favorite Player</strong>: ${advisor["favorite-players"]}</p>
+      </div>
+      
+      
     </div>
     `,
     $highlights
@@ -231,7 +229,9 @@ async function renderApp(videoId, advisorId) {
     const m = Math.floor(start_time / 60);
     const s = Math.floor(start_time % 60);
     highlights[i] = unsafeHTML(
-      marked.parse(p + ` <a href="#${start_time}" class="seek" title="See relevant clip">${m}m ${s}s</a>`)
+      marked.parse(
+        p + (start_time ? ` <a href="#${start_time}" class="seek" title="See relevant clip">${m}m ${s}s</a>` : "")
+      )
     );
     render(highlights, $animatedText);
   }
@@ -312,36 +312,5 @@ function updatePosition() {
   if (segment) transcriptData.segments.forEach((seg) => seg.element.classList.toggle("highlight", seg === segment));
 }
 
-const $interestModal = document.querySelector("#interest-modal");
-const interestModal = new bootstrap.Modal($interestModal);
-const interests = await fetch("interests.json").then((r) => r.json());
 
-document.body.addEventListener("click", (e) => {
-  const interest = e.target.closest(".interest");
-  if (interest) {
-    e.preventDefault();
-    const data = interest.dataset;
-    const advisor = config.advisors[data.advisor];
-    $interestModal.querySelector(".modal-title").textContent = `${advisor.name}: ${data.interest}`;
-    const candidates = interests
-      .filter((row) => row.advisor == advisor.name)
-      .sort((a, b) => b[data.interest] - a[data.interest]);
-    // Get up to 6 reasons with over 50% similarity. Else just the top reasons
-    let reasons = candidates.filter((row) => row[data.interest] > 0.5).slice(0, 8);
-    if (reasons.length == 0) reasons = candidates.slice(0, 1);
-    render(
-      html`<p>Here's how we know ${advisor.name} is interested in ${data.interest}</p>
-        <ol>
-          ${reasons.map(
-            ({ key, value, ...row }) =>
-              html`<li class="my-2">
-                <strong>${key}</strong> ${value}
-                <small class="text-secondary">(${pc(Math.min(1, row[data.interest] / 0.6))} confidence)</small>
-              </li>`
-          )}
-        </ol>`,
-      $interestModal.querySelector(".modal-body")
-    );
-    interestModal.show();
-  }
-});
+
