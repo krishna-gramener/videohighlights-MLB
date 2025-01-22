@@ -30,7 +30,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 let transcriptData;
 
 const homePage = html`
-  <h1 class="display-1 my-5 text-center">Video Highlights</h1>
+  <h1 class="display-1 my-5 text-center">Video Highlights- MLB</h1>
 
   <p class="text-center display-6">Personalize transcripts. Highlight actionable insights.</p>
   <div class="mx-auto my-5 narrative">
