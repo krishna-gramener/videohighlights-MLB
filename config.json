@@ -1,20 +1,12 @@
 {
   "videos": {
-    "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": {
+    "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": {
       "source": "mlb",
-      "title": "470 FEET Ronald Acuña Jr. ABSOLUTELY DEMOLISHED this baseball",
-      "url": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
-      "video": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
-      "youtube": "4jeT8nEpWNE",
-      "transcript": "videos/470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball.json"
-    },
-    "Dodgers_vs_Giants_Highlights": {
-      "source": "mlb",
-      "title": "Dodgers vs Giants Highlights",
-      "url": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
-      "video": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
-      "youtube": "WS0RGpeZK9w",
-      "transcript": "videos/Dodgers_vs_Giants_Highlights.json"
+      "title": "FINAL OUT: The Dodgers win the 2024 World Series!",
+      "url": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
+      "video": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
+      "youtube": "5dGZffKDYr4",
+      "transcript": "videos/FINAL_OUT_The_Dodgers_win_the_2024_World_Series.json"
     },
     "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": {
       "source": "mlb",
@@ -24,14 +16,6 @@
       "youtube": "1hzr56sIIBI",
       "transcript": "videos/Dodgers_take_home_title_in_epic_5_games_vs_Yankees.json"
     },
-    "Dodgers_vs_Yankees_World_Series_Game_5": {
-      "source": "mlb",
-      "title": "Dodgers vs Yankees World Series Game 5",
-      "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
-      "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
-      "youtube": "j3ykZoQMJLI",
-      "transcript": "videos/Dodgers_vs_Yankees_World_Series_Game_5.json"
-    },
     "Dodgers_vs_Yankees_World_Series": {
       "source": "mlb",
       "title": "Dodgers vs Yankees World Series",
@@ -40,13 +24,29 @@
       "youtube": "4wvPYubV6cg",
       "transcript": "videos/Dodgers_vs_Yankees_World_Series.json"
     },
-    "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": {
+    "Dodgers_vs_Yankees_World_Series_Game_5": {
       "source": "mlb",
-      "title": "FINAL OUT: The Dodgers win the 2024 World Series!",
-      "url": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
-      "video": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
-      "youtube": "5dGZffKDYr4",
-      "transcript": "videos/FINAL_OUT_The_Dodgers_win_the_2024_World_Series.json"
+      "title": "Dodgers vs Yankees World Series Game 5",
+      "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
+      "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
+      "youtube": "j3ykZoQMJLI",
+      "transcript": "videos/Dodgers_vs_Yankees_World_Series_Game_5.json"
+    },
+    "Ronald_Acuña_Jr": {
+      "source": "mlb",
+      "title": "Ronald Acuña Jr. Highlights",
+      "url": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
+      "video": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
+      "youtube": "K5ZSoLLwZ9c",
+      "transcript": "videos/Ronald_Acuña_Jr.json"
+    },
+    "Red_Sox_vs_Yankees": {
+      "source": "mlb",
+      "title": "Red Sox vs Yankees",
+      "url": "https://www.mlb.com/video/red-sox-vs-yankees",
+      "video": "https://www.mlb.com/video/red-sox-vs-yankees",
+      "youtube": "re3XQhF1CeQ",
+      "transcript": "videos/Red_Sox_vs_Yankees.json"
     },
     "Mariners_vs_Angels": {
       "source": "mlb",
@@ -56,52 +56,55 @@
       "youtube": "IVJg2l5JWRI",
       "transcript": "videos/Mariners_vs_Angels.json"
     },
-    "Red_Sox_vs_Yankees": {
+    "Dodgers_vs_Giants_Highlights": {
       "source": "mlb",
-      "title": "Red Sox vs Yankees",
-      "url": "https://www.mlb.com/video/red-sox-vs-yankees",
-      "video": "https://www.mlb.com/video/red-sox-vs-yankees",
-      "youtube": "re3XQhF1CeQ",
-      "transcript": "videos/Red_Sox_vs_Yankees_Game.json"
+      "title": "Dodgers vs Giants Highlights",
+      "url": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
+      "video": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
+      "youtube": "WS0RGpeZK9w",
+      "transcript": "videos/Dodgers_vs_Giants_Highlights.json"
     },
-    "Ronald_Acuña_Jr": {
+    "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": {
       "source": "mlb",
-      "title": "Ronald Acuña Jr. Highlights",
-      "url": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
-      "video": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
-      "youtube": "K5ZSoLLwZ9c",
-      "transcript": "videos/Ronald_Acuña_Jr.json"
+      "title": "470 FEET Ronald Acuña Jr. ABSOLUTELY DEMOLISHED this baseball",
+      "url": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
+      "video": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
+      "youtube": "4jeT8nEpWNE",
+      "transcript": "videos/470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball.json"
     }
   },
   "advisors": {
     "kevin-edwards": {
-      "img": "img/ny-yankees.webp",
+      "img": "img/yankees-family.jpg",
       "name": "Kevin Edwards",
       "fan-type": "Team Loyalist",
       "description": "Lifelong fan, often local",
       "favourite-aspect": "Team history, rivalries",
       "favorite-teams": "NY Yankees",
       "favorite-players": "Aaron Judge, Gerrit Cole",
-      "age": 19,
+      "age": 45,
       "gender": "M",
       "location": "New York",
-      "games-attended-2024": 18,
-      "games-watched-mlb-tv": 128,
-      "minutes-watched-mlb-tv": 35649,
-      "family": "Family",
-      "usd-spent-mlb-shop": 901,
+      "games-attended-2024": "High",
+      "games-watched-mlb-tv": "High",
+      "minutes-watched-mlb-tv": "High",
+      "marital-status": "Family",
+      "usd-spent-mlb-shop": "High",
       "season-ticket-holder": "Half",
+      "family-with-kids": "Yes",
       "highlights": {
-        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Not relevant",
-            "start_time": null
-          }
-        ],
-        "Dodgers_vs_Giants_Highlights": [
+            "p": "A heartbreaking moment as Verdugo represents our last hope. The Yankees' dream of a 28th championship slips away as we watch a 5-0 lead evaporate in this historic collapse.",
+            "start_time": 9.02
+          },
           {
-            "p": "Not relevant",
-            "start_time": null
+            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
+            "start_time": 59.7
+          },
+          {
+            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
+            "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
@@ -122,7 +125,7 @@
             "start_time": 89.45
           }
         ],
-        "Dodgers_vs_Yankees_World_Series_Game_5": [
+        "Dodgers_vs_Yankees_World_Series": [
           {
             "p": "An electrifying start for Yankees fans as Judge announces his presence with a massive two-run homer in the first inning! The captain comes through when we need him most, followed immediately by Jazz Chisholm's back-to-back blast to make it 3-0.",
             "start_time": 24.12
@@ -140,39 +143,25 @@
             "start_time": 89.45
           }
         ],
-        "Dodgers_vs_Yankees_World_Series": [
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
           {
-            "p": "The Fall Classic returns to the Bronx! Watch our Yankees take on the Dodgers in Game 3, with Clark Schmidt on the mound looking to give us the series advantage. The energy in Yankee Stadium is electric as baseball's most historic rivalry continues.",
+            "p": "The crowd erupts as Judge and Chisholm go back-to-back in the first inning! Two massive home runs that set the tone for an incredible game. The energy in Yankee Stadium is off the charts as the home team takes an early 3-0 lead!",
             "start_time": 24.12
           },
           {
-            "p": "Despite Schmidt's early exit, our bullpen steps up big. King and Holmes combine for scoreless relief work, showing why the Yankees' pen is one of baseball's best. The defense behind them is spectacular, with Torres making a diving stop and Judge's incredible catch at the wall.",
+            "p": "Edge-of-your-seat action as Cole takes a no-hitter deep into the game! The tension builds with every out, and Judge adds to the excitement with an incredible leaping catch at the wall that brings the crowd to their feet!",
             "start_time": 45.3
           },
           {
-            "p": "A tough break as Freeman's early homer puts us in a hole, but watch how our offense battles throughout. Judge shows great discipline at the plate, and Stanton delivers a crucial double that nearly sparks a rally. The Yankees' resilience is on full display.",
-            "start_time": 67.15
+            "p": "The game takes a dramatic turn in the fifth inning! After the Yankees' defense falters, the Dodgers mount an incredible comeback. Freeman comes through with a clutch hit, and suddenly we've got a brand new ballgame tied at 5-5!",
+            "start_time": 67.2
           },
           {
-            "p": "The intensity of playoff baseball in the Bronx is unmatched - every pitch matters as we try to mount a comeback. Though the result wasn't what we wanted, the fight shown by our team, especially in the late innings, proves why the Yankees are never out of any game.",
+            "p": "The drama reaches its peak in the late innings as both teams battle for their World Series lives! Stanton delivers the go-ahead sacrifice fly that has the Bronx faithful going wild. Every pitch matters in this instant classic!",
             "start_time": 89.45
           }
         ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
-          {
-            "p": "A heartbreaking moment as Verdugo represents our last hope. The Yankees' dream of a 28th championship slips away as we watch a 5-0 lead evaporate in this historic collapse.",
-            "start_time": 9.02
-          },
-          {
-            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
-            "start_time": 59.7
-          },
-          {
-            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
-            "start_time": 140.63
-          }
-        ],
-        "Mariners_vs_Angels": [
+        "Ronald_Acuña_Jr": [
           {
             "p": "Not relevant",
             "start_time": null
@@ -196,7 +185,19 @@
             "start_time": 447.3
           }
         ],
-        "Ronald_Acuña_Jr": [
+        "Mariners_vs_Angels": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
             "p": "Not relevant",
             "start_time": null
@@ -205,7 +206,7 @@
       }
     },
     "sarah-johnson": {
-      "img": "img/la-angels.webp",
+      "img": "img/angels.jpg",
       "name": "Sarah Johnson",
       "fan-type": "Player Enthusiast",
       "description": "Follows player careers",
@@ -214,60 +215,27 @@
       "favorite-players": "Shohei Ohtani, Mike Trout",
       "age": 32,
       "gender": "F",
-      "location": "Seattle",
-      "games-attended-2024": 6,
-      "games-watched-mlb-tv": 52,
-      "minutes-watched-mlb-tv": 12434,
-      "family": "Single",
-      "usd-spent-mlb-shop": 973,
+      "location": "Los Angeles",
+      "games-attended-2024": "Low",
+      "games-watched-mlb-tv": "High",
+      "minutes-watched-mlb-tv": "Moderate",
+      "marital-status": "Single",
+      "usd-spent-mlb-shop": "Medium",
       "season-ticket-holder": "Quarter",
+      "family-with-kids": "No",
       "highlights": {
-        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Study his pre-swing routine - the slight rock back, hands positioned perfectly for maximum bat speed. Every movement is calibrated for explosive power.",
-            "start_time": 4.3
+            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
+            "start_time": 59.7
           },
           {
-            "p": "The hip rotation is a masterclass in power generation - notice how he keeps his back elbow tight while clearing his hips explosively.",
-            "start_time": 20.5
+            "p": "The final sequence to Verdugo - notice how they played the percentages, working the corners, changing eye levels, before getting the crucial final out.",
+            "start_time": 9.02
           },
           {
-            "p": "Watch his head position - it stays completely still through contact, allowing for perfect tracking of that elevated sinker.",
-            "start_time": 35.2
-          },
-          {
-            "p": "The follow-through tells the story - full extension, balanced finish, and his eyes never leave the point of contact. Textbook power hitting mechanics.",
-            "start_time": 57.0
-          },
-          {
-            "p": "His stride length is optimized for this pitch location - slightly shorter than usual to handle the high sinker, maintaining perfect balance throughout.",
-            "start_time": 65.0
-          }
-        ],
-        "Dodgers_vs_Giants_Highlights": [
-          {
-            "p": "Watch Mookie Betts' leadoff performance and Shohei Ohtani's impact on the game. Notable player achievements include Freeman's three-run homer and Yamamoto's impressive pitching performance, showing why these players are among the league's elite.",
-            "start_time": 4.3
-          },
-          {
-            "p": "Yamamoto's splitter mechanics are fascinating - notice the slight variation in arm slot compared to his fastball, creating deception while maintaining velocity.",
-            "start_time": 155.02
-          },
-          {
-            "p": "Betts' pre-pitch setup on that leadoff homer - the subtle weight shift and hand position adjustment shows he was hunting that first-pitch fastball.",
-            "start_time": 24.12
-          },
-          {
-            "p": "The Lux-Smith double play combination shows perfect footwork around the bag - quick transfer and strong throw while maintaining body control.",
-            "start_time": 289.83
-          },
-          {
-            "p": "Study the bullpen's pitch sequencing in the late innings - how they're setting up hitters with elevated fastballs before going to breaking balls down.",
-            "start_time": 437.55
-          },
-          {
-            "p": "Notice the outfield positioning adjustments throughout the game - they're playing the analytics perfectly for each Giants hitter.",
-            "start_time": 520.79
+            "p": "Dave Roberts' bullpen management masterclass - the strategic timing of bringing in Buehler, the matchup plays throughout the comeback, every move calculated perfectly.",
+            "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
@@ -285,6 +253,24 @@
           },
           {
             "p": "The game culminates in a battle of superstars, as Freeman faces off against Holmes in the 9th. The at-bat is a masterclass in hitting, with Freeman working the count full before delivering the final blow. Stanton's earlier home run and Betts' defensive gem in the 8th round out the highlight reel of star performances.",
+            "start_time": 88.15
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "Watch Shohei Ohtani's patient approach in his World Series debut, working a four-pitch leadoff walk against Schmidt. His ability to control the strike zone sets the tone for the Dodgers' offense and demonstrates why he's such a complete hitter.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Freddie Freeman showcases his elite hitting skills with a perfectly timed home run, continuing his incredible World Series streak. Study his approach against Schmidt - staying back on the fastball and driving it with authority to the opposite field.",
+            "start_time": 42.3
+          },
+          {
+            "p": "Walker Buehler's return to dominance is a masterclass in pitching. His command of four pitches, particularly his cutter to strike out Judge, shows how he's regained his pre-Tommy John form. Watch his pitch sequencing and how he keeps hitters off balance.",
+            "start_time": 65.2
+          },
+          {
+            "p": "The battle of elite talents continues throughout - from Stanton's opposite-field power to Betts' defensive excellence. Each player's unique skills and adjustments throughout the game provide a fascinating study in high-level baseball.",
             "start_time": 88.15
           }
         ],
@@ -306,42 +292,22 @@
             "start_time": 89.45
           }
         ],
-        "Dodgers_vs_Yankees_World_Series": [
+        "Ronald_Acuña_Jr": [
           {
-            "p": "Watch Shohei Ohtani's patient approach in his World Series debut, working a four-pitch leadoff walk against Schmidt. His ability to control the strike zone sets the tone for the Dodgers' offense and demonstrates why he's such a complete hitter.",
-            "start_time": 24.12
+            "p": "Study Acuña's baserunning technique - notice his explosive first step and minimal lead. His success rate against catchers demonstrates elite acceleration and read of pitcher's moves.",
+            "start_time": 20.12
           },
           {
-            "p": "Freddie Freeman showcases his elite hitting skills with a perfectly timed home run, continuing his incredible World Series streak. Study his approach against Schmidt - staying back on the fastball and driving it with authority to the opposite field.",
-            "start_time": 42.3
+            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
+            "start_time": 186.76
           },
           {
-            "p": "Walker Buehler's return to dominance is a masterclass in pitching. His command of four pitches, particularly his cutter to strike out Judge, shows how he's regained his pre-Tommy John form. Watch his pitch sequencing and how he keeps hitters off balance.",
-            "start_time": 65.2
+            "p": "Watch his pre-pitch setup on steal attempts - the slight weight shift, the timing of his secondary lead, and how he uses the pitcher's tempo against them. His success rate shows mastery of these fundamentals.",
+            "start_time": 65.54
           },
           {
-            "p": "The battle of elite talents continues throughout - from Stanton's opposite-field power to Betts' defensive excellence. Each player's unique skills and adjustments throughout the game provide a fascinating study in high-level baseball.",
-            "start_time": 88.15
-          }
-        ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
-          {
-            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
-            "start_time": 59.7
-          },
-          {
-            "p": "Dave Roberts' bullpen management masterclass - the strategic timing of bringing in Buehler, the matchup plays throughout the comeback, every move calculated perfectly.",
-            "start_time": 140.63
-          },
-          {
-            "p": "The final sequence to Verdugo - notice how they played the percentages, working the corners, changing eye levels, before getting the crucial final out.",
-            "start_time": 9.02
-          }
-        ],
-        "Mariners_vs_Angels": [
-          {
-            "p": "Not relevant",
-            "start_time": null
+            "p": "His outfield defense showcases elite athleticism - the way he tracks the ball off the bat, takes efficient routes, and times his leap against the ivy shows advanced defensive instincts.",
+            "start_time": 297.44
           }
         ],
         "Red_Sox_vs_Yankees": [
@@ -362,28 +328,40 @@
             "start_time": 447.3
           }
         ],
-        "Ronald_Acuña_Jr": [
+        "Mariners_vs_Angels": [
           {
-            "p": "Study Acuña's baserunning technique - notice his explosive first step and minimal lead. His success rate against catchers demonstrates elite acceleration and read of pitcher's moves.",
-            "start_time": 20.12
+            "p": "A fascinating debut for Samuel Aldegary, the first Italian-born MLB pitcher. Despite early struggles, his ability to adapt and settle down shows promising development potential - throwing 5 innings in his first start. Watch his pitch selection and mechanics, particularly how he adjusts after the challenging first inning.",
+            "start_time": 24.12
           },
           {
-            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
-            "start_time": 186.76
+            "p": "Taylor Ward continues to demonstrate his improved plate approach, launching a leadoff home run off George Kirby. His recent hot streak is evident in his 10-game hitting streak, and his ability to work counts is becoming a key asset for the Angels' lineup.",
+            "start_time": 141.61
           },
           {
-            "p": "Watch his pre-pitch setup on steal attempts - the slight weight shift, the timing of his secondary lead, and how he uses the pitcher's tempo against them. His success rate shows mastery of these fundamentals.",
-            "start_time": 65.54
+            "p": "Mickey Moniak and Brandon Drury showcase their power potential with back-to-back home runs. Drury's particularly impressive at-bat demonstrates his growth as a hitter, working the count before delivering the big hit. This kind of development in our players is exactly what makes player analysis so fascinating.",
+            "start_time": 305.9
           },
           {
-            "p": "His outfield defense showcases elite athleticism - the way he tracks the ball off the bat, takes efficient routes, and times his leap against the ivy shows advanced defensive instincts.",
-            "start_time": 297.44
+            "p": "Zach Neto's baserunning prowess is on full display with his 24th and 25th stolen bases of the season. His aggressive yet calculated approach on the basepaths, combined with his defensive skills (despite the two errors), shows why he's one of the most intriguing young talents to watch.",
+            "start_time": 164.79
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+          {
+            "p": "Not relevant",
+            "start_time": null
           }
         ]
       }
     },
     "alex-martinez": {
-      "img": "img/la-dodgers.webp",
+      "img": "img/dodgers.jpg",
       "name": "Alex Martinez",
       "fan-type": "Casual Viewer",
       "description": "General sports interest",
@@ -393,43 +371,26 @@
       "age": 44,
       "gender": "M",
       "location": "Los Angeles",
-      "games-attended-2024": 1,
-      "games-watched-mlb-tv": 7,
-      "minutes-watched-mlb-tv": 2481,
-      "family": "Family",
-      "usd-spent-mlb-shop": 115,
+      "games-attended-2024": "Low",
+      "games-watched-mlb-tv": "Moderate",
+      "minutes-watched-mlb-tv": "Low",
+      "marital-status": "Family",
+      "usd-spent-mlb-shop": "Low",
       "season-ticket-holder": "Single",
+      "family-with-kids": "Yes",
       "highlights": {
-        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Check out this incredible moment of raw power! A massive 470-foot home run that showcases the excitement of baseball. The commentators' amazement and the ball landing in the Hank Aaron Terrace make this a truly spectacular highlight.",
-            "start_time": 4.3
-          }
-        ],
-        "Dodgers_vs_Giants_Highlights": [
-          {
-            "p": "An exciting rivalry game with plenty of dramatic moments! From Betts' leadoff homer to Freeman's three-run blast and a game-tying home run. The back-and-forth action and close finish make this a perfect highlight for casual fans.",
-            "start_time": 4.3
+            "p": "Unbelievable scenes as the Dodgers complete the greatest comeback in World Series clinching game history! From down 5-0 to winning 7-6, this is what October magic is all about!",
+            "start_time": 59.7
           },
           {
-            "p": "The crowd is electric from the first pitch! You can feel the intensity of this historic rivalry in every at-bat!",
-            "start_time": 24.12
+            "p": "The celebration erupts! Players rushing the field, fans going wild - this is what baseball dreams are made of! A comeback for the ages to win the World Series!",
+            "start_time": 140.63
           },
           {
-            "p": "What a moment as Mookie launches one into the bleachers! The fans are going absolutely wild!",
-            "start_time": 56.38
-          },
-          {
-            "p": "The tension builds as Yamamoto works his magic - every strikeout gets a bigger roar from the crowd!",
-            "start_time": 155.02
-          },
-          {
-            "p": "That double play brings everyone to their feet! The energy in the stadium is incredible!",
-            "start_time": 289.83
-          },
-          {
-            "p": "The fans are loving every minute as the bullpen shuts it down! Another classic chapter in this amazing rivalry!",
-            "start_time": 437.55
+            "p": "The tension is electric as Verdugo steps in - the Yankees' last hope with the tying run at the plate! The crowd on their feet, holding their breath with every pitch!",
+            "start_time": 9.02
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
@@ -447,24 +408,6 @@
           },
           {
             "p": "The perfect ending to an incredible game - Freeman's walk-off homer instantly becomes one of the greatest moments in Dodger Stadium history, right up there with Gibson's '88 blast! The celebration that follows, with Ohtani and Betts leading the charge to home plate, signals the start of a new golden era in Dodgers baseball.",
-            "start_time": 89.45
-          }
-        ],
-        "Dodgers_vs_Yankees_World_Series_Game_5": [
-          {
-            "p": "The crowd erupts as Judge and Chisholm go back-to-back in the first inning! Two massive home runs that set the tone for an incredible game. The energy in Yankee Stadium is off the charts as the home team takes an early 3-0 lead!",
-            "start_time": 24.12
-          },
-          {
-            "p": "Edge-of-your-seat action as Cole takes a no-hitter deep into the game! The tension builds with every out, and Judge adds to the excitement with an incredible leaping catch at the wall that brings the crowd to their feet!",
-            "start_time": 45.3
-          },
-          {
-            "p": "The game takes a dramatic turn in the fifth inning! After the Yankees' defense falters, the Dodgers mount an incredible comeback. Freeman comes through with a clutch hit, and suddenly we've got a brand new ballgame tied at 5-5!",
-            "start_time": 67.2
-          },
-          {
-            "p": "The drama reaches its peak in the late innings as both teams battle for their World Series lives! Stanton delivers the go-ahead sacrifice fly that has the Bronx faithful going wild. Every pitch matters in this instant classic!",
             "start_time": 89.45
           }
         ],
@@ -486,21 +429,25 @@
             "start_time": 89.45
           }
         ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
           {
-            "p": "The tension is electric as Verdugo steps in - the Yankees' last hope with the tying run at the plate! The crowd on their feet, holding their breath with every pitch!",
-            "start_time": 9.02
+            "p": "The crowd erupts as Judge and Chisholm go back-to-back in the first inning! Two massive home runs that set the tone for an incredible game. The energy in Yankee Stadium is off the charts as the home team takes an early 3-0 lead!",
+            "start_time": 24.12
           },
           {
-            "p": "Unbelievable scenes as the Dodgers complete the greatest comeback in World Series clinching game history! From down 5-0 to winning 7-6, this is what October magic is all about!",
-            "start_time": 59.7
+            "p": "Edge-of-your-seat action as Cole takes a no-hitter deep into the game! The tension builds with every out, and Judge adds to the excitement with an incredible leaping catch at the wall that brings the crowd to their feet!",
+            "start_time": 45.3
           },
           {
-            "p": "The celebration erupts! Players rushing the field, fans going wild - this is what baseball dreams are made of! A comeback for the ages to win the World Series!",
-            "start_time": 140.63
+            "p": "The game takes a dramatic turn in the fifth inning! After the Yankees' defense falters, the Dodgers mount an incredible comeback. Freeman comes through with a clutch hit, and suddenly we've got a brand new ballgame tied at 5-5!",
+            "start_time": 67.2
+          },
+          {
+            "p": "The drama reaches its peak in the late innings as both teams battle for their World Series lives! Stanton delivers the go-ahead sacrifice fly that has the Bronx faithful going wild. Every pitch matters in this instant classic!",
+            "start_time": 89.45
           }
         ],
-        "Mariners_vs_Angels": [
+        "Ronald_Acuña_Jr": [
           {
             "p": "Not relevant",
             "start_time": null
@@ -524,16 +471,48 @@
             "start_time": 447.3
           }
         ],
-        "Ronald_Acuña_Jr": [
+        "Mariners_vs_Angels": [
           {
             "p": "Not relevant",
             "start_time": null
+          }
+        ],
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+          {
+            "p": "Check out this incredible moment of raw power! A massive 470-foot home run that showcases the excitement of baseball. The sheer power and distance make this a truly memorable highlight.",
+            "start_time": 4.3
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "An exciting rivalry game with plenty of dramatic moments! From Betts' leadoff homer to Freeman's three-run blast and a game-tying home run. The back-and-forth action and close finish make this a must-watch. The historic rivalry adds extra weight to every play in this intense matchup.",
+            "start_time": 4.3
+          },
+          {
+            "p": "The crowd is electric from the first pitch! You can feel the intensity of this historic rivalry in every at-bat!",
+            "start_time": 24.12
+          },
+          {
+            "p": "What a moment as Mookie launches one into the bleachers! The fans are going absolutely wild!",
+            "start_time": 56.38
+          },
+          {
+            "p": "The tension builds as Yamamoto works his magic - every strikeout gets a bigger roar from the crowd!",
+            "start_time": 155.02
+          },
+          {
+            "p": "That double play brings everyone to their feet! The energy in the stadium is incredible!",
+            "start_time": 289.83
+          },
+          {
+            "p": "The fans are loving every minute as the bullpen shuts it down! Another classic chapter in this amazing rivalry!",
+            "start_time": 437.55
           }
         ]
       }
     },
     "emily-davis": {
-      "img": "img/no-fav-team.webp",
+      "img": "img/emily.jpg",
       "name": "Emily Davis",
       "fan-type": "Game Analyst",
       "description": "Analytical mindset, often played baseball",
@@ -542,34 +521,135 @@
       "favorite-players": "Jacob deGrom, Max Fried",
       "age": 33,
       "gender": "F",
-      "location": "Atlanta",
-      "games-attended-2024": 11,
-      "games-watched-mlb-tv": 94,
-      "minutes-watched-mlb-tv": 13162,
-      "family": " Single",
-      "usd-spent-mlb-shop": 791,
+      "location": "Boston",
+      "games-attended-2024": "Low",
+      "games-watched-mlb-tv": "High",
+      "minutes-watched-mlb-tv": "High",
+      "marital-status": "Single",
+      "usd-spent-mlb-shop": "Low",
       "season-ticket-holder": "Half",
+      "family-with-kids": "No",
       "highlights": {
-        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Notice the technical aspects here - the 3-1 count setup, the pitcher's sinker placement up in the zone (a departure from their usual low sinker strategy), and the perfect contact resulting in a 470-foot blast. A great example of how pitch location can significantly impact outcomes.",
-            "start_time": 4.3
+            "p": "Observe the strategic elements at play in this final at-bat. Dave Roberts' bullpen management, bringing in Buehler on short rest, proves to be the decisive tactical decision of the series.",
+            "start_time": 0.0
           },
           {
-            "p": "Contact point optimization: 1.2 inches higher than his season average, resulting in a 98% sweet spot probability on this swing.",
-            "start_time": 20.5
+            "p": "The data supports this historic comeback - the Dodgers' win probability dropped to just 3.2% after the 5-0 deficit.",
+            "start_time": 30.0
           },
           {
-            "p": "Pitch data: 93.4 mph sinker with 18.2 inches of vertical break, located 3.8 inches above optimal pitcher's location.",
-            "start_time": 35.2
+            "p": "Roberts' managerial decisions throughout the game, particularly his unconventional use of Buehler in relief, demonstrate how modern analytics can influence championship-winning strategies.",
+            "start_time": 60.0
+          }
+        ],
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
+          {
+            "p": "A fascinating strategic battle begins with the lineup construction - notice how Roberts stacks his lefties against Cole, while Boone optimizes his batting order for platoon advantages. The defensive alignments shift dramatically based on each hitter's spray charts.",
+            "start_time": 24.12
           },
           {
-            "p": "Environmental factors: 8mph outward wind, 62% humidity, 72°F - conditions added approximately 15 feet to raw projected distance.",
-            "start_time": 57.0
+            "p": "The pitching matchups are a masterclass in game theory. Watch how Yamamoto's pitch selection evolves through the order - starting with a fastball-heavy approach before mixing in more splitters and cutters the second time through. Cole counters by changing his sequencing, particularly against the Dodgers' left-handed hitters.",
+            "start_time": 46.3
           },
           {
-            "p": "Barrel speed at contact: 78.3 mph, bat path efficiency: 96.2% - both career highs for Acuña on elevated sinkers.",
-            "start_time": 65.0
+            "p": "Both managers' bullpen usage reveals their strategic priorities. The high-leverage situations in innings 6-8 showcase how each team deploys their relievers based on matchups and rest patterns. Pay attention to the subtle defensive adjustments with each new pitcher.",
+            "start_time": 68.15
+          },
+          {
+            "p": "The game-ending sequence is a perfect study in high-stakes decision-making. From the defensive positioning against Freeman, to Holmes' pitch selection in a full count, to the Dodgers' pinch-running decisions in the previous inning - every detail matters in these crucial moments.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series": [
+          {
+            "p": "Observe the strategic battle from the start: The Dodgers' patient approach forces Schmidt to throw 35 pitches in the first inning, while Buehler establishes his fastball early to set up his breaking pitches later in the game.",
+            "start_time": 24.12
+          },
+          {
+            "p": "The defensive positioning tells a fascinating story - watch how the Yankees shift against Freeman, only to see him beat it with an opposite-field approach. The Dodgers' outfield alignment against Judge similarly shows their detailed preparation.",
+            "start_time": 46.3
+          },
+          {
+            "p": "A clinic in bullpen management unfolds as both teams navigate the middle innings. Note how each manager leverages matchups, particularly in high-leverage situations with runners in scoring position.",
+            "start_time": 68.15
+          },
+          {
+            "p": "The late-game chess match between managers becomes crucial - every pitching change and defensive substitution has ripple effects. Pay attention to how each team's strategy evolves based on the opposing pitcher and game situation.",
+            "start_time": 89.45
+          }
+        ],
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
+          {
+            "p": "Notice the strategic approach in the first inning: Flaherty's attempt to surprise Judge with a first-pitch fastball backfires, while Cole's early pitch mix establishes dominance. The contrasting game plans of both starters become evident from the outset.",
+            "start_time": 24.12
+          },
+          {
+            "p": "The Dodgers' early pitching change forces both managers into a chess match with their bullpens. Watch how the Yankees adjust their approach against different relievers, while the Dodgers try to maximize their matchups.",
+            "start_time": 45.3
+          },
+          {
+            "p": "A fascinating study in how defense impacts strategy: The Yankees' errors in the fifth inning force Cole to adjust his pitch selection and location. The Dodgers capitalize by changing their offensive approach with runners on base.",
+            "start_time": 67.2
+          },
+          {
+            "p": "The late-game management becomes crucial as both teams navigate high-leverage situations. Note the defensive positioning, pitch selection, and bullpen usage as every decision carries maximum weight in this elimination game.",
+            "start_time": 89.45
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "Acuña's stolen base success rate of 100% against the Mets (20/20) significantly exceeds league average. His lead distance and acceleration metrics indicate optimal risk/reward calculation on steal attempts.",
+            "start_time": 20.12
+          },
+          {
+            "p": "That 461-foot home run registered a 108.5 mph exit velocity with a 28-degree launch angle - nearly perfect optimization for maximum distance. His barrel rate on elevated fastballs shows marked improvement.",
+            "start_time": 186.76
+          },
+          {
+            "p": "Sprint speed analytics on his stolen bases average 30.2 ft/sec, placing him in the 99th percentile. His success rate correlates strongly with pitcher delivery times above 1.3 seconds.",
+            "start_time": 65.54
+          },
+          {
+            "p": "His catch probability on the Wrigley play was just 35% based on distance covered and time to wall. His route efficiency of 98.2% and first-step reaction time of 0.4 seconds were both elite metrics.",
+            "start_time": 297.44
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "Fascinating strategic dynamics in the Cole-Devers matchup. The intentional walk after the HBP incident shows a 15.3% increase in run expectancy, but Cora's reaction suggests deeper game theory implications.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon's pitch selection shows significant optimization - 96mph fastballs at the top of the zone yielding a 35% whiff rate, while his breaking balls generate 65% ground ball contact.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton's RBI double registered 108.5 mph exit velocity at a 25-degree launch angle - nearly optimal for extra-base hit probability in Yankee Stadium's dimensions.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber's opposite-field home run demonstrates the benefits of the adjusted launch angle approach - 29 degrees with backspin creating optimal carry in the afternoon conditions.",
+            "start_time": 447.3
+          }
+        ],
+        "Mariners_vs_Angels": [
+          {
+            "p": "The Mariners' offensive approach against Aldegary showed textbook exploitation of a rookie pitcher's tendencies. They forced him into high-stress situations by extending at-bats (4.2 pitches per PA in the first inning) and capitalizing on his elevated release point when he worked from the stretch.",
+            "start_time": 67.2
+          },
+          {
+            "p": "Fascinating pitch sequencing from George Kirby, especially after the Ward home run. Notice how he adjusted his approach, increasing his breaking ball usage from 23% to 35% in subsequent innings, effectively keeping hitters off balance. His command metrics remained elite with a 68% first-pitch strike rate.",
+            "start_time": 141.61
+          },
+          {
+            "p": "Key defensive positioning shifts by Seattle's outfield throughout the game: Robles playing 15 feet shallower than league average against bottom-third hitters, while maintaining plus-15 feet depth against Ward and Moniak. This directly impacted two crucial plays in the 6th inning.",
+            "start_time": 305.9
+          },
+          {
+            "p": "Critical bullpen management by both teams in high-leverage situations. Seattle's decision to bring in Shaquan with runners on base deviated from their normal usage patterns, but the matchup metrics supported this move - he had a 68% ground ball rate against left-handed hitters in similar situations.",
+            "start_time": 428.48
           }
         ],
         "Dodgers_vs_Giants_Highlights": [
@@ -597,73 +677,130 @@
             "p": "Defensive positioning created -3.2 runs prevented, with outfield alignments saving 1.8 runs above average.",
             "start_time": 520.79
           }
+        ]
+      }
+    },
+    "chris-lee": {
+      "img": "img/braves.jpg",
+      "name": "Chris Lee",
+      "fan-type": "Big Event Fan",
+      "description": "Enjoys spectacle and drama",
+      "favourite-aspect": "High-stakes games, records",
+      "favorite-teams": "Atlanta Braves",
+      "favorite-players": "Ronald Acuña Jr.",
+      "age": 19,
+      "gender": "M",
+      "location": "Chicago",
+      "games-attended-2024": "Low",
+      "games-watched-mlb-tv": "Moderate",
+      "minutes-watched-mlb-tv": "Low",
+      "marital-status": "Family",
+      "usd-spent-mlb-shop": "Medium",
+      "season-ticket-holder": "Single",
+      "family-with-kids": "No",
+      "highlights": {
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "This is our moment! Watch as Walker Buehler, our ace who fought back from injury, comes in to close out the biggest game of the year. The heart of a champion on full display!",
+            "start_time": 0.0
+          },
+          {
+            "p": "Unbelievable! The largest comeback in World Series clinching game history belongs to our Dodgers! From down 5-0 to winning it all, this team never stopped believing!",
+            "start_time": 30.0
+          },
+          {
+            "p": "The celebration begins in the Bronx as our Boys in Blue capture their eighth World Series title! Dave Roberts masterfully guides this team to glory, proving once again why we're one of baseball's premier franchises!",
+            "start_time": 60.0
+          }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "A fascinating strategic battle begins with the lineup construction - notice how Roberts stacks his lefties against Cole, while Boone optimizes his batting order for platoon advantages. The defensive alignments shift dramatically based on each hitter's spray charts.",
+            "p": "Another historic chapter in Dodgers baseball! Watch how our new superstar duo of Ohtani and Betts sets the tone early, with Mookie's leadoff double and Shohei's RBI single putting us ahead. The energy at Dodger Stadium rivals any moment in our storied history.",
             "start_time": 24.12
           },
           {
-            "p": "The pitching matchups are a masterclass in game theory. Watch how Yamamoto's pitch selection evolves through the order - starting with a fastball-heavy approach before mixing in more splitters and cutters the second time through. Cole counters by changing his sequencing, particularly against the Dodgers' left-handed hitters.",
-            "start_time": 46.3
-          },
-          {
-            "p": "Both managers' bullpen usage reveals their strategic priorities. The high-leverage situations in innings 6-8 showcase how each team deploys their relievers based on matchups and rest patterns. Pay attention to the subtle defensive adjustments with each new pitcher.",
-            "start_time": 68.15
-          },
-          {
-            "p": "The game-ending sequence is a perfect study in high-stakes decision-making. From the defensive positioning against Freeman, to Holmes' pitch selection in a full count, to the Dodgers' pinch-running decisions in the previous inning - every detail matters in these crucial moments.",
-            "start_time": 89.45
-          }
-        ],
-        "Dodgers_vs_Yankees_World_Series_Game_5": [
-          {
-            "p": "Notice the strategic approach in the first inning: Flaherty's attempt to surprise Judge with a first-pitch fastball backfires, while Cole's early pitch mix establishes dominance. The contrasting game plans of both starters become evident from the outset.",
-            "start_time": 24.12
-          },
-          {
-            "p": "The Dodgers' early pitching change forces both managers into a chess match with their bullpens. Watch how the Yankees adjust their approach against different relievers, while the Dodgers try to maximize their matchups.",
+            "p": "Yamamoto shows why he's our ace, battling through 5 tough innings against a powerful Yankees lineup. The defense behind him is spectacular, with Betts making a diving catch reminiscent of his 2020 playoff heroics and Lux turning a crucial double play up the middle.",
             "start_time": 45.3
           },
           {
-            "p": "A fascinating study in how defense impacts strategy: The Yankees' errors in the fifth inning force Cole to adjust his pitch selection and location. The Dodgers capitalize by changing their offensive approach with runners on base.",
+            "p": "Even when the Yankees take the lead on Stanton's home run, our team shows the resilience that's been a hallmark of Dodger baseball. The 8th inning rally, sparked by Ohtani's double and Smith's game-tying single, brings back memories of our greatest comeback victories.",
             "start_time": 67.2
           },
           {
-            "p": "The late-game management becomes crucial as both teams navigate high-leverage situations. Note the defensive positioning, pitch selection, and bullpen usage as every decision carries maximum weight in this elimination game.",
+            "p": "Freeman's walk-off homer instantly becomes one of the greatest moments in Dodger Stadium history, right up there with Gibson's '88 blast! The celebration that follows, with Ohtani and Betts leading the charge to home plate, signals the start of a new golden era in Dodgers baseball.",
             "start_time": 89.45
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
           {
-            "p": "Observe the strategic battle from the start: The Dodgers' patient approach forces Schmidt to throw 35 pitches in the first inning, while Buehler establishes his fastball early to set up his breaking pitches later in the game.",
+            "p": "Our Dodgers bring their championship pedigree to Yankee Stadium! The team's confidence is evident from the start as Ohtani works a leadoff walk and Freeman delivers another clutch home run to silence the Bronx crowd.",
             "start_time": 24.12
           },
           {
-            "p": "The defensive positioning tells a fascinating story - watch how the Yankees shift against Freeman, only to see him beat it with an opposite-field approach. The Dodgers' outfield alignment against Judge similarly shows their detailed preparation.",
-            "start_time": 46.3
+            "p": "Walker Buehler shows why he's one of our aces, dominating the Yankees lineup with a mix of power and precision. His performance, reminiscent of the great Dodger pitchers of the past, sets the tone for a masterful team victory.",
+            "start_time": 45.3
           },
           {
-            "p": "A clinic in bullpen management unfolds as both teams navigate the middle innings. Note how each manager leverages matchups, particularly in high-leverage situations with runners in scoring position.",
-            "start_time": 68.15
+            "p": "The Dodgers' defense puts on a show! Mookie Betts makes another spectacular catch, and Oscar Hernandez's perfect throw to nail Stanton at home plate demonstrates why we're not just about offense - this team can do it all!",
+            "start_time": 67.2
           },
           {
-            "p": "The late-game chess match between managers becomes crucial - every pitching change and defensive substitution has ripple effects. Pay attention to how each team's strategy evolves based on the opposing pitcher and game situation.",
+            "p": "Every aspect of Dodger baseball is on display - from manufacturing runs with smart baserunning to lockdown relief pitching. This win in hostile territory proves why we're built for October success!",
             "start_time": 89.45
           }
         ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+        "Dodgers_vs_Yankees_World_Series_Game_5": [
           {
-            "p": "Observe the strategic elements at play in this final at-bat. Dave Roberts' bullpen management, bringing in Buehler on short rest, proves to be the decisive tactical decision of the series.",
-            "start_time": 0.0
+            "p": "The drama unfolds in baseball's most iconic venue as our Dodgers face elimination in Yankee Stadium! The electric atmosphere sets the stage for another historic chapter in this storied rivalry.",
+            "start_time": 24.12
           },
           {
-            "p": "The data supports this historic comeback - the Dodgers' win probability dropped to just 3.2% after the 5-0 deficit.",
-            "start_time": 30.0
+            "p": "Though we fall behind early, our team shows the resilience that's defined this season. Watch how the Dodgers methodically work their way back into the game, with Freeman continuing to demonstrate why he's one of the game's greatest clutch performers.",
+            "start_time": 45.3
           },
           {
-            "p": "Roberts' managerial decisions throughout the game, particularly his unconventional use of Buehler in relief, demonstrate how modern analytics can influence championship-winning strategies.",
-            "start_time": 60.0
+            "p": "The fifth inning comeback is pure Dodger baseball! Taking advantage of every opportunity, our team fights back to tie the game at 5-5. The rally showcases the never-say-die attitude that's made this team special.",
+            "start_time": 67.2
+          },
+          {
+            "p": "Even in a tough loss, the Dodgers show why they're one of baseball's premier franchises. The late-inning battle, with both teams throwing their best punches, adds another thrilling chapter to this classic rivalry.",
+            "start_time": 89.45
+          }
+        ],
+        "Ronald_Acuña_Jr": [
+          {
+            "p": "BOOM! Watch this electrifying moment as Acuña launches an absolute moonshot to center field - a jaw-dropping 461-foot blast that silences the crowd! The raw power, the perfect swing, and that signature bat flip celebration make this one of the most spectacular home runs you'll ever see!",
+            "start_time": 186.76
+          },
+          {
+            "p": "The drama unfolds as Acuña puts on a baserunning clinic, turning what should have been a routine single into a heart-stopping triple! The crowd erupts as he dives headfirst into third base, narrowly beating the throw in a cloud of dust - pure baseball theater at its finest!",
+            "start_time": 233.42
+          },
+          {
+            "p": "In a moment that brings the entire stadium to its feet, Acuña makes an incredible game-saving catch against the ivy-covered wall! The way he tracks the ball, times his leap perfectly, and reaches up to make the spectacular grab - this is why baseball is the ultimate drama sport!",
+            "start_time": 297.44
+          },
+          {
+            "p": "The crowd goes absolutely wild as Acuña delivers the knockout punch - a mammoth three-run homer that keeps the Braves' incredible no-shutout streak alive at 172 games! The energy in the stadium is electric as he rounds the bases, arms raised in triumph - these are the moments that make baseball history!",
+            "start_time": 323.48
+          }
+        ],
+        "Red_Sox_vs_Yankees": [
+          {
+            "p": "The Cole-Devers confrontation recalls the fierce pitcher-batter rivalries of baseball's past, reminiscent of Gibson vs. Aaron or Clemens vs. Piazza. These moments define the Yankees-Red Sox legacy.",
+            "start_time": 27.24
+          },
+          {
+            "p": "Rodon's dominant pitching performance brings to mind the great Yankees-Red Sox duels of the past, where aces like Pedro Martinez and Roger Clemens would battle for supremacy.",
+            "start_time": 146.04
+          },
+          {
+            "p": "Stanton's clutch hitting continues the tradition of Yankees sluggers coming through in big moments against Boston, following in the footsteps of Mantle, Jackson, and O'Neill.",
+            "start_time": 205.14
+          },
+          {
+            "p": "Gleyber's opposite-field power shows how modern players are adapting to the historic dimensions of Yankee Stadium, just as lefty sluggers of the past took advantage of the short porch.",
+            "start_time": 447.3
           }
         ],
         "Mariners_vs_Angels": [
@@ -672,65 +809,9 @@
             "start_time": null
           }
         ],
-        "Red_Sox_vs_Yankees": [
-          {
-            "p": "Fascinating strategic dynamics in the Cole-Devers matchup. The intentional walk after the HBP incident shows a 15.3% increase in run expectancy, but Cora's reaction suggests deeper game theory implications.",
-            "start_time": 27.24
-          },
-          {
-            "p": "Rodon's pitch selection shows significant optimization - 96mph fastballs at the top of the zone yielding a 35% whiff rate, while his breaking balls generate 65% ground ball contact.",
-            "start_time": 146.04
-          },
-          {
-            "p": "Stanton's RBI double registered 108.5 mph exit velocity at a 25-degree launch angle - nearly optimal for extra-base hit probability in Yankee Stadium's dimensions.",
-            "start_time": 205.14
-          },
-          {
-            "p": "Gleyber's opposite-field home run demonstrates the benefits of the adjusted launch angle approach - 29 degrees with backspin creating optimal carry in the afternoon conditions.",
-            "start_time": 447.3
-          }
-        ],
-        "Ronald_Acuña_Jr": [
-          {
-            "p": "Acuña's stolen base success rate of 100% against the Mets (20/20) significantly exceeds league average. His lead distance and acceleration metrics indicate optimal risk/reward calculation on steal attempts.",
-            "start_time": 20.12
-          },
-          {
-            "p": "That 461-foot home run registered a 108.5 mph exit velocity with a 28-degree launch angle - nearly perfect optimization for maximum distance. His barrel rate on elevated fastballs shows marked improvement.",
-            "start_time": 186.76
-          },
-          {
-            "p": "Sprint speed analytics on his stolen bases average 30.2 ft/sec, placing him in the 99th percentile. His success rate correlates strongly with pitcher delivery times above 1.3 seconds.",
-            "start_time": 65.54
-          },
-          {
-            "p": "His catch probability on the Wrigley play was just 35% based on distance covered and time to wall. His route efficiency of 98.2% and first-step reaction time of 0.4 seconds were both elite metrics.",
-            "start_time": 297.44
-          }
-        ]
-      }
-    },
-    "chris-lee": {
-      "img": "img/atlanta-braves.webp",
-      "name": "Chris Lee",
-      "fan-type": "Big Event Fan",
-      "description": "Enjoys spectacle and drama",
-      "favourite-aspect": "High-stakes games, records",
-      "favorite-teams": "Atlanta Braves",
-      "favorite-players": "Ronald Acuña Jr.",
-      "age": 42,
-      "gender": "M",
-      "location": "Chicago",
-      "games-attended-2024": 1,
-      "games-watched-mlb-tv": 19,
-      "minutes-watched-mlb-tv": 4073,
-      "family": "Family",
-      "usd-spent-mlb-shop": 356,
-      "season-ticket-holder": "Single",
-      "highlights": {
         "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
           {
-            "p": "This is the kind of dramatic moment you live for! A towering 470-foot home run that lands in the historic Hank Aaron Terrace - adding another chapter to baseball's record books. The sheer power and distance make this a truly memorable highlight.",
+            "p": "This is the kind of dramatic moment you live for! A towering 470-foot home run that showcases the excitement of baseball. The sheer power and distance make this a truly spectacular highlight.",
             "start_time": 4.3
           }
         ],
@@ -759,109 +840,11 @@
             "p": "Love seeing the Giants' frustration as they keep failing to solve Yamamoto. Our ace is showing why he's the best in the division!",
             "start_time": 520.79
           }
-        ],
-        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
-          {
-            "p": "Another historic chapter in Dodgers baseball! Watch how our new superstar duo of Ohtani and Betts sets the tone early, with Mookie's leadoff double and Shohei's RBI single putting us ahead. The energy at Dodger Stadium rivals any moment in our storied history.",
-            "start_time": 24.12
-          },
-          {
-            "p": "Yamamoto shows why he's our ace, battling through 5 tough innings against a powerful Yankees lineup. The defense behind him is spectacular, with Betts making a diving catch reminiscent of his 2020 playoff heroics and Lux turning a crucial double play up the middle.",
-            "start_time": 45.3
-          },
-          {
-            "p": "Even when the Yankees take the lead on Stanton's home run, our team shows the resilience that's been a hallmark of Dodger baseball. The 8th inning rally, sparked by Ohtani's double and Smith's game-tying single, brings back memories of our greatest comeback victories.",
-            "start_time": 67.2
-          },
-          {
-            "p": "Freeman's walk-off homer instantly becomes one of the greatest moments in Dodger Stadium history, right up there with Gibson's '88 blast! The celebration that follows, with Ohtani and Betts leading the charge to home plate, signals the start of a new golden era in Dodgers baseball.",
-            "start_time": 89.45
-          }
-        ],
-        "Dodgers_vs_Yankees_World_Series_Game_5": [
-          {
-            "p": "The drama unfolds in baseball's most iconic venue as our Dodgers face elimination in Yankee Stadium! The electric atmosphere sets the stage for another historic chapter in this storied rivalry.",
-            "start_time": 24.12
-          },
-          {
-            "p": "Though we fall behind early, our team shows the resilience that's defined this season. Watch how the Dodgers methodically work their way back into the game, with Freeman continuing to demonstrate why he's one of the game's greatest clutch performers.",
-            "start_time": 45.3
-          },
-          {
-            "p": "The fifth inning comeback is pure Dodger baseball! Taking advantage of every opportunity, our team fights back to tie the game at 5-5. The rally showcases the never-say-die attitude that's made this team special.",
-            "start_time": 67.2
-          },
-          {
-            "p": "Even in a tough loss, the Dodgers show why they're one of baseball's premier franchises. The late-inning battle, with both teams throwing their best punches, adds another thrilling chapter to this classic rivalry.",
-            "start_time": 89.45
-          }
-        ],
-        "Dodgers_vs_Yankees_World_Series": [
-          {
-            "p": "Our Dodgers bring their championship pedigree to Yankee Stadium! The team's confidence is evident from the start as Ohtani works a leadoff walk and Freeman delivers another clutch home run to silence the Bronx crowd.",
-            "start_time": 24.12
-          },
-          {
-            "p": "Walker Buehler shows why he's one of our aces, dominating the Yankees lineup with a mix of power and precision. His performance, reminiscent of the great Dodger pitchers of the past, sets the tone for a masterful team victory.",
-            "start_time": 45.3
-          },
-          {
-            "p": "The Dodgers' defense puts on a show! Mookie Betts makes another spectacular catch, and Oscar Hernandez's perfect throw to nail Stanton at home plate demonstrates why we're not just about offense - this team can do it all!",
-            "start_time": 67.2
-          },
-          {
-            "p": "Every aspect of Dodger baseball is on display - from manufacturing runs with smart baserunning to lockdown relief pitching. This win in hostile territory proves why we're built for October success!",
-            "start_time": 89.45
-          }
-        ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
-          {
-            "p": "This is our moment! Watch as Walker Buehler, our ace who fought back from injury, comes in to close out the biggest game of the year. The heart of a champion on full display!",
-            "start_time": 0.0
-          },
-          {
-            "p": "Unbelievable! The largest comeback in World Series clinching game history belongs to our Dodgers! From down 5-0 to winning it all, this team never stopped believing!",
-            "start_time": 30.0
-          },
-          {
-            "p": "The celebration begins in the Bronx as our Boys in Blue capture their eighth World Series title! Dave Roberts masterfully guides this team to glory, proving once again why we're one of baseball's premier franchises!",
-            "start_time": 60.0
-          }
-        ],
-        "Mariners_vs_Angels": [
-          {
-            "p": "Not relevant",
-            "start_time": null
-          }
-        ],
-        "Red_Sox_vs_Yankees": [
-          {
-            "p": "The Cole-Devers confrontation recalls the fierce pitcher-batter rivalries of baseball's past, reminiscent of Gibson vs. Aaron or Clemens vs. Piazza. These moments define the Yankees-Red Sox legacy.",
-            "start_time": 27.24
-          },
-          {
-            "p": "Rodon's dominant pitching performance brings to mind the great Yankees-Red Sox duels of the past, where aces like Pedro Martinez and Roger Clemens would battle for supremacy.",
-            "start_time": 146.04
-          },
-          {
-            "p": "Stanton's clutch hitting continues the tradition of Yankees sluggers coming through in big moments against Boston, following in the footsteps of Mantle, Jackson, and O'Neill.",
-            "start_time": 205.14
-          },
-          {
-            "p": "Gleyber's opposite-field power shows how modern players are adapting to the historic dimensions of Yankee Stadium, just as lefty sluggers of the past took advantage of the short porch.",
-            "start_time": 447.3
-          }
-        ],
-        "Ronald_Acuña_Jr": [
-          {
-            "p": "Not relevant",
-            "start_time": null
-          }
         ]
       }
     },
     "charles-harris": {
-      "img": "img/ny-yankees.webp",
+      "img": "img/yankees.jpg",
       "name": "Charles Harris",
       "fan-type": "Nostalgic Fan",
       "description": "Grew up watching baseball's golden era",
@@ -871,43 +854,26 @@
       "age": 58,
       "gender": "M",
       "location": "New York",
-      "games-attended-2024": 10,
-      "games-watched-mlb-tv": 89,
-      "minutes-watched-mlb-tv": 25647,
-      "family": "Family",
-      "usd-spent-mlb-shop": 734,
+      "games-attended-2024": "Low",
+      "games-watched-mlb-tv": "Moderate",
+      "minutes-watched-mlb-tv": "Moderate",
+      "marital-status": "Family",
+      "usd-spent-mlb-shop": "Medium",
       "season-ticket-holder": "Half",
+      "family-with-kids": "Yes",
       "highlights": {
-        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Not relevant",
-            "start_time": null
-          }
-        ],
-        "Dodgers_vs_Giants_Highlights": [
-          {
-            "p": "A continuation of the historic Dodgers-Giants rivalry that dates back to their New York days. While the players have changed, the intensity of this classic West Coast rivalry remains as strong as ever.",
-            "start_time": 4.3
+            "p": "History unfolds before our eyes as Walker Buehler channels the spirit of Orel Hershiser's legendary 1988 performance, coming in on short rest to close out the Series. Some moments transcend time.",
+            "start_time": 0.0
           },
           {
-            "p": "This rivalry adds another classic chapter - the 2,548th meeting between these storied franchises dates back to their New York roots.",
-            "start_time": 24.12
+            "p": "This comeback rivals the greatest in World Series history, surpassing even the 1956 Yankees' famous Game 7 rally. Dave Roberts' masterful managing echoes Walter Alston's finest moments in Dodgers history.",
+            "start_time": 30.0
           },
           {
-            "p": "Yamamoto's performance reminiscent of Orel Hershiser's dominance against the Giants in the late 80s - same devastating splitter approach.",
-            "start_time": 155.02
-          },
-          {
-            "p": "The Lux-Smith double play combo showing shades of the Lopes-Russell partnership that anchored the infield in the 70s.",
-            "start_time": 289.83
-          },
-          {
-            "p": "This bullpen performance ranks among the best in the rivalry's history - echoes of the dominant relief corps from the 1965 pennant race.",
-            "start_time": 437.55
-          },
-          {
-            "p": "The defensive shifts and analytics-driven positioning show how far this rivalry has evolved from the pure gut-instinct days of Leo Durocher.",
-            "start_time": 520.79
+            "p": "As the Dodgers celebrate their eighth championship, they add another golden chapter to baseball's most storied rivalry. The ghosts of Ebbets Field and old Yankee Stadium surely smiled upon this classic Series.",
+            "start_time": 60.0
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
@@ -964,21 +930,7 @@
             "start_time": 89.45
           }
         ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
-          {
-            "p": "History unfolds before our eyes as Walker Buehler channels the spirit of Orel Hershiser's legendary 1988 performance, coming in on short rest to close out the Series. Some moments transcend time.",
-            "start_time": 0.0
-          },
-          {
-            "p": "This comeback rivals the greatest in World Series history, surpassing even the 1956 Yankees' famous Game 7 rally. Dave Roberts' masterful managing echoes Walter Alston's finest moments in Dodgers history.",
-            "start_time": 30.0
-          },
-          {
-            "p": "As the Dodgers celebrate their eighth championship, they add another golden chapter to baseball's most storied rivalry. The ghosts of Ebbets Field and old Yankee Stadium surely smiled upon this classic Series.",
-            "start_time": 60.0
-          }
-        ],
-        "Mariners_vs_Angels": [
+        "Ronald_Acuña_Jr": [
           {
             "p": "Not relevant",
             "start_time": null
@@ -1002,10 +954,42 @@
             "start_time": 447.3
           }
         ],
-        "Ronald_Acuña_Jr": [
+        "Mariners_vs_Angels": [
           {
             "p": "Not relevant",
             "start_time": null
+          }
+        ],
+        "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
+          {
+            "p": "Not relevant",
+            "start_time": null
+          }
+        ],
+        "Dodgers_vs_Giants_Highlights": [
+          {
+            "p": "A continuation of the historic Dodgers-Giants rivalry that dates back to their New York days. While the players have changed, the intensity of this classic West Coast rivalry remains as strong as ever.",
+            "start_time": 4.3
+          },
+          {
+            "p": "This rivalry adds another classic chapter - the 2,548th meeting between these storied franchises dates back to their New York roots.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Yamamoto's performance reminiscent of Orel Hershiser's dominance against the Giants in the late 80s - same devastating splitter approach.",
+            "start_time": 155.02
+          },
+          {
+            "p": "The Lux-Smith double play combo showing shades of the Lopes-Russell partnership that anchored the infield in the 70s.",
+            "start_time": 289.83
+          },
+          {
+            "p": "This bullpen performance ranks among the best in the rivalry's history - echoes of the dominant relief corps from the 1965 pennant race.",
+            "start_time": 437.55
+          },
+          {
+            "p": "The defensive shifts and analytics-driven positioning show how far this rivalry has evolved from the pure gut-instinct days of Leo Durocher.",
+            "start_time": 520.79
           }
         ]
       }

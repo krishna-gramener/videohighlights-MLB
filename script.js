@@ -3,7 +3,6 @@
 import { render, html } from "https://cdn.jsdelivr.net/npm/lit-html@3/+esm";
 import { unsafeHTML } from "https://cdn.jsdelivr.net/npm/lit-html@3/directives/unsafe-html.js";
 import { marked } from "https://cdn.jsdelivr.net/npm/marked@12/lib/marked.esm.js";
-import { pc } from "https://cdn.jsdelivr.net/npm/@gramex/ui@0.3/dist/format.js";
 
 const youtubeScript = document.createElement("script");
 youtubeScript.src = "https://www.youtube.com/iframe_api";
@@ -30,18 +29,14 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 let transcriptData;
 
 const homePage = html`
-  <h1 class="display-1 my-5 text-center">Video Highlights- MLB</h1>
+  <h1 class="display-1 my-5 text-center">MLB Lens</h1>
 
-  <p class="text-center display-6">Personalize transcripts. Highlight actionable insights.</p>
+  <p class="text-center display-6">Where Every Fan's Journey Becomes Part of the Game</p>
   <div class="mx-auto my-5 narrative">
-    <h2 class="h5">Videos are slow. Transcripts are long.</h2>
-    <q
-      >I don't have the patience to watch the entire videos or read the transcript. I don't even know if it's
-      relevant!</q
-    >
-    <h2 class="h5 mt-3">Each person is different</h2>
-    <q>Generic summaries waste my time. Tell me what <strong>I</strong> should know!</q>
-    <h2 class="h5 mt-3 text-danger">Can marketers personalize video/podcast highlights?</h2>
+    <h2 class="h5">Every Play Tells a Story</h2>
+    <q>From walk-off homers to diving catches, baseball's greatest moments mean something different to everyone. What's your story?</q>
+    <h2 class="h5 mt-3">Your Game, Your Way</h2>
+    <q>Discover baseball through a lens crafted just for you. Because the perfect highlight isn't just about the play—it's about how it speaks to <strong>you</strong>.</q>
   </div>
 
   <hr class="my-5" />
@@ -60,24 +55,19 @@ const homePage = html`
                 <p class="mb-1">
                   <strong>Age</strong>: ${advisor.age} | <strong>Location</strong>: ${advisor.location}
                 </p>
-                <p class="mb-1"><strong>Teams</strong>: ${advisor["favorite-teams"] || "None"}</p>
-                <p class="mb-1"><strong>Players</strong>: ${advisor["favorite-players"]}</p>
+                <p class="mb-1"><strong>Fav Teams</strong>: ${advisor["favorite-teams"] || "None"}</p>
+                <p class="mb-1"><strong>Fav Players</strong>: ${advisor["favorite-players"]}</p>
+                <p class="mb-1"><strong>Marital Status</strong>: ${advisor["marital-status"]}</p>
+                <p class="mb-1"><strong>Family with Kids</strong>: ${advisor["family-with-kids"]}</p>
               </div>
 
               <div class="mb-3">
-                <h6 class="text-primary">Engagement Stats</h6>
+                <h6 class="text-primary">Engagement Metrics</h6>
                 <p class="mb-1"><strong>Games Attended</strong>: ${advisor["games-attended-2024"]}</p>
                 <p class="mb-1"><strong>Games Watched</strong>: ${advisor["games-watched-mlb-tv"]}</p>
-                <p class="mb-1">
-                  <strong>Watch Time</strong>: ${Math.round(advisor["minutes-watched-mlb-tv"] / 60)} hours
-                </p>
-              </div>
-
-              <div class="mb-3">
-                <h6 class="text-primary">Fan Status</h6>
+                <p class="mb-1"><strong>Watch Time</strong>: ${advisor["minutes-watched-mlb-tv"]}</p>
                 <p class="mb-1"><strong>Season Ticket</strong>: ${advisor["season-ticket-holder"]}</p>
-                <p class="mb-1"><strong>MLB Shop Spent</strong>: $${advisor["usd-spent-mlb-shop"]}</p>
-                <p class="mb-1"><strong>Family</strong>: ${advisor.family}</p>
+                <p class="mb-1"><strong>MLB Shop Spent</strong>: ${advisor["usd-spent-mlb-shop"]}</p>
               </div>
             </div>
           </div>
@@ -146,9 +136,9 @@ async function renderApp(videoId, advisorId) {
     $transcript
   );
   player.cueVideoById(video.youtube);
-//   player.addEventListener('onError', function(event) {
-//     console.log("Error code:", event.data);
-// });
+  //   player.addEventListener('onError', function(event) {
+  //     console.log("Error code:", event.data);
+  // });
 
   transcriptData.segments.forEach((segment) => {
     segment.element = $transcript.querySelector(`[data-id="${segment.id}"]`);
@@ -208,8 +198,6 @@ async function renderApp(videoId, advisorId) {
         <p><strong>Favorite Team</strong>: ${advisor["favorite-teams"]}</p>
         <p><strong>Favorite Player</strong>: ${advisor["favorite-players"]}</p>
       </div>
-      
-      
     </div>
     `,
     $highlights
@@ -311,6 +299,3 @@ function updatePosition() {
   const segment = transcriptData.segments.find((seg) => seg.start <= time && time < seg.end);
   if (segment) transcriptData.segments.forEach((seg) => seg.element.classList.toggle("highlight", seg === segment));
 }
-
-
-
