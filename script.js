@@ -183,7 +183,7 @@ async function renderApp(videoId, advisorId) {
       </h2>
     </div>
     <div id="advisor-highlights" class="my-3">
-      <p class="small text-secondary"><i class="bi bi-magic text-primary fs-5"></i> Highlights are dynamically generated from the transcript and the advisor's profile.</p>
+      <p class="small text-secondary"><i class="bi bi-magic text-primary fs-5"></i> Highlights are dynamically generated from the transcript and the fan's profile.</p>
       <div id="animated-text"></div>
     </div>
     <hr class="my-5">
