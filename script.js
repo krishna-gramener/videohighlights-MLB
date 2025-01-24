@@ -29,7 +29,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 let transcriptData;
 
 const homePage = html`
-  <h1 class="display-1 my-5 text-center">MLB Lens</h1>
+  <h1 class="display-1 my-5 text-center">Video Highlights</h1>
 
   <p class="text-center display-6">Where Every Fan's Journey Becomes Part of the Game</p>
   <div class="mx-auto my-5 narrative">
