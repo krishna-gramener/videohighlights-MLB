@@ -10,7 +10,7 @@
     },
     "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": {
       "source": "mlb",
-      "title": "Dodgers take home title in epic 5 games vs Yankees",
+      "title": "World Series Cinematic Recap: Dodgers take home title in epic 5 games vs. Yankees",
       "url": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
       "video": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
       "youtube": "1hzr56sIIBI",
@@ -77,8 +77,8 @@
     "kevin-edwards": {
       "img": "img/yankees-family.jpg",
       "name": "Kevin Edwards",
-      "fan-type": "Team Loyalist",
-      "description": "Lifelong fan, often local",
+      "fan-type": "Die-hard Team Loyalist",
+      "description": "Background: Lifelong fan, often local | Favourite Aspects: Team history, rivalries | Viewing Habits: Watches every game, attends live | Goals: Support team through thick and thin",
       "favourite-aspect": "Team history, rivalries",
       "favorite-teams": "NY Yankees",
       "favorite-players": "Aaron Judge, Gerrit Cole",
@@ -99,11 +99,11 @@
             "start_time": 9.02
           },
           {
-            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
+            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
             "start_time": 59.7
           },
           {
-            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
+            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
             "start_time": 140.63
           }
         ],
@@ -209,7 +209,7 @@
       "img": "img/angels.jpg",
       "name": "Sarah Johnson",
       "fan-type": "Player Enthusiast",
-      "description": "Follows player careers",
+      "description": "Background: Follows player careers | Favourite Aspects: Player stats, achievements | Viewing Habits: Watches games featuring favorite players | Goals: See favorite players succeed and break records",
       "favourite-aspect": "Player stats, achievements",
       "favorite-teams": "LA Angels",
       "favorite-players": "Shohei Ohtani, Mike Trout",
@@ -226,34 +226,36 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
-            "start_time": 59.7
-          },
-          {
             "p": "The final sequence to Verdugo - notice how they played the percentages, working the corners, changing eye levels, before getting the crucial final out.",
             "start_time": 9.02
           },
+          {
+            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
+            "start_time": 59.7
+          },
+
           {
             "p": "Dave Roberts' bullpen management masterclass - the strategic timing of bringing in Buehler, the matchup plays throughout the comeback, every move calculated perfectly.",
             "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
+
           {
-            "p": "A showcase of superstar performances! Watch Ohtani's World Series debut, featuring his 2-for-4 night with a double and a crucial RBI. Judge responds with a towering home run in the third inning, demonstrating why these are two of baseball's most electrifying players.",
-            "start_time": 24.12
+            "p": "Shohei Ohtani's plate discipline is evident in his leadoff walk against Schmidt, demonstrating his elite pitch recognition. His aggressive baserunning mechanics follow, showing perfect form as he takes an optimal secondary lead, ready to capitalize on any opportunity to advance.",
+            "start_time": 36.58
           },
           {
-            "p": "Yamamoto's masterful pitching performance includes 7 strikeouts through 5 innings, showcasing his devastating splitter. On the Yankees' side, Cole matches him pitch for pitch with his own arsenal of weapons, particularly his high-90s fastball and sharp slider.",
-            "start_time": 42.3
+            "p": "Watch Freddie Freeman's swing mechanics on his fifth consecutive World Series home run - the perfect combination of hip rotation, bat speed, and launch angle. His ability to consistently barrel up pitches while maintaining his timing through a long series shows his elite-level preparation and adaptability.",
+            "start_time": 99.44
           },
           {
-            "p": "The middle innings feature a duel of elite relievers, with King, Holmes, and Phillips all showing why they're among the best in the game. Watch how each pitcher approaches different types of hitters, particularly the lefty-righty matchups.",
-            "start_time": 65.2
+            "p": "Walker Buehler's return from Tommy John surgery showcases remarkable mechanical consistency. His delivery remains efficient and repeatable, particularly evident in his back-to-back strikeouts. Notice how he maintains his arm slot and release point even after the long recovery process.",
+            "start_time": 191.50
           },
           {
-            "p": "The game culminates in a battle of superstars, as Freeman faces off against Holmes in the 9th. The at-bat is a masterclass in hitting, with Freeman working the count full before delivering the final blow. Stanton's earlier home run and Betts' defensive gem in the 8th round out the highlight reel of star performances.",
-            "start_time": 88.15
+            "p": "Kiké Hernández's outfield assist demonstrates perfect throwing mechanics - watch his footwork, quick transfer, and arm slot as he delivers a pinpoint throw to nail the runner. His ability to maintain accuracy while generating maximum velocity from left field is a masterclass in defensive execution.",
+            "start_time": 326.23
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
@@ -298,12 +300,12 @@
             "start_time": 20.12
           },
           {
-            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
-            "start_time": 186.76
-          },
-          {
             "p": "Watch his pre-pitch setup on steal attempts - the slight weight shift, the timing of his secondary lead, and how he uses the pitcher's tempo against them. His success rate shows mastery of these fundamentals.",
             "start_time": 65.54
+          },
+          {
+            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
+            "start_time": 186.76
           },
           {
             "p": "His outfield defense showcases elite athleticism - the way he tracks the ball off the bat, takes efficient routes, and times his leap against the ivy shows advanced defensive instincts.",
@@ -348,8 +350,16 @@
         ],
         "Dodgers_vs_Giants_Highlights": [
           {
-            "p": "Not relevant",
-            "start_time": null
+            "p": "Yamamoto's pitch mechanics in the first inning demonstrate his elite adaptability. Watch how he adjusts his arm slot and release point after early command issues, particularly with his signature splitter. His ability to maintain consistent mechanics while varying pitch selection shows why he's one of baseball's most promising young talents.",
+            "start_time": 24.12
+          },
+          {
+            "p": "Shohei Ohtani's baserunning brilliance is on full display here. His first-step acceleration and elite sprint speed (measured at 29.8 ft/sec) turn a routine ground ball into a run-scoring play. Watch his perfect read of the defense and how he maintains optimal running angles - a masterclass in baserunning technique from one of baseball's most dynamic athletes.",
+            "start_time": 126.08
+          },
+          {
+            "p": "Gavin Lux's improvement against left-handed pitching is evident in this clutch double. Notice his refined bat path - keeping his hands inside and driving through the ball with improved hip rotation. His recent mechanical adjustments have resulted in a significant increase in opposite-field power, particularly against southpaws.",
+            "start_time": 289.83
           }
         ],
         "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": [
@@ -364,7 +374,7 @@
       "img": "img/dodgers.jpg",
       "name": "Alex Martinez",
       "fan-type": "Casual Viewer",
-      "description": "General sports interest",
+      "description": "Background: General sports interest | Favourite Aspects: Exciting moments, highlights | Viewing Habits: Watches highlights, big games | Goals: Stay informed about major events",
       "favourite-aspect": "Exciting moments, highlights",
       "favorite-teams": "LA Dodgers",
       "favorite-players": "Freddie Freeman",
@@ -515,7 +525,7 @@
       "img": "img/emily.jpg",
       "name": "Emily Davis",
       "fan-type": "Game Analyst",
-      "description": "Analytical mindset, often played baseball",
+      "description": "Background: Analytical mindset, often played baseball | Favourite Aspects: Strategy, game mechanics | Viewing Habits: Analyzes games, enjoys detailed commentary | Goals: Understand and appreciate game strategy",
       "favourite-aspect": "Strategy, game mechanics",
       "favorite-teams": null,
       "favorite-players": "Jacob deGrom, Max Fried",
@@ -684,7 +694,7 @@
       "img": "img/braves.jpg",
       "name": "Chris Lee",
       "fan-type": "Big Event Fan",
-      "description": "Enjoys spectacle and drama",
+      "description": "Background: Enjoys spectacle and drama | Favourite Aspects: High-stakes games, records | Viewing Habits: Watches playoffs, All-Star games | Goals: Experience excitement of major events",
       "favourite-aspect": "High-stakes games, records",
       "favorite-teams": "Atlanta Braves",
       "favorite-players": "Ronald Acuña Jr.",
@@ -769,20 +779,16 @@
         ],
         "Ronald_Acuña_Jr": [
           {
-            "p": "BOOM! Watch this electrifying moment as Acuña launches an absolute moonshot to center field - a jaw-dropping 461-foot blast that silences the crowd! The raw power, the perfect swing, and that signature bat flip celebration make this one of the most spectacular home runs you'll ever see!",
+            "p": "What a start! Acuña sets the tone early with an electric stolen base that brings the crowd to their feet! His trademark speed and aggression on display as he takes second standing up!",
+            "start_time": 20.12
+          },
+          {
+            "p": "The anticipation builds as Acuña steps in - and BOOM! A towering blast to dead center! The raw power, the perfect swing, the signature bat flip - this is what baseball dreams are made of!",
             "start_time": 186.76
           },
           {
-            "p": "The drama unfolds as Acuña puts on a baserunning clinic, turning what should have been a routine single into a heart-stopping triple! The crowd erupts as he dives headfirst into third base, narrowly beating the throw in a cloud of dust - pure baseball theater at its finest!",
-            "start_time": 233.42
-          },
-          {
-            "p": "In a moment that brings the entire stadium to its feet, Acuña makes an incredible game-saving catch against the ivy-covered wall! The way he tracks the ball, times his leap perfectly, and reaches up to make the spectacular grab - this is why baseball is the ultimate drama sport!",
+            "p": "An absolute web gem! Acuña races to the wall, times his leap perfectly, and robs a sure home run! The crowd goes wild as he shows why he's one of the most electrifying players in baseball!",
             "start_time": 297.44
-          },
-          {
-            "p": "The crowd goes absolutely wild as Acuña delivers the knockout punch - a mammoth three-run homer that keeps the Braves' incredible no-shutout streak alive at 172 games! The energy in the stadium is electric as he rounds the bases, arms raised in triumph - these are the moments that make baseball history!",
-            "start_time": 323.48
           }
         ],
         "Red_Sox_vs_Yankees": [
@@ -847,7 +853,7 @@
       "img": "img/yankees.jpg",
       "name": "Charles Harris",
       "fan-type": "Nostalgic Fan",
-      "description": "Grew up watching baseball's golden era",
+      "description": "Background: Grew up watching baseball's golden era | Favourite Aspects: Classic games, legendary players | Viewing Habits: Watches classic games, documentaries | Goals: Relive golden moments of baseball history",
       "favourite-aspect": "Classic games, legendary players",
       "favorite-teams": "NY Yankees",
       "favorite-players": "Aaron Judge, Gerrit Cole",

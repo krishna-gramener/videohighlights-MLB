@@ -20,8 +20,21 @@
       max-width: 35rem;
     }
 
+    .hover-blue {
+      color: #0d6efd !important;  /* Bootstrap's primary blue color */
+    }
+
     .hover-blue:hover {
-      color: #0d6efd !important;
+      color: #6c757d !important;  /* Bootstrap's text-muted color */
+      cursor: pointer;
+    }
+
+    .hover-info {
+      color: #17a2b8 !important;  /* Bootstrap's info blue color */
+    }
+
+    .hover-info:hover {
+      color: #138496 !important;  /* Bootstrap's info blue hover color */
       cursor: pointer;
     }
 
@@ -127,29 +140,13 @@
   </footer>
 
   <div class="modal fade" id="fanTypeModal" tabindex="-1">
-    <div class="modal-dialog modal-xl">
+    <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title">Fan Type Details</h5>
+          <h5 class="modal-title"></h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <div class="table-responsive">
-            <table class="table table-striped">
-              <thead>
-                <tr>
-                  <th>Fan Type</th>
-                  <th>Background</th>
-                  <th>Engagement Level</th>
-                  <th>Favorite Aspects</th>
-                  <th>Viewing Habits</th>
-                  <th>Goals</th>
-                  <th>Challenges</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-            </table>
-          </div>
         </div>
       </div>
     </div>

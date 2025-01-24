@@ -48,8 +48,8 @@ const homePage = html`
           <img src="${advisor.img}" class="card-img-top" alt="Profile picture of ${advisor.name}" />
           <div class="card-body">
             <h5 class="card-title">${advisor.name}</h5>
-            <h6 class="card-subtitle mb-2 text-muted">
-              ${advisor["fan-type"]} <i id="info" class="bi bi-info-square-fill text-muted hover-blue"></i>
+            <h6 class="card-subtitle mb-2">
+              ${advisor["fan-type"]} <i id="info" class="bi bi-info-square-fill hover-blue"></i>
             </h6>
             <div class="card-text">
               <div class="mb-3">
@@ -273,42 +273,55 @@ async function redraw() {
 window.addEventListener("hashchange", redraw);
 
 // Function to render fan schema in modal
-function renderFanSchema() {
-  const tbody = document.querySelector("#fanTypeModal tbody");
-  if (!tbody) return;
+function renderFanSchema(name) {
+  // Find the advisor by name
+  const advisor = Object.values(config.advisors).find(a => a.name === name);
+  if (!advisor) return;
 
-  // Clear existing rows
-  tbody.innerHTML = "";
+  // Find the schema for this fan type
+  const schema = config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]);
+  if (!schema) return;
 
-  // Define fields to display
-  const fieldsToShow = [
-    "Fan Type",
-    "Background",
-    "Engagement Level",
-    "Favorite Aspects",
-    "Viewing Habits",
-    "Goals",
-    "Challenges",
-  ];
+  const modal = document.getElementById("fanTypeModal");
+  const modalBody = modal.querySelector(".modal-body");
+  const modalTitle = modal.querySelector(".modal-title");
 
-  // Create rows for each schema
-  config["fan-schema"].forEach((schema) => {
-    const tr = document.createElement("tr");
-    fieldsToShow.forEach((field) => {
-      const td = document.createElement("td");
-      td.textContent = schema[field];
-      tr.appendChild(td);
-    });
-    tbody.appendChild(tr);
-  });
+  // Update modal title
+  modalTitle.textContent = `${advisor.name} - ${advisor["fan-type"]}`;
+
+  // Update modal content
+  modalBody.innerHTML = `
+    <div class="row">
+      <div class="col-md-3">
+        <img src="${advisor.img}" class="img-fluid rounded-circle mb-3" alt="${advisor.name}">
+      </div>
+      <div class="col-md-9">
+        <h4>Background</h4>
+        <p>${schema.Background}</p>
+        
+        <h4>Favorite Aspects</h4>
+        <p>${schema["Favorite Aspects"]}</p>
+        
+        <h4>Viewing Habits</h4>
+        <p>${schema["Viewing Habits"]}</p>
+        
+        <h4>Challenges</h4>
+        <p>${schema.Challenges}</p>
+      </div>
+    </div>
+  `;
+
+  // Show the modal
+  const bootstrapModal = new bootstrap.Modal(modal);
+  bootstrapModal.show();
 }
 
 // Add event listener for info icon click
 $home.addEventListener("click", (e) => {
   if (e.target.closest("#info")) {
-    renderFanSchema();
-    const modal = new bootstrap.Modal(document.getElementById("fanTypeModal"));
-    modal.show();
+    const card = e.target.closest(".card");
+    const name = card.querySelector(".card-title").textContent.trim();
+    renderFanSchema(name);
   }
 });
 
