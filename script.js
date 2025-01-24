@@ -67,9 +67,9 @@ const homePage = html`
                 <h6 class="text-primary">Engagement Metrics</h6>
                 <p class="mb-1"><strong>Games Attended</strong>: ${advisor["games-attended-2024"]}</p>
                 <p class="mb-1"><strong>Games Watched</strong>: ${advisor["games-watched-mlb-tv"]}</p>
-                <p class="mb-1"><strong>MLB.TV watch time</strong>: ${advisor["minutes-watched-mlb-tv"]}</p>
+                <p class="mb-1"><strong>Online Viewership Minutes</strong>: ${advisor["minutes-watched-mlb-tv"]}</p>
                 <p class="mb-1"><strong>Attendee Type</strong>: ${advisor["season-ticket-holder"]}</p>
-                <p class="mb-1"><strong>MLB Shop Spent</strong>: ${advisor["usd-spent-mlb-shop"]}</p>
+                <p class="mb-1"><strong>Retail Spend</strong>: ${advisor["usd-spent-mlb-shop"]}</p>
               </div>
             </div>
           </div>
