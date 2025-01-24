@@ -90,7 +90,7 @@
       "minutes-watched-mlb-tv": "High",
       "marital-status": "Family",
       "usd-spent-mlb-shop": "High",
-      "season-ticket-holder": "Half",
+      "season-ticket-holder": "Half Season Ticket Member",
       "family-with-kids": "Yes",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -221,7 +221,7 @@
       "minutes-watched-mlb-tv": "Moderate",
       "marital-status": "Single",
       "usd-spent-mlb-shop": "Medium",
-      "season-ticket-holder": "Quarter",
+      "season-ticket-holder": "Quarter Season Ticket Member",
       "family-with-kids": "No",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -376,7 +376,7 @@
       "minutes-watched-mlb-tv": "Low",
       "marital-status": "Family",
       "usd-spent-mlb-shop": "Low",
-      "season-ticket-holder": "Single",
+      "season-ticket-holder": "Single Game Ticket Buyer",
       "family-with-kids": "Yes",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -527,7 +527,7 @@
       "minutes-watched-mlb-tv": "High",
       "marital-status": "Single",
       "usd-spent-mlb-shop": "Low",
-      "season-ticket-holder": "Half",
+      "season-ticket-holder": "Half Season Ticket Member",
       "family-with-kids": "No",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -696,7 +696,7 @@
       "minutes-watched-mlb-tv": "Low",
       "marital-status": "Family",
       "usd-spent-mlb-shop": "Medium",
-      "season-ticket-holder": "Single",
+      "season-ticket-holder": "Single Game Ticket Buyer",
       "family-with-kids": "No",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -859,7 +859,7 @@
       "minutes-watched-mlb-tv": "Moderate",
       "marital-status": "Family",
       "usd-spent-mlb-shop": "Medium",
-      "season-ticket-holder": "Half",
+      "season-ticket-holder": "Half Season Ticket Member",
       "family-with-kids": "Yes",
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
@@ -995,6 +995,105 @@
       }
     }
   },
+
+  "fan-schema": [
+    {
+      "Fan Type": "Die-hard Team Loyalist",
+      "Age Range": "18-65",
+      "Background": "Lifelong fan, often local",
+      "Engagement Level": "High",
+      "Favorite Aspects": "Team history, rivalries",
+      "Viewing Habits": "Watches every game, attends live",
+      "Goals": "Support team through thick and thin",
+      "Challenges": "Managing emotions during losing seasons and finding highlights of every game",
+      "No. of Games Attended (2024)": "10-25",
+      "No. of Games Watched on MLB.TV": "100-162",
+      "No. of Minutes Watched on MLB.TV": "1000-1500",
+      "Family": "Family, Kids",
+      "USD Spent on MLB Shop": "800-3,000",
+      "Season Ticket Holder": "Full, Half, Quarter"
+    },
+    {
+      "Fan Type": "Player Enthusiast",
+      "Age Range": "15-45",
+      "Background": "Follows player careers",
+      "Engagement Level": "Medium to High",
+      "Favorite Aspects": "Player stats, achievements",
+      "Viewing Habits": "Watches games featuring favorite players",
+      "Goals": "See favorite players succeed and break records",
+      "Challenges": "Players changing teams or retiring, finding highlights for player performances",
+      "No. of Games Attended (2024)": "3-12",
+      "No. of Games Watched on MLB.TV": "40-100",
+      "No. of Minutes Watched on MLB.TV": "500-800",
+      "Family": "Single, Kids",
+      "USD Spent on MLB Shop": "300-1,200",
+      "Season Ticket Holder": "Quarter, Single"
+    },
+    {
+      "Fan Type": "Casual Viewer",
+      "Age Range": "25-50",
+      "Background": "General sports interest",
+      "Engagement Level": "Low",
+      "Favorite Aspects": "Exciting moments, highlights",
+      "Viewing Habits": "Watches highlights, big games",
+      "Goals": "Stay informed about major events",
+      "Challenges": "Keeping up with detailed game knowledge and finding concise highlights",
+      "No. of Games Attended (2024)": "0-2",
+      "No. of Games Watched on MLB.TV": "5-20",
+      "No. of Minutes Watched on MLB.TV": "500-3,000",
+      "Family": "Family, Single",
+      "USD Spent on MLB Shop": "50-250",
+      "Season Ticket Holder": "Single"
+    },
+    {
+      "Fan Type": "Game Analyst",
+      "Age Range": "30-60",
+      "Background": "Analytical mindset, often played baseball",
+      "Engagement Level": "Medium to High",
+      "Favorite Aspects": "Strategy, game mechanics",
+      "Viewing Habits": "Analyzes games, enjoys detailed commentary",
+      "Goals": "Understand and appreciate game strategy",
+      "Challenges": "Finding in-depth analysis and accessing highlights of strategic plays",
+      "No. of Games Attended (2024)": "6-12",
+      "No. of Games Watched on MLB.TV": "50-120",
+      "No. of Minutes Watched on MLB.TV": "8,000-20,000",
+      "Family": "Family, Single",
+      "USD Spent on MLB Shop": "400-1,000",
+      "Season Ticket Holder": "Half, Quarter"
+    },
+    {
+      "Fan Type": "Big Event Fan",
+      "Age Range": "20-55",
+      "Background": "Enjoys spectacle and drama",
+      "Engagement Level": "Low to Medium",
+      "Favorite Aspects": "High-stakes games, records",
+      "Viewing Habits": "Watches playoffs, All-Star games",
+      "Goals": "Experience excitement of major events",
+      "Challenges": "Missing out on regular season context and finding highlights conveying drama",
+      "No. of Games Attended (2024)": "1-5",
+      "No. of Games Watched on MLB.TV": "10-40",
+      "No. of Minutes Watched on MLB.TV": "2,000-8,000",
+      "Family": "Family, Single",
+      "USD Spent on MLB Shop": "150-500",
+      "Season Ticket Holder": "Single"
+    },
+    {
+      "Fan Type": "Nostalgic Fan",
+      "Age Range": "40-70",
+      "Background": "Grew up watching baseball's golden era",
+      "Engagement Level": "Medium",
+      "Favorite Aspects": "Classic games, legendary players",
+      "Viewing Habits": "Watches classic games, documentaries",
+      "Goals": "Relive golden moments of baseball history",
+      "Challenges": "Finding quality highlights of classic games and players from past eras",
+      "No. of Games Attended (2024)": "0-3",
+      "No. of Games Watched on MLB.TV": "5-15",
+      "No. of Minutes Watched on MLB.TV": "500-4,000",
+      "Family": "Family, Single",
+      "USD Spent on MLB Shop": "100-400",
+      "Season Ticket Holder": "Single"
+    }
+  ],
   "prompts": {
     "interests": "Given this information about a financial advisor, return a JSON object {\"interests\": \"...\"} containing comma-separated keywords they would be interested in when listening to a financial podcast.",
     "highlights": "Given this video transcript:\n\nTitle: ${title}\n${transcript_with_timing}\n\nWrite a few paragraphs for:\n\n${profile}\n\nExplain the implications for their investors and how they can leverage this information to maximize returns for their clients. Respond as JSON paragraphs with timing.\n\n```json\n[\n{\"p\": \"[firstname], this video can help your [clientele] about ...\",\"start_time\": ...},{\"p\": \"[insight 1]\",\"start_time\": ...},{\"p\": \"[insight 2]\",\"start_time\": ...},{\"p\": \"[insight 3]\",\"start_time\": ...},]"

@@ -19,6 +19,19 @@
     .narrative {
       max-width: 35rem;
     }
+
+    .hover-blue:hover {
+      color: #0d6efd !important;
+      cursor: pointer;
+    }
+
+    .modal-dialog.modal-xl {
+      max-width: 95%;
+    }
+
+    .table td {
+      min-width: 120px;
+    }
   </style>
 </head>
 
@@ -26,20 +39,25 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
     <div class="container-fluid">
       <span>
-        <a class="navbar-brand me-1" href="#">Major League Baseball</a>
+        <a class="navbar-brand me-1" href="#">MLB-Lens</a>
       </span>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <div class="nav-item dropdown ms-auto" role="group" aria-label="Toggle dark mode" title="Toggle Dark Mode">
-          <button class="dark-theme-toggle btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Toggle theme (auto)">
+          <button class="dark-theme-toggle btn btn-outline-light dropdown-toggle" type="button"
+            data-bs-toggle="dropdown" aria-expanded="false" aria-label="Toggle theme (auto)">
             <i class="bi bi-circle-half"></i> <span class="d-lg-none ms-2">Toggle theme</span>
           </button>
           <ul class="dropdown-menu dropdown-menu-end">
-            <li><button class="dropdown-item" data-bs-theme-value="light"><i class="me-2 bi bi-sun-fill"></i> Light</button></li>
-            <li><button class="dropdown-item" data-bs-theme-value="dark"><i class="me-2 bi bi-moon-stars-fill"></i> Dark</button></li>
-            <li><button class="dropdown-item" data-bs-theme-value="auto"><i class="me-2 bi bi-circle-half"></i> Auto</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="light"><i class="me-2 bi bi-sun-fill"></i>
+                Light</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="dark"><i class="me-2 bi bi-moon-stars-fill"></i>
+                Dark</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="auto"><i class="me-2 bi bi-circle-half"></i>
+                Auto</button></li>
           </ul>
         </div>
       </div>
@@ -66,43 +84,73 @@
   </div>
   <div class="mx-auto my-5 narrative">
     <h2 class="h3">How does it work?</h2>
-    <p>We <strong>extract</strong> user interests from digital exhaust (CRM entries, web logs, and emails) using <strong>embeddings</strong> -- a low-cost way of using LLMs.
-      We use this to name the interests using the prompt <q class="fst-italic">Given this information about a financial advisor, return a JSON object {\"interests\": \"...\"} containing comma-separated keywords they would be interested in when listening to a financial podcast.</q></p>
-    <p>We <strong>transcribe</strong> audio files using the open-source <a href="https://github.com/openai/whisper">Whisper</a> model. It's great at stripping out "uh...", "um...", etc. and creating a cohesive transcript.</p>
-    <p>We don't <strong>diarize</strong> the transcript to add speaker names, but using <a href="https://www.anthropic.com/news/claude-3-haiku">Anthropic's Claude 3 Haiku</a>,
+    <p>We <strong>extract</strong> sports fans' interests from digital exhaust (CRM entries, web logs, and emails??)
+      using <strong>embeddings</strong> -- a low-cost way of using LLMs.
+      We use this to name the interests using the prompt <q class="fst-italic">Given this information about a sports
+        fan, return a JSON object {"interests": "..."} containing comma-separated keywords related to their interests in
+        sports matches, players, or teams.</q></p>
+    <p>We <strong>transcribe</strong> audio files using the open-source <a
+        href="https://github.com/openai/whisper">Whisper</a> model. It's great at stripping out "uh...", "um...", etc.
+      and creating a cohesive transcript.</p>
+    <p>We don't <strong>diarize</strong> the transcript to add speaker names, but using <a
+        href="https://www.anthropic.com/news/claude-3-haiku">Anthropic's Claude 3 Haiku</a>,
       a <a href="https://gramener.com/llmpricing/">frontier model</a>, we can do this with a simple prompt:
-      <q class="fst-italic">Label this call transcript between an agent and caller based on context</q>.
+      <q class="fst-italic">Label this commentary between sports commentators and other participants based on
+        context</q>.
     </p>
     <p>We create <strong>structured summaries</strong> using the prompt:
-      <q class="fst-italic">Given this video transcript: Title: ${title}. Transcript: ${transcript_with_timing}. Write a few paragraphs for: ${profile}. Explain the implications for their investors and how they can leverage this information to maximize returns for their clients. Respond as JSON paragraphs with timing.</q>
+      <q class="fst-italic">Given this video transcript: Title: ${title}. Transcript: ${transcript_with_timing}. Write a
+        few paragraphs for: ${profile}. Provide relevant insights based on the games and videos they've engaged with,
+        tailoring experiences that increase fan interaction and create deeper engagement. Respond as JSON paragraphs
+        with timing.</q>
     </p>
-    <p><a href="https://github.com/gramener/videohighlights/">See code</a></p>
-
     <h2 class="h3">How long does it take?</h2>
     <p>The entire analysis for a 20 minute video takes <strong>under half a minute</strong>.</p>
 
     <h2 class="h3">How much does it cost?</h2>
-    <p>For Whisper on OpenAI with Claude 3 Haiku, the typical cost of a 20-minute video personalized for 6 advisors is <strong>under 30 cents</strong>, and grows at about 3 cents per advisor.</p>
+    <p>For Whisper on OpenAI with Claude 3 Haiku, the typical cost of a 20-minute video personalized for 6 fans is
+      <strong>under 30 cents</strong>, and grows at about 3 cents per fan.</p>
 
     <h2 class="h3">Can this run privately?</h2>
-    <p><strong>Yes</strong>. With open-weight models like <a href="https://github.com/openai/whisper">Whisper</a> and <a href="https://llama.meta.com/llama3/">LLama-3</a>, you can run this in your data center (or even your gaming laptop).</p>
+    <p><strong>Yes</strong>. With open-weight models like <a href="https://github.com/openai/whisper">Whisper</a> and <a
+        href="https://llama.meta.com/llama3/">LLama-3</a>, you can run this in your data center (or even your gaming
+      laptop).</p>
 
     <h2 class="h3">How is this priced?</h2>
-    <p>This is not a product. It's a demo. Email <a href="mailto:s.anand@gramener.com">s.anand@gramener.com</a> for details.</p>
+    <p>This is not a product. It's a demo. Email <a href="mailto:s.anand@gramener.com">s.anand@gramener.com</a> for
+      details.</p>
   </div>
 
   <footer class="my-5 vh-100 d-flex align-items-center justify-content-center">
-    <h1 class="display-4">Designed by <a href="https://gramener.com/" class="text-reset link-offset-3 link-underline link-underline-opacity-25">Gramener</a></h1>
+    <h1 class="display-4">Designed by <a href="https://gramener.com/"
+        class="text-reset link-offset-3 link-underline link-underline-opacity-25">Gramener</a></h1>
   </footer>
 
-  <div id="interest-modal" class="modal" tabindex="-1">
-    <div class="modal-dialog">
+  <div class="modal fade" id="fanTypeModal" tabindex="-1">
+    <div class="modal-dialog modal-xl">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title">Interests</h5>
+          <h5 class="modal-title">Fan Type Details</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="modal-body"></div>
+        <div class="modal-body">
+          <div class="table-responsive">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>Fan Type</th>
+                  <th>Background</th>
+                  <th>Engagement Level</th>
+                  <th>Favorite Aspects</th>
+                  <th>Viewing Habits</th>
+                  <th>Goals</th>
+                  <th>Challenges</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>

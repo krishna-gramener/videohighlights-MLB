@@ -48,7 +48,9 @@ const homePage = html`
           <img src="${advisor.img}" class="card-img-top" alt="Profile picture of ${advisor.name}" />
           <div class="card-body">
             <h5 class="card-title">${advisor.name}</h5>
-            <h6 class="card-subtitle mb-2 text-muted">${advisor["fan-type"]}</h6>
+            <h6 class="card-subtitle mb-2 text-muted">
+              ${advisor["fan-type"]} <i id="info" class="bi bi-info-square-fill text-muted hover-blue"></i>
+            </h6>
             <div class="card-text">
               <div class="mb-3">
                 <h6 class="text-primary">Fan Profile</h6>
@@ -65,8 +67,8 @@ const homePage = html`
                 <h6 class="text-primary">Engagement Metrics</h6>
                 <p class="mb-1"><strong>Games Attended</strong>: ${advisor["games-attended-2024"]}</p>
                 <p class="mb-1"><strong>Games Watched</strong>: ${advisor["games-watched-mlb-tv"]}</p>
-                <p class="mb-1"><strong>Watch Time</strong>: ${advisor["minutes-watched-mlb-tv"]}</p>
-                <p class="mb-1"><strong>Season Ticket</strong>: ${advisor["season-ticket-holder"]}</p>
+                <p class="mb-1"><strong>MLB.TV watch time</strong>: ${advisor["minutes-watched-mlb-tv"]}</p>
+                <p class="mb-1"><strong>Attendee Type</strong>: ${advisor["season-ticket-holder"]}</p>
                 <p class="mb-1"><strong>MLB Shop Spent</strong>: ${advisor["usd-spent-mlb-shop"]}</p>
               </div>
             </div>
@@ -79,7 +81,7 @@ const homePage = html`
 
   <div class="mx-auto my-5 narrative">
     <h2>Next, we personalize video transcripts</h2>
-    <p>Let's look at these ${Object.keys(videos).length} public videos from that provide information to the fans..</p>
+    <p>Let's look at these ${Object.keys(videos).length} public videos that provide information to the fans..</p>
   </div>
 
   <div class="videos row row-cols-1 row-cols-sm-2 row-cols-lg-3">
@@ -100,10 +102,10 @@ const homePage = html`
   </div>
 
   <div class="mx-auto my-5 narrative">
-    <p><strong>Click the videos above</strong> to see how we:</p>
+    <p><strong>Click any of the videos above to experience how we:</strong></p>
     <ol>
-      <li>Extract the transcript from the video (including the timing)</li>
-      <li>Use an LLM to summarize the transcript <em>for each advisor</em>, suggesting actions for <em>their</em> clients.</li>
+      <li>Extract and timestamp the video transcript</li>
+      <li>Leverage an LLM to deliver personalized summaries, boosting fan engagement and experience</li>
     </ol>
   </div>
 
@@ -269,6 +271,46 @@ async function redraw() {
 }
 
 window.addEventListener("hashchange", redraw);
+
+// Function to render fan schema in modal
+function renderFanSchema() {
+  const tbody = document.querySelector("#fanTypeModal tbody");
+  if (!tbody) return;
+
+  // Clear existing rows
+  tbody.innerHTML = "";
+
+  // Define fields to display
+  const fieldsToShow = [
+    "Fan Type",
+    "Background",
+    "Engagement Level",
+    "Favorite Aspects",
+    "Viewing Habits",
+    "Goals",
+    "Challenges",
+  ];
+
+  // Create rows for each schema
+  config["fan-schema"].forEach((schema) => {
+    const tr = document.createElement("tr");
+    fieldsToShow.forEach((field) => {
+      const td = document.createElement("td");
+      td.textContent = schema[field];
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+// Add event listener for info icon click
+$home.addEventListener("click", (e) => {
+  if (e.target.closest("#info")) {
+    renderFanSchema();
+    const modal = new bootstrap.Modal(document.getElementById("fanTypeModal"));
+    modal.show();
+  }
+});
 
 window.onYouTubeIframeAPIReady = function () {
   player = new YT.Player("video", {
