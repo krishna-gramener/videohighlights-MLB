@@ -95,34 +95,34 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "A heartbreaking moment as Verdugo represents our last hope. The Yankees' dream of a 28th championship slips away as we watch a 5-0 lead evaporate in this historic collapse.",
+            "p": "<strong>Final Hope</strong>: Standing here in Yankee Stadium, the weight of history bears down as Verdugo steps to the plate. As a lifelong fan who's witnessed countless crucial moments in this ballpark, the tension is unbearable. Our hopes for championship number 28 rest on his shoulders, with the ghosts of Yankees past watching from Monument Park.",
             "start_time": 9.02
           },
           {
-            "p": "The largest comeback in World Series clinching game history comes against us. A bitter pill to swallow as our rivals from LA claim their eighth title.",
+            "p": "<strong>Historic Heartbreak</strong>: This historic collapse from a 5-0 lead cuts deep into every Yankees fan's heart. Having attended nearly every home game this season, watching our bitter rivals from LA complete the largest comeback in World Series clinching game history in our house is devastating. The rivalry that began in Brooklyn continues to haunt us.",
             "start_time": 59.7
           },
           {
-            "p": "The pain of watching the Dodgers celebrate on our home field - a 7-6 defeat that will haunt the Bronx for years to come. A reminder of how cruel October baseball can be.",
+            "p": "<strong>Pinstripe Pride</strong>: The sight of the Dodgers celebrating on our sacred ground - a 7-6 defeat that will join the painful chapters of our storied rivalry. As a die-hard fan who bleeds pinstripes, this moment stings, but like the 27 championships before, we'll add this to our motivation. The Yankees always rise again.",
             "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "The journey to our 28th championship began with such promise - Juan Soto's electrifying three-run blast sending us to another World Series! As a Yankees fan who's lived through the glory years, seeing us back in the Fall Classic felt like destiny. Our 12th meeting with the Dodgers brought back memories of those classic battles that defined baseball history.",
+            "p": "<strong>Yankees Pride</strong>: Our journey to the Fall Classic began with Juan Soto's electrifying three-run blast! As a die-hard fan who's witnessed every playoff game this season, seeing the Yankees clinch their first pennant since '09 brought tears to my eyes. The ghosts of Yankees past were surely smiling!",
             "start_time": 36.58
           },
           {
-            "p": "Every Yankees fan knows our storied past with the Dodgers - from our dominance in the 40s and 50s to the sweet revenge in '77 and the heartbreak of '81. Each game of this series carried that weight of history, that expectation that comes with wearing the pinstripes. The ghosts of Yankees past seemed to be watching from Monument Park.",
-            "start_time": 133.94
+            "p": "<strong>Historic Showdown</strong>: The 12th Yankees-Dodgers World Series! The weight of history fills Yankee Stadium as we face our oldest rivals. From the days of DiMaggio vs. Robinson to Judge vs. Ohtani, this matchup always brings out the best in baseball. Every Yankees fan knows - this is more than just a series.",
+            "start_time": 99.44
           },
           {
-            "p": "Our boys fought with that legendary Yankees heart - Judge's towering homers, Cole's gutsy performances, the Stadium shaking with each rally. Even in defeat, they showed why we're the most decorated franchise in sports. The pain of coming up short burns deep, but true Yankees fans know we'll be back - we always come back.",
-            "start_time": 326.23
+            "p": "<strong>Championship Spirit</strong>: Game 4's grand slam by Volpe, a true Bronx moment! The Stadium erupting as our rookie shortstop, born and raised in New York, delivers under pressure. That's Yankees baseball - when our backs are against the wall, we fight back hardest. The pride of the pinstripes shining through!",
+            "start_time": 394.19
           },
           {
-            "p": "As the celebration shifts to LA, we hold our heads high. 27 championships tell the story of who we are. This hurts now, but being a Yankees fan means believing in the legacy, the tradition, the inevitability of our return to glory. In the Bronx, we don't rebuild - we reload. Number 28 will come, and when it does, it'll be even sweeter.",
-            "start_time": 481.71
+            "p": "<strong>Heartbreaking Finale</strong>: From Judge's blast to build that early 5-0 lead, we dared to dream. But watching it slip away in our own house... the pain cuts deep. Yet even in defeat, we showed the heart of champions. We'll be back - 28 is still coming. The Yankees never stay down for long.",
+            "start_time": 540.06
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
@@ -163,7 +163,7 @@
         ],
         "Ronald_Acuña_Jr": [
           {
-            "p": "Not relevant",
+            "p": "Not Relevant",
             "start_time": null
           }
         ],
@@ -209,9 +209,9 @@
       "img": "img/angels.jpg",
       "name": "Sarah Johnson",
       "fan-type": "Player Enthusiast",
-      "description": "Background: Follows player careers | Favourite Aspects: Player stats, achievements | Viewing Habits: Watches games featuring favorite players | Goals: See favorite players succeed and break records",
+      "description": "Background: Follows favourite player career and only the teams they play in| Favourite Aspects: Player stats, achievements | Viewing Habits: Watches games featuring favorite players | Goals: See favorite players succeed and break records",
       "favourite-aspect": "Player stats, achievements",
-      "favorite-teams": "LA Angels",
+      "favorite-teams": "LA Angels, LA Dodgers",
       "favorite-players": "Shohei Ohtani, Mike Trout",
       "age": 32,
       "gender": "F",
@@ -226,36 +226,26 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "The final sequence to Verdugo - notice how they played the percentages, working the corners, changing eye levels, before getting the crucial final out.",
-            "start_time": 9.02
-          },
-          {
-            "p": "Watch Walker Buehler's mechanics here - coming in on just two days rest, his delivery remains remarkably consistent. The fastball command and sharp breaking stuff show no signs of fatigue.",
-            "start_time": 59.7
-          },
-
-          {
-            "p": "Dave Roberts' bullpen management masterclass - the strategic timing of bringing in Buehler, the matchup plays throughout the comeback, every move calculated perfectly.",
-            "start_time": 140.63
+            "p": "<strong>Championship Moment</strong>: What a perfect ending to Shohei's first Dodgers season! His impact on this team went beyond statistics - the energy he brought to the dugout, the way he elevated everyone's game. This championship cements his legacy as one of baseball's most transformative players.",
+            "start_time": 172.67
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
-
           {
-            "p": "Shohei Ohtani's plate discipline is evident in his leadoff walk against Schmidt, demonstrating his elite pitch recognition. His aggressive baserunning mechanics follow, showing perfect form as he takes an optimal secondary lead, ready to capitalize on any opportunity to advance.",
+            "p": "<strong>Ohtani's Moment</strong>: Shohei's first World Series appearance! After years of following his incredible journey, seeing him on baseball's biggest stage is pure magic. His presence alone transforms the Dodgers lineup, and you can feel the electricity every time he steps to the plate.",
             "start_time": 36.58
           },
           {
-            "p": "Watch Freddie Freeman's swing mechanics on his fifth consecutive World Series home run - the perfect combination of hip rotation, bat speed, and launch angle. His ability to consistently barrel up pitches while maintaining his timing through a long series shows his elite-level preparation and adaptability.",
-            "start_time": 99.44
+            "p": "<strong>Star Power</strong>: The matchup we've been waiting for - Ohtani vs Judge! Two of baseball's most electrifying players facing off in the World Series. Their contrasting styles and incredible talents make this series must-watch baseball for any true fan of the game.",
+            "start_time": 162.98
           },
           {
-            "p": "Walker Buehler's return from Tommy John surgery showcases remarkable mechanical consistency. His delivery remains efficient and repeatable, particularly evident in his back-to-back strikeouts. Notice how he maintains his arm slot and release point even after the long recovery process.",
-            "start_time": 191.50
+            "p": "<strong>Clutch Performance</strong>: Ohtani showing his baserunning brilliance! Taking the extra base and advancing to third on a slightly misplayed ball - this is why he's the most complete player in baseball. His aggressive baserunning creates opportunities even when the hits aren't falling.",
+            "start_time": 238.44
           },
           {
-            "p": "Kiké Hernández's outfield assist demonstrates perfect throwing mechanics - watch his footwork, quick transfer, and arm slot as he delivers a pinpoint throw to nail the runner. His ability to maintain accuracy while generating maximum velocity from left field is a masterclass in defensive execution.",
-            "start_time": 326.23
+            "p": "<strong>Championship Dreams</strong>: What a journey for Shohei - from dominating in Japan to winning his first World Series! His passion for the game shines through in every at-bat, every baserunning decision. This is why we love baseball - watching generational talents achieve their dreams on the biggest stage.",
+            "start_time": 701.24
           }
         ],
         "Dodgers_vs_Yankees_World_Series_Game_5": [
@@ -278,20 +268,8 @@
         ],
         "Ronald_Acuña_Jr": [
           {
-            "p": "Study Acuña's baserunning technique - notice his explosive first step and minimal lead. His success rate against catchers demonstrates elite acceleration and read of pitcher's moves.",
-            "start_time": 20.12
-          },
-          {
-            "p": "Watch his pre-pitch setup on steal attempts - the slight weight shift, the timing of his secondary lead, and how he uses the pitcher's tempo against them. His success rate shows mastery of these fundamentals.",
-            "start_time": 65.54
-          },
-          {
-            "p": "The mechanics on that 461-foot home run are fascinating - perfect hip rotation, level swing plane, and optimal launch angle combining for maximum exit velocity. A masterclass in power hitting technique.",
-            "start_time": 186.76
-          },
-          {
-            "p": "His outfield defense showcases elite athleticism - the way he tracks the ball off the bat, takes efficient routes, and times his leap against the ivy shows advanced defensive instincts.",
-            "start_time": 297.44
+            "p": "Sorry Acuña, Sarah only has eyes for Ohtani and Trout! Check back when you're wearing an Angels or Dodgers uniform ",
+            "start_time": null
           }
         ],
         "Red_Sox_vs_Yankees": [
@@ -356,16 +334,16 @@
             "start_time": 26.7
           },
           {
-            "p": "The series showcases modern baseball's evolution: the Yankees' traditional power approach (top 3 in HR%) versus the Dodgers' balanced offense (MLB-best wRC+). Pay attention to how both teams adjust their defensive alignments based on spray charts and situational data.",
-            "start_time": 96.14
+            "p": "The pitch selection data reveals compelling patterns - Yankees' staff heavily relies on elevated fastballs (42% usage above zone) while Dodgers counter with a diverse mix (no pitch type exceeding 30%). Watch how each team's approach evolves after the first time through the order, particularly with runners in scoring position.",
+            "start_time": 89.32
           },
           {
-            "p": "Fascinating to analyze the bullpen usage patterns - both teams are employing advanced metrics for matchup optimization. Note the strategic timing of pitching changes based on opposing batters' platoon splits and hard-hit rates in high-leverage situations.",
-            "start_time": 199.08
+            "p": "Base-running analytics become a critical factor - Dodgers' aggressive approach (+4.2 BsR) forces defensive adjustments, particularly with their optimal jump timing (1.3 seconds average). The Yankees counter by varying hold times and implementing a mix of slide-step deliveries, affecting their pitchers' effectiveness (-2.1% decrease in strike rate).",
+            "start_time": 156.78
           },
           {
-            "p": "The series demonstrates how data-driven decision making shapes modern baseball. From pitch selection (notice the increased breaking ball usage in hitters' counts) to defensive positioning (watch the outfield depth adjustments), every aspect is influenced by advanced analytics.",
-            "start_time": 324.70
+            "p": "Modern bullpen strategy on full display - high-leverage relievers deployed based on matchup data rather than traditional inning roles. The Dodgers' superior relief ERA (2.8) stems from optimal matchup exploitation and precise tunneling sequences, particularly evident in their right-handed relievers against left-handed power bats.",
+            "start_time": 245.91
           }
         ]
       }
@@ -391,34 +369,34 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Unbelievable scenes as the Dodgers complete the greatest comeback in World Series clinching game history! From down 5-0 to winning 7-6, this is what October magic is all about!",
+            "p": "<strong>Final Showdown</strong>: The tension is through the roof as Verdugo steps up to the plate! This is what sports entertainment is all about - bottom of the ninth, World Series on the line, and the crowd going absolutely wild. You can feel the electricity through the screen as the Yankees try to keep their hopes alive!",
             "start_time": 9.02
           },
           {
-            "p": "The celebration erupts! Players rushing the field, fans going wild - this is what baseball dreams are made of! A comeback for the ages to win the World Series!",
+            "p": "<strong>Historic Comeback</strong>: Can you believe this comeback? The Dodgers were down 5-0 and somehow turned it around to win 7-6! This is the kind of dramatic turnaround that makes baseball so exciting for casual fans. The largest comeback in World Series clinching game history - talk about a game for the history books!",
             "start_time": 59.7
           },
           {
-            "p": "The tension is electric as Verdugo steps in - the Yankees' last hope with the tying run at the plate! The crowd on their feet, holding their breath with every pitch!",
+            "p": "<strong>Championship Celebration</strong>: Pure joy erupts at Yankee Stadium! The Dodgers players storm the field, the celebrations are wild, and the emotions are running high. This is exactly why we love sports - the raw excitement, the pure drama, and a finish that will be talked about for years to come!",
             "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "What an atmosphere at Yankee Stadium! The crowd is absolutely electric as Soto crushes a three-run homer to send the Yankees to the World Series. The stadium's going crazy, and you can feel the excitement building for an epic Dodgers-Yankees showdown. These are the moments that make baseball so fun to watch with friends!",
+            "p": "<strong>Epic Showdown</strong>: The World Series we've all been waiting for! Baseball's biggest superstars - Ohtani, Judge, Freeman - all on the same stage. Two of the most legendary teams in baseball history going head-to-head for all the marbles. This is what October baseball is all about!",
             "start_time": 36.58
           },
           {
-            "p": "Talk about entertainment! Judge and Chisholm Jr. put on a show with back-to-back homers that get everyone out of their seats. The energy in the stadium is off the charts - this is exactly why baseball's so much better when you're watching with a crowd. High-fives all around!",
-            "start_time": 133.94
+            "p": "<strong>Game-Changing Moment</strong>: Freeman crushes another one! That's FIVE straight World Series games with a home run - absolutely unbelievable! The crowd goes wild as Freddie continues his historic postseason run. You can't write scripts better than this!",
+            "start_time": 99.44
           },
           {
-            "p": "The game's got everything you could want - incredible defensive plays, clutch hits, and the crowd going wild with every pitch. This is why you come to the ballpark! The playoff atmosphere is unreal - everyone's on their feet for every big moment.",
-            "start_time": 326.23
+            "p": "<strong>Hometown Hero</strong>: What a moment for New York's own Volpe! Bases loaded, pressure mounting, and BOOM - a grand slam that nearly blows the roof off Yankee Stadium! The rookie shortstop just wrote himself into Yankees playoff history!",
+            "start_time": 394.19
           },
           {
-            "p": "What a finish to an amazing series! The celebrations are wild as the Dodgers clinch it. From the players storming the field to the champagne showers in the clubhouse - this is what makes baseball so special. Perfect excuse to keep the party going with friends, whether you're a Dodgers fan or not!",
-            "start_time": 481.71
+            "p": "<strong>Championship Glory</strong>: The Dodgers complete the comeback of a lifetime! From down 5-0 to World Series champs - this is why baseball is the greatest show on earth! Ohtani gets his first ring, the Dodgers get their revenge, and we all got to witness an instant classic!",
+            "start_time": 701.24
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
@@ -427,7 +405,7 @@
             "start_time": 26.7
           },
           {
-            "p": "The star power in this series is unreal! Ohtani, Judge, Betts, Soto - it's like an All-Star Game every night. Whether you're a baseball expert or just here for the fun, these guys put on an amazing show. The crowd goes wild every time one of them steps up to the plate!",
+            "p": "The star power in this series is absolutely incredible! Ohtani, Judge, Betts, Soto - it's like an All-Star Game every night. Whether you're a baseball expert or just here for the fun, these guys put on an amazing show. The crowd goes wild every time one of them steps up to the plate!",
             "start_time": 96.14
           },
           {
@@ -554,34 +532,34 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "Fascinating defensive positioning for this final at-bat - notice how the Dodgers shift slightly towards pull-side against Verdugo, but maintain middle-depth outfield coverage given his 38% opposite-field contact rate this season. Every fielder's position is calibrated based on months of situational data.",
-            "start_time": 9.02
+            "p": "<strong>Defensive Strategy</strong>: Notice Roberts' precise defensive alignment for this final at-bat - outfielders positioned deeper than usual, accounting for Verdugo's 42% hard-hit rate in high-leverage situations. The infield shift slightly favors pull side while maintaining middle coverage, a data-driven decision based on Verdugo's spray charts in 2-strike counts.",
+            "start_time": 10.36
           },
           {
-            "p": "The pitch sequence here is masterful - Buehler sets up the out by establishing his cutter inside early in the count, then exploits Verdugo's tendency to chase breaking balls away when behind. His mechanics remain consistent despite pitching on short rest, maintaining his typical release point.",
+            "p": "<strong>Pitch Sequencing</strong>: The methodical approach in this final at-bat demonstrates elite game-calling. After establishing the fastball early, they work the corners systematically, utilizing the expanded strike zone that's been consistent throughout the game. The 1-2 count creates optimal leverage for their out-pitch strategy.",
+            "start_time": 19.94
+          },
+          {
+            "p": "<strong>Managerial Analytics</strong>: Dave Roberts' decision to use Buehler on two days' rest showcases modern analytics application. The data supported this unconventional move - Buehler's fastball velocity and spin rate maintained consistency despite short rest, validating the high-leverage relief appearance that secured this historic comeback.",
             "start_time": 59.7
-          },
-          {
-            "p": "Roberts' bullpen management proves decisive - using Buehler in relief breaks from convention but aligns with the data showing his superior numbers against left-handed hitters in high-leverage situations. The decision to warm up both Miller and Phillips simultaneously kept the Yankees' lineup decisions uncertain.",
-            "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "Soto's mechanics in that pivotal at-bat are textbook - his load timing perfectly synchronized with pitch recognition (0.21 seconds), and his hip rotation generating optimal torque (maximum angular velocity of 720°/sec). The Yankees' strategy of attacking him inside backfires as his pull-side power (.687 SLG on inside pitches) proves decisive. His plate discipline forces pitchers to work in the zone.",
-            "start_time": 36.58
+            "p": "<strong>Strategic Matchups</strong>: Fascinating bullpen deployment by Roberts in Game 1. Using Buehler on short rest shows advanced understanding of recovery metrics - his velocity and spin rate data supported this high-leverage decision. The analytics validated this unconventional move that proved crucial for the series.",
+            "start_time": 162.98
           },
           {
-            "p": "The Dodgers' strategic adjustments against Cole prove decisive - after his dominant Game 1, they increase their first-pitch swing percentage from 23% to 41%, preventing him from establishing his preferred pitch sequencing. Watch how they specifically target his four-seamer up in the zone.",
-            "start_time": 133.94
+            "p": "<strong>Pitch Sequencing</strong>: Yamamoto's Game 2 mastery exemplifies elite game-calling. His pitch mix kept hitters off-balance - establishing fastball early, then leveraging his splitter's similar tunnel but 8-10 mph velocity differential. Yankees' chase rate increased 15% on off-speed pitches after the fourth inning.",
+            "start_time": 238.44
           },
           {
-            "p": "Fascinating bullpen usage throughout - the Dodgers optimize their relief matchups based on batted ball profiles rather than traditional lefty-righty splits. Their relievers' combined ground ball rate (58%) neutralizes the Yankees' power-heavy approach, especially in late-game situations.",
+            "p": "<strong>Defensive Positioning</strong>: Notice the Dodgers' outfield alignment adjustments in Game 3 - playing deeper against right-handed pull hitters, accounting for the Stadium's short porch. Their spray chart analysis paid off with Hernández's perfect positioning for that game-saving throw to home.",
             "start_time": 326.23
           },
           {
-            "p": "The defensive metrics tell the complete story - the Dodgers' shifted alignment saves 4 runs above average, while their outfield positioning (+2.3 OAA) proves crucial. Notice how they adjust their defensive depth based on count leverage, particularly with runners in scoring position.",
-            "start_time": 481.71
+            "p": "<strong>Game Theory</strong>: The 5-0 comeback showcases modern win probability dynamics. Each Dodgers scoring opportunity was maximized through optimal base-running aggression - their success rate on extra bases taken (67%) far exceeded league average (51%). Strategic pitch selection in high-leverage spots proved decisive.",
+            "start_time": 701.24
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
@@ -622,20 +600,20 @@
         ],
         "Ronald_Acuña_Jr": [
           {
-            "p": "Acuña's stolen base success rate of 100% against the Mets (20/20) significantly exceeds league average. His lead distance and acceleration metrics indicate optimal risk/reward calculation on steal attempts.",
-            "start_time": 20.12
+            "p": "<strong>Base-Running Efficiency</strong>: Acuña's elite jump metrics on display - 0.3 second reaction time from first movement to full acceleration. Note his optimal lead distance (12.5 feet) and perfect angle tracking to second base, resulting in a 3.1 second baseline-to-baseline time that neutralizes even above-average pop times.",
+            "start_time": 9.02
           },
           {
-            "p": "Sprint speed analytics on his stolen bases average 30.2 ft/sec, placing him in the 99th percentile. His success rate correlates strongly with pitcher delivery times above 1.3 seconds.",
+            "p": "<strong>Pitch Recognition</strong>: Watch his immediate recognition of the slider's spin axis (2300 RPM) and location (middle-away). Acuña's ability to maintain his hitting mechanics while identifying off-speed pitches early leads to consistent hard contact - evidenced by his 92.5 mph exit velocity on this swing.",
             "start_time": 65.54
           },
           {
-            "p": "That 461-foot home run registered a 108.5 mph exit velocity with a 28-degree launch angle - nearly perfect optimization for maximum distance. His barrel rate on elevated fastballs shows marked improvement.",
-            "start_time": 186.76
+            "p": "<strong>Situational Awareness</strong>: Exemplary secondary lead technique when breaking for second. His pre-pitch setup (6.8 foot primary, 12.5 foot secondary) forces the defense to respect both his speed and ability to get back to first, creating a strategic advantage in steal situations.",
+            "start_time": 115.32
           },
           {
-            "p": "His catch probability on the Wrigley play was just 35% based on distance covered and time to wall. His route efficiency of 98.2% and first-step reaction time of 0.4 seconds were both elite metrics.",
-            "start_time": 297.44
+            "p": "<strong>Power Mechanics</strong>: Perfect demonstration of his power generation sequence. Hip-shoulder separation peaks at 62 degrees, launch angle optimized at 27 degrees, and barrel speed reaching 76 mph through the zone. These mechanics consistently produce exit velocities in the 95th percentile.",
+            "start_time": 186.76
           }
         ],
         "Red_Sox_vs_Yankees": [
@@ -715,34 +693,22 @@
       "highlights": {
         "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
           {
-            "p": "This is the moment baseball fans dream about - Game 5 of the World Series, Dodgers looking to complete the greatest comeback in World Series clinching game history! Down 5-0 early, they've clawed back to take the lead. The tension in the stadium is electric as we're about to witness history!",
+            "p": "<strong>Championship Moment</strong>: This is what October baseball is all about! The tension reaches its peak as Verdugo steps up to the plate with everything on the line. The crowd is on their feet, holding their breath with every pitch - you can't script drama better than this!",
             "start_time": 9.02
           },
           {
-            "p": "What a storyline - Walker Buehler, who fought back from Tommy John surgery, comes in to close out the biggest game of the year! The drama couldn't be higher as he faces Verdugo with the tying run at the plate. These are the moments that make October baseball legendary!",
-            "start_time": 59.7
-          },
-          {
-            "p": "The crowd erupts in pure pandemonium! The Dodgers have done it - completing one of the most incredible comebacks in World Series history! Ohtani gets his first championship, the Dodgers claim their eighth title, and we've just witnessed an instant classic that will be talked about for generations!",
+            "p": "<strong>Victory Celebration</strong>: The ultimate baseball celebration unfolds at Yankee Stadium! The raw emotion, the team storming the field, the pure elation of winning baseball's ultimate prize - this is what makes the World Series the greatest show in sports!",
             "start_time": 140.63
           }
         ],
         "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
           {
-            "p": "What a historic moment as Juan Soto launches a mammoth three-run blast into the Yankee Stadium night! The sound off the bat, the crowd going silent, and the Dodgers' dugout erupting - this is October baseball at its most dramatic! A defining moment in this epic Yankees-Dodgers World Series!",
-            "start_time": 36.58
+            "p": "<strong>October Magic</strong>: Volpe delivers the moment of a lifetime! A grand slam in the World Series at Yankee Stadium - the rookie shortstop living every kid's dream! The stadium is absolutely erupting as the Yankees fight to stay alive in this incredible series!",
+            "start_time": 394.19
           },
           {
-            "p": "The clash of titans continues as Gerrit Cole, the Yankees' $324-million ace, faces the mighty Dodgers lineup in a do-or-die situation! After his Game 1 masterpiece, can he repeat the magic? The electricity in baseball's cathedral is off the charts as two of MLB's most storied franchises battle for glory!",
-            "start_time": 133.94
-          },
-          {
-            "p": "Watch the Dodgers' bullpen take center stage in this instant classic! Every pitching change brings new drama as Roberts masterfully navigates the late innings. The tension builds with each out as we're witnessing one of the most tactically thrilling World Series games ever played!",
-            "start_time": 326.23
-          },
-          {
-            "p": "This is baseball theater at its finest! The Dodgers' defense makes play after spectacular play, each one bringing us closer to history. The infield shifts, the diving catches, the rocket throws - every moment feels like it could be the one that decides the championship!",
-            "start_time": 481.71
+            "p": "<strong>Championship Comeback</strong>: The Dodgers complete one of the greatest comebacks in World Series history! From down 5-0 to champions, they've written another incredible chapter in this legendary rivalry! Ohtani gets his ring, the Dodgers get their revenge, and we all got to witness an instant classic!",
+            "start_time": 701.24
           }
         ],
         "Dodgers_vs_Yankees_World_Series": [
@@ -783,16 +749,20 @@
         ],
         "Ronald_Acuña_Jr": [
           {
-            "p": "What a start! Acuña sets the tone early with an electric stolen base that brings the crowd to their feet! His trademark speed and aggression on display as he takes second standing up!",
-            "start_time": 20.12
+            "p": "<strong>Speed Demon</strong>: Incredible! Acuña makes it 20 for 20 in stolen bases against the Mets this season - a perfect record! The crowd erupts as he blazes around the bases, showing why he's the most electrifying player in baseball. This kind of dominance against one team is the stuff of legends!",
+            "start_time": 9.02
           },
           {
-            "p": "The anticipation builds as Acuña steps in - and BOOM! A towering blast to dead center! The raw power, the perfect swing, the signature bat flip - this is what baseball dreams are made of!",
+            "p": "<strong>Record Chase</strong>: Another stolen base for the history books! Acuña's combination of power and speed is putting him on pace for one of the greatest seasons we've ever seen. The energy in the stadium builds every time he reaches base - everyone knows they're witnessing something special!",
+            "start_time": 65.54
+          },
+          {
+            "p": "<strong>Clutch Performance</strong>: The anticipation builds as Acuña takes his lead - and THERE HE GOES! The fans are on their feet as he swipes yet another bag, adding to his incredible stats. This is the kind of electric baseball that brings people to the ballpark!",
+            "start_time": 115.32
+          },
+          {
+            "p": "<strong>Monster Shot</strong>: ABSOLUTELY CRUSHED! Acuña launches one into orbit - 461 feet of pure power! The crowd goes wild as he admires this mammoth blast, his first homer of 2024! After his historic 40-40 season last year, he's picking up right where he left off with another spectacular show of power!",
             "start_time": 186.76
-          },
-          {
-            "p": "An absolute web gem! Acuña races to the wall, times his leap perfectly, and robs a sure home run! The crowd goes wild as he shows why he's one of the most electrifying players in baseball!",
-            "start_time": 297.44
           }
         ],
         "Red_Sox_vs_Yankees": [
@@ -851,7 +821,7 @@
             "start_time": 289.83
           },
           {
-            "p": "Bullpen shuts it down in classic Dodgers style. Another win against the Giants - this rivalry keeps getting better!",
+            "p": "This bullpen performance ranks among the best in the rivalry's history - echoes of the dominant relief corps from the 1965 pennant race.",
             "start_time": 437.55
           },
           {
@@ -880,6 +850,38 @@
       "season-ticket-holder": "Half Season Ticket Member",
       "family-with-kids": "Yes",
       "highlights": {
+        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
+          {
+            "p": "<strong>Classic Rivalry</strong>: The ghosts of baseball past echo through Yankee Stadium as this storied rivalry writes its newest chapter. Just like the Brooklyn days, a Dodgers-Yankees World Series brings out the purest essence of baseball tradition. Verdugo carries the weight of pinstripe history as he steps to the plate.",
+            "start_time": 9.02
+          },
+          {
+            "p": "<strong>Historic Turnaround</strong>: In all my years watching baseball, this comeback ranks among the most memorable. From the Subway Series of the '50s to today, the Dodgers-Yankees rivalry continues to produce unforgettable moments. This 5-0 collapse will be remembered alongside the classic games of yesteryear.",
+            "start_time": 59.7
+          },
+          {
+            "p": "<strong>Baseball Tradition</strong>: The sight of celebration in the Cathedral of Baseball brings back memories of past World Series classics. While the outcome stings, it adds another chapter to baseball's greatest rivalry - a story that began in Brooklyn and continues to captivate generations of fans.",
+            "start_time": 140.63
+          }
+        ],
+        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
+          {
+            "p": "<strong>Timeless Rivalry</strong>: The 12th meeting between these storied franchises brings back memories of the Subway Series days. Just like when Jackie Robinson faced Whitey Ford, the Yankees-Dodgers rivalry still captures baseball's purest essence. From Brooklyn to LA, some things never change.",
+            "start_time": 36.58
+          },
+          {
+            "p": "<strong>Classic Ballpark</strong>: There's something magical about October baseball in Yankee Stadium. The shadows stretching across the infield remind me of those golden afternoon games of the '50s and '60s. The ghosts of DiMaggio and Mantle still roam these grounds.",
+            "start_time": 99.44
+          },
+          {
+            "p": "<strong>Baseball Heritage</strong>: Watching Volpe's grand slam brings back memories of Bucky Dent's heroics in '78. A New York kid living out his dreams in pinstripes - some stories are simply timeless. The Stadium shaking just like it did in the days of Reggie and Thurman.",
+            "start_time": 394.19
+          },
+          {
+            "p": "<strong>Eternal Game</strong>: This series had everything that makes baseball timeless - clutch hitting, strategic pitching changes, dramatic comebacks. From the Dodgers' origins in Brooklyn to today's modern classic, baseball's greatest rivalry adds another chapter to its storied history.",
+            "start_time": 701.24
+          }
+        ],
         "Dodgers_vs_Yankees_World_Series": [
           {
             "p": "The Fall Classic returns to the Cathedral of Baseball for Game 3. These shadows stretching across the infield remind me of the golden age - when the Brooklyn Dodgers would make that fateful trip up to the Bronx to face our beloved Bombers. The electricity in the air hasn't changed since those classic matchups of the '50s.",
@@ -892,34 +894,6 @@
           {
             "p": "Watching Judge step in against Buehler brings back memories of those epic at-bats between Mickey Mantle and Don Newcombe. The Stadium may be new, but that familiar October chill in the Bronx air takes me right back to when this matchup was an annual autumn ritual between baseball's greatest franchises.",
             "start_time": 199.08
-          }
-        ],
-        "FINAL_OUT_The_Dodgers_win_the_2024_World_Series": [
-          {
-            "p": "As a lifelong Yankees fan who's witnessed countless October classics, watching Verdugo step into that box reminds me of the tension when Yogi Berra faced Don Newcombe in Game 7 of '56. The weight of Yankees history rests on every pitch in these moments.",
-            "start_time": 0.0
-          },
-          {
-            "p": "This heartbreaking 5-0 collapse echoes the pain of the '04 ALCS, though the Yankees' resilient spirit remains unchanged since the days of DiMaggio. The ghosts of Yankees past must be stirring in Monument Park, watching our modern-day warriors battle till the final out.",
-            "start_time": 59.7
-          },
-          {
-            "p": "Walker Buehler's heroic relief appearance, coming in on short rest, brings back memories of Whitey Ford's gutsy performances in the '61 Series. While the outcome stings for us Yankees faithful, this is the kind of classic baseball moment that makes our sport timeless.",
-            "start_time": 140.63
-          }
-        ],
-        "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": [
-          {
-            "p": "Juan Soto's pennant-clinching homer for our Yankees brought back memories of Chris Chambliss in '76 and Bucky Dent in '78. The electricity in the stadium, the roar of the crowd - it was pure October baseball, just like the old days when Mantle and Maris patrolled these hallowed grounds.",
-            "start_time": 0.1
-          },
-          {
-            "p": "Watching Judge and Stanton in pinstripes reminds me of the power duos of our storied past - Gehrig and Ruth, Mantle and Maris. That Stantonian blast to take the lead had all the majesty of those towering shots that used to land in the old Stadium's monuments when they were still in play.",
-            "start_time": 99.44
-          },
-          {
-            "p": "This series against the Dodgers brings back the golden age - our 12th World Series matchup. Every pitch echoes the drama of Don Larsen's perfect game in '56, every play carries the weight of those classic Yankees-Dodgers battles when baseball truly was America's pastime. Though the outcome wasn't what we hoped for, the pride of wearing those pinstripes never fades.",
-            "start_time": 326.23
           }
         ],
         "Dodgers_vs_Yankees_World_Series_Game_5": [
@@ -1005,99 +979,27 @@
   "fan-schema": [
     {
       "Fan Type": "Die-hard Team Loyalist",
-      "Age Range": "18-65",
-      "Background": "Lifelong fan, often local",
-      "Engagement Level": "High",
-      "Favorite Aspects": "Team history, rivalries",
-      "Viewing Habits": "Watches every game, attends live",
-      "Goals": "Support team through thick and thin",
-      "Challenges": "Managing emotions during losing seasons and finding highlights of every game",
-      "No. of Games Attended (2024)": "10-25",
-      "No. of Games Watched on MLB.TV": "100-162",
-      "No. of Minutes Watched on MLB.TV": "1000-1500",
-      "Family": "Family, Kids",
-      "USD Spent on MLB Shop": "800-3,000",
-      "Season Ticket Holder": "Full, Half, Quarter"
+      "description": "Most engaged fan segment with highest game attendance and digital  viewership. Consistently high merchandise spending and likely to hold season tickets. Extremely active in team-related content consumption."
     },
     {
       "Fan Type": "Player Enthusiast",
-      "Age Range": "15-45",
-      "Background": "Follows player careers",
-      "Engagement Level": "Medium to High",
-      "Favorite Aspects": "Player stats, achievements",
-      "Viewing Habits": "Watches games featuring favorite players",
-      "Goals": "See favorite players succeed and break records",
-      "Challenges": "Players changing teams or retiring, finding highlights for player performances",
-      "No. of Games Attended (2024)": "3-12",
-      "No. of Games Watched on MLB.TV": "40-100",
-      "No. of Minutes Watched on MLB.TV": "500-800",
-      "Family": "Single, Kids",
-      "USD Spent on MLB Shop": "300-1,200",
-      "Season Ticket Holder": "Quarter, Single"
+      "description": "Moderate overall engagement focused on specific players. Shows high engagement with player-specific content and merchandise. Regular viewer of games featuring favorite players."
     },
     {
       "Fan Type": "Casual Viewer",
-      "Age Range": "25-50",
-      "Background": "General sports interest",
-      "Engagement Level": "Low",
-      "Favorite Aspects": "Exciting moments, highlights",
-      "Viewing Habits": "Watches highlights, big games",
-      "Goals": "Stay informed about major events",
-      "Challenges": "Keeping up with detailed game knowledge and finding concise highlights",
-      "No. of Games Attended (2024)": "0-2",
-      "No. of Games Watched on MLB.TV": "5-20",
-      "No. of Minutes Watched on MLB.TV": "500-3,000",
-      "Family": "Family, Single",
-      "USD Spent on MLB Shop": "50-250",
-      "Season Ticket Holder": "Single"
+      "description": "Lower regular engagement but spikes during major events. Occasional game attendance and moderate highlights consumption. Limited merchandise purchases focused on popular items."
     },
     {
       "Fan Type": "Game Analyst",
-      "Age Range": "30-60",
-      "Background": "Analytical mindset, often played baseball",
-      "Engagement Level": "Medium to High",
-      "Favorite Aspects": "Strategy, game mechanics",
-      "Viewing Habits": "Analyzes games, enjoys detailed commentary",
-      "Goals": "Understand and appreciate game strategy",
-      "Challenges": "Finding in-depth analysis and accessing highlights of strategic plays",
-      "No. of Games Attended (2024)": "6-12",
-      "No. of Games Watched on MLB.TV": "50-120",
-      "No. of Minutes Watched on MLB.TV": "8,000-20,000",
-      "Family": "Family, Single",
-      "USD Spent on MLB Shop": "400-1,000",
-      "Season Ticket Holder": "Half, Quarter"
+      "description": "High engagement with statistical content and detailed game analysis. Strong digital  usage focused on specific game situations. Moderate merchandise spending on technical gear."
     },
     {
       "Fan Type": "Big Event Fan",
-      "Age Range": "20-55",
-      "Background": "Enjoys spectacle and drama",
-      "Engagement Level": "Low to Medium",
-      "Favorite Aspects": "High-stakes games, records",
-      "Viewing Habits": "Watches playoffs, All-Star games",
-      "Goals": "Experience excitement of major events",
-      "Challenges": "Missing out on regular season context and finding highlights conveying drama",
-      "No. of Games Attended (2024)": "1-5",
-      "No. of Games Watched on MLB.TV": "10-40",
-      "No. of Minutes Watched on MLB.TV": "2,000-8,000",
-      "Family": "Family, Single",
-      "USD Spent on MLB Shop": "150-500",
-      "Season Ticket Holder": "Single"
+      "description": "Concentrated engagement during playoffs and special events. High viewership of marquee games and significant event-related merchandise purchases. Limited regular season engagement."
     },
     {
       "Fan Type": "Nostalgic Fan",
-      "Age Range": "40-70",
-      "Background": "Grew up watching baseball's golden era",
-      "Engagement Level": "Medium",
-      "Favorite Aspects": "Classic games, legendary players",
-      "Viewing Habits": "Watches classic games, documentaries",
-      "Goals": "Relive golden moments of baseball history",
-      "Challenges": "Finding quality highlights of classic games and players from past eras",
-      "No. of Games Attended (2024)": "0-3",
-      "No. of Games Watched on MLB.TV": "5-15",
-      "No. of Minutes Watched on MLB.TV": "500-4,000",
-      "Family": "Family, Single",
-      "USD Spent on MLB Shop": "100-400",
-      "Season Ticket Holder": "Single"
+      "description": "Strong engagement with historical content and classic game replays. Regular viewer of documentaries and legacy content. High collector's item purchases from team shops."
     }
   ],
   "prompts": {

@@ -49,7 +49,13 @@ const homePage = html`
           <div class="card-body">
             <h5 class="card-title">${advisor.name}</h5>
             <h6 class="card-subtitle mb-2">
-              ${advisor["fan-type"]} <i id="info" class="bi bi-info-square-fill hover-blue"></i>
+              ${advisor["fan-type"]} 
+              <i class="bi bi-info-circle-fill hover-blue" 
+                data-bs-toggle="tooltip" 
+                data-bs-placement="right"
+                data-bs-trigger="hover"
+                title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
+              </i>
             </h6>
             <div class="card-text">
               <div class="mb-3">
@@ -196,7 +202,14 @@ async function renderApp(videoId, advisorId) {
         </div>
       </div>
       <div class="mt-3">
-      <p><strong>Fan Type</strong>: ${advisor["fan-type"]}</p>
+      <p><strong>Fan Type</strong>: ${advisor["fan-type"]} 
+        <i class="bi bi-info-circle-fill hover-blue" 
+          data-bs-toggle="tooltip" 
+          data-bs-placement="right"
+          data-bs-trigger="hover"
+          title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
+        </i>
+      </p>
         <p><strong>Favorite Team</strong>: ${advisor["favorite-teams"]}</p>
         <p><strong>Favorite Player</strong>: ${advisor["favorite-players"]}</p>
       </div>
@@ -268,62 +281,26 @@ async function redraw() {
     show({ home: false, screen: true, app: true });
     await renderApp(videoId, hash.get("advisor"));
   }
+  initTooltips();
 }
 
 window.addEventListener("hashchange", redraw);
 
-// Function to render fan schema in modal
-function renderFanSchema(name) {
-  // Find the advisor by name
-  const advisor = Object.values(config.advisors).find(a => a.name === name);
-  if (!advisor) return;
-
-  // Find the schema for this fan type
-  const schema = config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]);
-  if (!schema) return;
-
-  const modal = document.getElementById("fanTypeModal");
-  const modalBody = modal.querySelector(".modal-body");
-  const modalTitle = modal.querySelector(".modal-title");
-
-  // Update modal title
-  modalTitle.textContent = `${advisor.name} - ${advisor["fan-type"]}`;
-
-  // Update modal content
-  modalBody.innerHTML = `
-    <div class="row">
-      <div class="col-md-3">
-        <img src="${advisor.img}" class="img-fluid rounded-circle mb-3" alt="${advisor.name}">
-      </div>
-      <div class="col-md-9">
-        <h4>Background</h4>
-        <p>${schema.Background}</p>
-        
-        <h4>Favorite Aspects</h4>
-        <p>${schema["Favorite Aspects"]}</p>
-        
-        <h4>Viewing Habits</h4>
-        <p>${schema["Viewing Habits"]}</p>
-        
-        <h4>Challenges</h4>
-        <p>${schema.Challenges}</p>
-      </div>
-    </div>
-  `;
-
-  // Show the modal
-  const bootstrapModal = new bootstrap.Modal(modal);
-  bootstrapModal.show();
+// Initialize tooltips
+function initTooltips() {
+  const tooltips = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+  tooltips.forEach(el => {
+    if (!bootstrap.Tooltip.getInstance(el)) {
+      new bootstrap.Tooltip(el, {
+        trigger: 'hover',
+        placement: 'right',
+        html: false
+      });
+    }
+  });
 }
 
-// Add event listener for info icon click
-$home.addEventListener("click", (e) => {
-  if (e.target.closest("#info")) {
-    const card = e.target.closest(".card");
-    const name = card.querySelector(".card-title").textContent.trim();
-    renderFanSchema(name);
-  }
-});
+document.addEventListener('DOMContentLoaded', initTooltips);
 
 window.onYouTubeIframeAPIReady = function () {
   player = new YT.Player("video", {

@@ -21,29 +21,41 @@
     }
 
     .hover-blue {
-      color: #0d6efd !important;  /* Bootstrap's primary blue color */
+      color: #0d6efd !important;
+      /* Bootstrap's primary blue color */
     }
 
     .hover-blue:hover {
-      color: #6c757d !important;  /* Bootstrap's text-muted color */
+      color: #6c757d !important;
+      /* Bootstrap's text-muted color */
       cursor: pointer;
     }
 
     .hover-info {
-      color: #17a2b8 !important;  /* Bootstrap's info blue color */
+      color: #17a2b8 !important;
+      /* Bootstrap's info blue color */
     }
 
     .hover-info:hover {
-      color: #138496 !important;  /* Bootstrap's info blue hover color */
+      color: #138496 !important;
+      /* Bootstrap's info blue hover color */
       cursor: pointer;
-    }
-
-    .modal-dialog.modal-xl {
-      max-width: 95%;
     }
 
     .table td {
       min-width: 120px;
+    }
+
+    /* Custom tooltip styles */
+    .tooltip {
+      font-size: 0.875rem;
+      
+    }
+    
+    .tooltip-inner {
+      max-width: 250px;
+      padding: 8px 12px;
+      text-align: left;
     }
   </style>
 </head>
@@ -122,7 +134,8 @@
 
     <h2 class="h3">How much does it cost?</h2>
     <p>For Whisper on OpenAI with Claude 3 Haiku, the typical cost of a 20-minute video personalized for 6 fans is
-      <strong>under 30 cents</strong>, and grows at about 3 cents per fan.</p>
+      <strong>under 30 cents</strong>, and grows at about 3 cents per fan.
+    </p>
 
     <h2 class="h3">Can this run privately?</h2>
     <p><strong>Yes</strong>. With open-weight models like <a href="https://github.com/openai/whisper">Whisper</a> and <a
@@ -139,20 +152,7 @@
         class="text-reset link-offset-3 link-underline link-underline-opacity-25">Gramener</a></h1>
   </footer>
 
-  <div class="modal fade" id="fanTypeModal" tabindex="-1">
-    <div class="modal-dialog modal-lg">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title"></h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js" type="module" a></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/@gramex/ui/dist/dark-theme.js" type="module"></script>
   <script defer type="module" src="script.js"></script>
 </body>
