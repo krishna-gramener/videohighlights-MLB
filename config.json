@@ -6,7 +6,7 @@
       "url": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
       "video": "https://www.mlb.com/video/final-out-dodgers-win-2024-world-series",
       "youtube": "5dGZffKDYr4",
-      "transcript": "videos/FINAL_OUT_The_Dodgers_win_the_2024_World_Series.json"
+      "transcript": "assets/videos/FINAL_OUT_The_Dodgers_win_the_2024_World_Series.json"
     },
     "Dodgers_take_home_title_in_epic_5_games_vs_Yankees": {
       "source": "mlb",
@@ -14,7 +14,7 @@
       "url": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
       "video": "https://www.mlb.com/video/dodgers-take-home-title-in-epic-5-games-vs-yankees",
       "youtube": "1hzr56sIIBI",
-      "transcript": "videos/Dodgers_take_home_title_in_epic_5_games_vs_Yankees.json"
+      "transcript": "assets/videos/Dodgers_take_home_title_in_epic_5_games_vs_Yankees.json"
     },
     "Dodgers_vs_Yankees_World_Series": {
       "source": "mlb",
@@ -22,7 +22,7 @@
       "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series",
       "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series",
       "youtube": "4wvPYubV6cg",
-      "transcript": "videos/Dodgers_vs_Yankees_World_Series.json"
+      "transcript": "assets/videos/Dodgers_vs_Yankees_World_Series.json"
     },
     "Dodgers_vs_Yankees_World_Series_Game_5": {
       "source": "mlb",
@@ -30,7 +30,7 @@
       "url": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
       "video": "https://www.mlb.com/video/dodgers-vs-yankees-world-series-game-5",
       "youtube": "j3ykZoQMJLI",
-      "transcript": "videos/Dodgers_vs_Yankees_World_Series_Game_5.json"
+      "transcript": "assets/videos/Dodgers_vs_Yankees_World_Series_Game_5.json"
     },
     "Ronald_Acuña_Jr": {
       "source": "mlb",
@@ -38,7 +38,7 @@
       "url": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
       "video": "https://www.mlb.com/video/ronald-acuna-jr-highlights",
       "youtube": "K5ZSoLLwZ9c",
-      "transcript": "videos/Ronald_Acuña_Jr.json"
+      "transcript": "assets/videos/Ronald_Acuña_Jr.json"
     },
     "Red_Sox_vs_Yankees": {
       "source": "mlb",
@@ -46,7 +46,7 @@
       "url": "https://www.mlb.com/video/red-sox-vs-yankees",
       "video": "https://www.mlb.com/video/red-sox-vs-yankees",
       "youtube": "re3XQhF1CeQ",
-      "transcript": "videos/Red_Sox_vs_Yankees_Game.json"
+      "transcript": "assets/videos/Red_Sox_vs_Yankees.json"
     },
     "Mariners_vs_Angels": {
       "source": "mlb",
@@ -54,7 +54,7 @@
       "url": "https://www.mlb.com/video/mariners-vs-angels",
       "video": "https://www.mlb.com/video/mariners-vs-angels",
       "youtube": "IVJg2l5JWRI",
-      "transcript": "videos/Mariners_vs_Angels.json"
+      "transcript": "assets/videos/Mariners_vs_Angels.json"
     },
     "Dodgers_vs_Giants_Highlights": {
       "source": "mlb",
@@ -62,7 +62,7 @@
       "url": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
       "video": "https://www.mlb.com/video/dodgers-vs-giants-highlights",
       "youtube": "WS0RGpeZK9w",
-      "transcript": "videos/Dodgers_vs_Giants_Highlights.json"
+      "transcript": "assets/videos/Dodgers_vs_Giants_Highlights.json"
     },
     "470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball": {
       "source": "mlb",
@@ -70,12 +70,12 @@
       "url": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
       "video": "https://www.mlb.com/video/470-feet-ronald-acu%C3%B1a-jr-absolutely-demolished-this-baseball",
       "youtube": "4jeT8nEpWNE",
-      "transcript": "videos/470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball.json"
+      "transcript": "assets/videos/470_FEET_Ronald_Acuña_Jr_ABSOLUTELY_DEMOLISHED_this_baseball.json"
     }
   },
   "advisors": {
     "kevin-edwards": {
-      "img": "img/yankees-family.jpg",
+      "img": "assets/img/yankees-family.jpg",
       "name": "Kevin Edwards",
       "fan-type": "Die-hard Team Loyalist",
       "description": "Background: Lifelong fan, often local | Favourite Aspects: Team history, rivalries | Viewing Habits: Watches every game, attends live | Goals: Support team through thick and thin",
@@ -206,7 +206,7 @@
       }
     },
     "sarah-johnson": {
-      "img": "img/angels.jpg",
+      "img": "assets/img/angels.jpg",
       "name": "Sarah Johnson",
       "fan-type": "Player Enthusiast",
       "description": "Background: Follows favourite player career and only the teams they play in| Favourite Aspects: Player stats, achievements | Viewing Habits: Watches games featuring favorite players | Goals: See favorite players succeed and break records",
@@ -337,7 +337,7 @@
       }
     },
     "alex-martinez": {
-      "img": "img/dodgers.jpg",
+      "img": "assets/img/dodgers.jpg",
       "name": "Alex Martinez",
       "fan-type": "Casual Viewer",
       "description": "Background: General sports interest | Favourite Aspects: Exciting moments, highlights | Viewing Habits: Watches highlights, big games | Goals: Stay informed about major events",
@@ -500,7 +500,7 @@
       }
     },
     "emily-davis": {
-      "img": "img/emily.jpg",
+      "img": "assets/img/emily.jpg",
       "name": "Emily Davis",
       "fan-type": "Game Analyst",
       "description": "Background: Analytical mindset, often played baseball | Favourite Aspects: Strategy, game mechanics | Viewing Habits: Analyzes games, enjoys detailed commentary | Goals: Understand and appreciate game strategy",
@@ -661,7 +661,7 @@
       }
     },
     "chris-lee": {
-      "img": "img/braves.jpg",
+      "img": "assets/img/braves.jpg",
       "name": "Chris Lee",
       "fan-type": "Big Event Fan",
       "description": "Background: Enjoys spectacle and drama | Favourite Aspects: High-stakes games, records | Viewing Habits: Watches playoffs, All-Star games | Goals: Experience excitement of major events",
@@ -788,7 +788,7 @@
       }
     },
     "charles-harris": {
-      "img": "img/yankees.jpg",
+      "img": "assets/img/yankees.jpg",
       "name": "Charles Harris",
       "fan-type": "Nostalgic Fan",
       "description": "Background: Grew up watching baseball's golden era | Favourite Aspects: Classic games, legendary players | Viewing Habits: Watches classic games, documentaries | Goals: Relive golden moments of baseball history",
