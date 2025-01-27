@@ -54,7 +54,7 @@ const homePage = html`
                 data-bs-toggle="tooltip" 
                 data-bs-placement="right"
                 data-bs-trigger="hover"
-                title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
+                data-bs-original-title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
               </i>
             </h6>
             <div class="card-text">
@@ -207,7 +207,7 @@ async function renderApp(videoId, advisorId) {
           data-bs-toggle="tooltip" 
           data-bs-placement="right"
           data-bs-trigger="hover"
-          title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
+          data-bs-original-title="${config["fan-schema"].find(s => s["Fan Type"] === advisor["fan-type"]).description}">
         </i>
       </p>
         <p><strong>Favorite Team</strong>: ${advisor["favorite-teams"]}</p>
